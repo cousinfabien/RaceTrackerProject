@@ -66,12 +66,14 @@ model VehicleModel {
   basePP Decimal @db.Decimal(5,2)
   basePower Int
   baseWeight Int
+  Year Int?
 
   category String?
 
   createdAt DateTime @default(now())
 
   setups DriverCarSetup[]
+  @@unique([manufacturer, model])
 }
 
 model DriverEntry {
