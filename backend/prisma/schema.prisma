@@ -145,7 +145,7 @@ model Track {
 
   races Race[]
 
-  @@unique([name, layout])
+  @@unique([name, layout], name: "name_layout")
 }
 
 model Result {
