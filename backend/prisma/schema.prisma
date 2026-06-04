@@ -141,8 +141,6 @@ model Track {
 
   trackLength Float?
 
-  imageUrl String?
-
   createdAt DateTime @default(now())
 
   races Race[]
