@@ -1,0 +1,716 @@
+[
+  {
+    "name": "Alsace",
+    "layout": "Site d'essais",
+    "country": "France",
+    "trackLength": 2.118
+  },
+  {
+    "name": "Alsace",
+    "layout": "Site d'essais / Inversé",
+    "country": "France",
+    "trackLength": 2.118
+  },
+  {
+    "name": "Alsace",
+    "layout": "Village",
+    "country": "France",
+    "trackLength": 5.423
+  },
+  {
+    "name": "Alsace",
+    "layout": "Village / Inversé",
+    "country": "France",
+    "trackLength": 5.423
+  },
+  {
+    "name": "Autodrome Lago Maggiore",
+    "layout": "Centre",
+    "country": "Italie",
+    "trackLength": 1.706
+  },
+  {
+    "name": "Autodrome Lago Maggiore",
+    "layout": "Centre inversé",
+    "country": "Italie",
+    "trackLength": 1.706
+  },
+  {
+    "name": "Autodrome Lago Maggiore",
+    "layout": "Est",
+    "country": "Italie",
+    "trackLength": 3.643
+  },
+  {
+    "name": "Autodrome Lago Maggiore",
+    "layout": "Est inversé",
+    "country": "Italie",
+    "trackLength": 3.643
+  },
+  {
+    "name": "Autodrome Lago Maggiore",
+    "layout": "Extrémité est",
+    "country": "Italie",
+    "trackLength": 2.01
+  },
+  {
+    "name": "Autodrome Lago Maggiore",
+    "layout": "Extrémité est inversé",
+    "country": "Italie",
+    "trackLength": 2.01
+  },
+  {
+    "name": "Autodrome Lago Maggiore",
+    "layout": "Extrémité ouest",
+    "country": "Italie",
+    "trackLength": 2.444
+  },
+  {
+    "name": "Autodrome Lago Maggiore",
+    "layout": "Extrémité ouest inversé",
+    "country": "Italie",
+    "trackLength": 2.444
+  },
+  {
+    "name": "Autodrome Lago Maggiore",
+    "layout": "Ouest",
+    "country": "Italie",
+    "trackLength": 4.168
+  },
+  {
+    "name": "Autodrome Lago Maggiore",
+    "layout": "Ouest inversé",
+    "country": "Italie",
+    "trackLength": 4.168
+  },
+  {
+    "name": "Autodrome Lago Maggiore",
+    "layout": "Totalité du parcours",
+    "country": "Italie",
+    "trackLength": 5.809
+  },
+  {
+    "name": "Autodrome Lago Maggiore",
+    "layout": "Totalité du parcours inversé",
+    "country": "Italie",
+    "trackLength": 5.809
+  },
+  {
+    "name": "Autodromo Nazionale Monza",
+    "layout": null,
+    "country": "Italie",
+    "trackLength": 5.793
+  },
+  {
+    "name": "Autodromo Nazionale Monza",
+    "layout": "Sans chicane",
+    "country": "Italie",
+    "trackLength": 5.755
+  },
+  {
+    "name": "Autódromo de Interlagos",
+    "layout": null,
+    "country": "Brésil",
+    "trackLength": 4.309
+  },
+  {
+    "name": "Autopolis International Racing Course",
+    "layout": null,
+    "country": "Japon",
+    "trackLength": 4.674
+  },
+  {
+    "name": "Autopolis International Racing Course",
+    "layout": "Parcours court",
+    "country": "Japon",
+    "trackLength": 3.022
+  },
+  {
+    "name": "Blue Moon Bay Speedway",
+    "layout": null,
+    "country": "États-Unis",
+    "trackLength": 3.2
+  },
+  {
+    "name": "Blue Moon Bay Speedway",
+    "layout": "Central A",
+    "country": "États-Unis",
+    "trackLength": 3.35
+  },
+  {
+    "name": "Blue Moon Bay Speedway",
+    "layout": "Central A / Inversé",
+    "country": "États-Unis",
+    "trackLength": 3.35
+  },
+  {
+    "name": "Blue Moon Bay Speedway",
+    "layout": "Central B",
+    "country": "États-Unis",
+    "trackLength": 2.86
+  },
+  {
+    "name": "Blue Moon Bay Speedway",
+    "layout": "Central B / Inversé",
+    "country": "États-Unis",
+    "trackLength": 2.86
+  },
+  {
+    "name": "Blue Moon Bay Speedway / Inversé",
+    "layout": null,
+    "country": "États-Unis",
+    "trackLength": 3.2
+  },
+  {
+    "name": "Brands Hatch Grand Prix Circuit",
+    "layout": null,
+    "country": "Royaume-Uni",
+    "trackLength": 3.946
+  },
+  {
+    "name": "Brands Hatch Indy Circuit",
+    "layout": null,
+    "country": "Royaume-Uni",
+    "trackLength": 1.944
+  },
+  {
+    "name": "BB Raceway",
+    "layout": null,
+    "country": "Japon",
+    "trackLength": 1.665
+  },
+  {
+    "name": "BB Raceway / Inversé",
+    "layout": null,
+    "country": "Japon",
+    "trackLength": 1.665
+  },
+  {
+    "name": "Circuit Gilles-Villeneuve",
+    "layout": null,
+    "country": "Canada",
+    "trackLength": 4.361
+  },
+  {
+    "name": "Circuit Yas Marina",
+    "layout": null,
+    "country": "Émirats arabes unis",
+    "trackLength": 5.281
+  },
+  {
+    "name": "Circuit de Barcelona-Catalunya tracé Grand Prix",
+    "layout": null,
+    "country": "Espagne",
+    "trackLength": 4.655
+  },
+  {
+    "name": "Circuit de Barcelona-Catalunya tracé Grand Prix sans chicane",
+    "layout": null,
+    "country": "Espagne",
+    "trackLength": 4.73
+  },
+  {
+    "name": "Circuit de Barcelona-Catalunya tracé Rallycross",
+    "layout": null,
+    "country": "Espagne",
+    "trackLength": 1.133
+  },
+  {
+    "name": "Circuit de Barcelona-Catalunya tracé national",
+    "layout": null,
+    "country": "Espagne",
+    "trackLength": 2.977
+  },
+  {
+    "name": "Circuit de Sainte-Croix",
+    "layout": "A",
+    "country": "France",
+    "trackLength": 9.477
+  },
+  {
+    "name": "Circuit de Sainte-Croix",
+    "layout": "A / Inversé",
+    "country": "France",
+    "trackLength": 9.477
+  },
+  {
+    "name": "Circuit de Sainte-Croix",
+    "layout": "B",
+    "country": "France",
+    "trackLength": 7.062
+  },
+  {
+    "name": "Circuit de Sainte-Croix",
+    "layout": "B / Inversé",
+    "country": "France",
+    "trackLength": 7.062
+  },
+  {
+    "name": "Circuit de Sainte-Croix",
+    "layout": "C",
+    "country": "France",
+    "trackLength": 10.825
+  },
+  {
+    "name": "Circuit de Sainte-Croix",
+    "layout": "C / Inversé",
+    "country": "France",
+    "trackLength": 10.825
+  },
+  {
+    "name": "Circuit de Spa-Francorchamps",
+    "layout": null,
+    "country": "Belgique",
+    "trackLength": 7.004
+  },
+  {
+    "name": "Tracé des 24 Heures de Spa",
+    "layout": null,
+    "country": "Belgique",
+    "trackLength": 7.004
+  },
+  {
+    "name": "Circuit des 24 Heures du Mans",
+    "layout": null,
+    "country": "France",
+    "trackLength": 13.629
+  },
+  {
+    "name": "Circuit des 24 Heures du Mans",
+    "layout": "Sans chicane",
+    "country": "France",
+    "trackLength": 13.567
+  },
+  {
+    "name": "Colorado Springs",
+    "layout": "Lac",
+    "country": "États-Unis",
+    "trackLength": 2.99
+  },
+  {
+    "name": "Colorado Springs",
+    "layout": "Lac / Inversé",
+    "country": "États-Unis",
+    "trackLength": 2.99
+  },
+  {
+    "name": "Daytona",
+    "layout": "Circuit routier",
+    "country": "États-Unis",
+    "trackLength": 5.729
+  },
+  {
+    "name": "Daytona",
+    "layout": "Tri-ovale",
+    "country": "États-Unis",
+    "trackLength": 4.023
+  },
+  {
+    "name": "Deep Forest Raceway",
+    "layout": null,
+    "country": "Suisse",
+    "trackLength": 4.253
+  },
+  {
+    "name": "Deep Forest Raceway",
+    "layout": "Inversé",
+    "country": "Suisse",
+    "trackLength": 4.253
+  },
+  {
+    "name": "Dragon Trail",
+    "layout": "Bord de mer",
+    "country": "Croatie",
+    "trackLength": 5.209
+  },
+  {
+    "name": "Dragon Trail",
+    "layout": "Bord de mer / Inversé",
+    "country": "Croatie",
+    "trackLength": 5.209
+  },
+  {
+    "name": "Dragon Trail",
+    "layout": "Jardins",
+    "country": "Croatie",
+    "trackLength": 4.352
+  },
+  {
+    "name": "Dragon Trail",
+    "layout": "Jardins / Inversé",
+    "country": "Croatie",
+    "trackLength": 4.352
+  },
+  {
+    "name": "Eiger Nordwand",
+    "layout": null,
+    "country": "Suisse",
+    "trackLength": 2.436
+  },
+  {
+    "name": "Eiger Nordwand",
+    "layout": "Inversé",
+    "country": "Suisse",
+    "trackLength": 2.436
+  },
+  {
+    "name": "Fishermans Ranch",
+    "layout": null,
+    "country": "États-Unis",
+    "trackLength": 6.893
+  },
+  {
+    "name": "Fishermans Ranch / Inversé",
+    "layout": null,
+    "country": "États-Unis",
+    "trackLength": 6.893
+  },
+  {
+    "name": "Fuji International Speedway",
+    "layout": null,
+    "country": "Japon",
+    "trackLength": 4.563
+  },
+  {
+    "name": "Fuji International Speedway",
+    "layout": "Court",
+    "country": "Japon",
+    "trackLength": 4.526
+  },
+  {
+    "name": "Goodwood Motor Circuit",
+    "layout": null,
+    "country": "Royaume-Uni",
+    "trackLength": 3.809
+  },
+  {
+    "name": "Grand Valley",
+    "layout": "Route 1",
+    "country": "États-Unis",
+    "trackLength": 5.099
+  },
+  {
+    "name": "Grand Valley",
+    "layout": "Route 1 Inversé",
+    "country": "États-Unis",
+    "trackLength": 5.099
+  },
+  {
+    "name": "Grand Valley",
+    "layout": "Sud",
+    "country": "États-Unis",
+    "trackLength": 3.076
+  },
+  {
+    "name": "Grand Valley",
+    "layout": "Sud Inversé",
+    "country": "États-Unis",
+    "trackLength": 3.076
+  },
+  {
+    "name": "High Speed Ring",
+    "layout": null,
+    "country": "Japon",
+    "trackLength": 4.345
+  },
+  {
+    "name": "High Speed Ring",
+    "layout": "Inversé",
+    "country": "Japon",
+    "trackLength": 4.345
+  },
+  {
+    "name": "Kyoto Driving Park",
+    "layout": "Miyabi",
+    "country": "Japon",
+    "trackLength": 1.953
+  },
+  {
+    "name": "Kyoto Driving Park",
+    "layout": "Yamagiwa",
+    "country": "Japon",
+    "trackLength": 4.912
+  },
+  {
+    "name": "Kyoto Driving Park",
+    "layout": "Yamagiwa + Miyabi / Inversé",
+    "country": "Japon",
+    "trackLength": 6.846
+  },
+  {
+    "name": "Kyoto Driving Park",
+    "layout": "Yamagiwa / Inversé",
+    "country": "Japon",
+    "trackLength": 4.912
+  },
+  {
+    "name": "Kyoto Driving Park",
+    "layout": "Yamagiwa + Miyabi",
+    "country": "Japon",
+    "trackLength": 6.846
+  },
+  {
+    "name": "Lake Louise",
+    "layout": "Circuit court",
+    "country": "Canada",
+    "trackLength": 2.577
+  },
+  {
+    "name": "Lake Louise",
+    "layout": "Circuit court inversé",
+    "country": "Canada",
+    "trackLength": 2.577
+  },
+  {
+    "name": "Lake Louise",
+    "layout": "Circuit long",
+    "country": "Canada",
+    "trackLength": 3.694
+  },
+  {
+    "name": "Lake Louise",
+    "layout": "Circuit long inversé",
+    "country": "Canada",
+    "trackLength": 3.694
+  },
+  {
+    "name": "Lake Louise",
+    "layout": "Tri-ovale",
+    "country": "Canada",
+    "trackLength": 3.068
+  },
+  {
+    "name": "Lake Louise",
+    "layout": "Tri-ovale inversé",
+    "country": "Canada",
+    "trackLength": 3.068
+  },
+  {
+    "name": "Michelin Raceway Road Atlanta",
+    "layout": null,
+    "country": "États-Unis",
+    "trackLength": 4.088
+  },
+  {
+    "name": "Mount Panorama Motor Racing Circuit",
+    "layout": null,
+    "country": "Australie",
+    "trackLength": 6.213
+  },
+  {
+    "name": "Northern Isle Speedway",
+    "layout": null,
+    "country": "États-Unis",
+    "trackLength": 0.9
+  },
+  {
+    "name": "24 Heures du Nürburgring",
+    "layout": null,
+    "country": "Allemagne",
+    "trackLength": 25.378
+  },
+  {
+    "name": "Nürburgring Endurance",
+    "layout": null,
+    "country": "Allemagne",
+    "trackLength": 23.864
+  },
+  {
+    "name": "Nürburgring GP",
+    "layout": null,
+    "country": "Allemagne",
+    "trackLength": 5.148
+  },
+  {
+    "name": "Nürburgring Nordschleife",
+    "layout": null,
+    "country": "Allemagne",
+    "trackLength": 20.832
+  },
+  {
+    "name": "Nürburgring Sprint",
+    "layout": null,
+    "country": "Allemagne",
+    "trackLength": 3.629
+  },
+  {
+    "name": "Red Bull Ring",
+    "layout": null,
+    "country": "Autriche",
+    "trackLength": 4.318
+  },
+  {
+    "name": "Red Bull Ring",
+    "layout": "Court",
+    "country": "Autriche",
+    "trackLength": 2.336
+  },
+  {
+    "name": "Sardegna",
+    "layout": "Éoliennes",
+    "country": "Italie",
+    "trackLength": 3.31
+  },
+  {
+    "name": "Sardegna",
+    "layout": "Éoliennes / Inversé",
+    "country": "Italie",
+    "trackLength": 3.31
+  },
+  {
+    "name": "Sardegna",
+    "layout": "Piste A",
+    "country": "Italie",
+    "trackLength": 5.113
+  },
+  {
+    "name": "Sardegna",
+    "layout": "Piste A / Inversé",
+    "country": "Italie",
+    "trackLength": 5.113
+  },
+  {
+    "name": "Sardegna",
+    "layout": "Piste B",
+    "country": "Italie",
+    "trackLength": 3.893
+  },
+  {
+    "name": "Sardegna",
+    "layout": "Piste B / Inversé",
+    "country": "Italie",
+    "trackLength": 3.893
+  },
+  {
+    "name": "Sardegna",
+    "layout": "Piste C",
+    "country": "Italie",
+    "trackLength": 2.661
+  },
+  {
+    "name": "Sardegna",
+    "layout": "Piste C / Inversé",
+    "country": "Italie",
+    "trackLength": 2.661
+  },
+  {
+    "name": "Special Stage Route X",
+    "layout": null,
+    "country": "États-Unis",
+    "trackLength": 30.283
+  },
+  {
+    "name": "Suzuka Circuit",
+    "layout": null,
+    "country": "Japon",
+    "trackLength": 5.807
+  },
+  {
+    "name": "Suzuka Circuit",
+    "layout": "Course Est",
+    "country": "Japon",
+    "trackLength": 2.243
+  },
+  {
+    "name": "Tokyo Expressway",
+    "layout": "Centrale dans le sens antihoraire",
+    "country": "Japon",
+    "trackLength": 4.369
+  },
+  {
+    "name": "Tokyo Expressway",
+    "layout": "Centrale dans le sens horaire",
+    "country": "Japon",
+    "trackLength": 4.405
+  },
+  {
+    "name": "Tokyo Expressway",
+    "layout": "Est dans le sens antihoraire",
+    "country": "Japon",
+    "trackLength": 7.192
+  },
+  {
+    "name": "Tokyo Expressway",
+    "layout": "Est dans le sens horaire",
+    "country": "Japon",
+    "trackLength": 7.301
+  },
+  {
+    "name": "Tokyo Expressway",
+    "layout": "Sud dans le sens antihoraire",
+    "country": "Japon",
+    "trackLength": 6.56
+  },
+  {
+    "name": "Tokyo Expressway",
+    "layout": "Sud dans le sens horaire",
+    "country": "Japon",
+    "trackLength": 5.201
+  },
+  {
+    "name": "Trial Mountain Circuit",
+    "layout": null,
+    "country": "États-Unis",
+    "trackLength": 5.434
+  },
+  {
+    "name": "Trial Mountain Circuit",
+    "layout": "Inversé",
+    "country": "États-Unis",
+    "trackLength": 5.434
+  },
+  {
+    "name": "Tsukuba Circuit",
+    "layout": null,
+    "country": "Japon",
+    "trackLength": 2.045
+  },
+  {
+    "name": "Watkins Glen",
+    "layout": "Parcours court",
+    "country": "États-Unis",
+    "trackLength": 3.942
+  },
+  {
+    "name": "Watkins Glen",
+    "layout": "Parcours long",
+    "country": "États-Unis",
+    "trackLength": 5.423
+  },
+  {
+    "name": "WeatherTech Raceway Laguna Seca",
+    "layout": null,
+    "country": "États-Unis",
+    "trackLength": 3.602
+  },
+  {
+    "name": "Willow Springs International Raceway",
+    "layout": "Big Willow",
+    "country": "États-Unis",
+    "trackLength": 3.951
+  },
+  {
+    "name": "Willow Springs International Raceway",
+    "layout": "Horse Thief Mile",
+    "country": "États-Unis",
+    "trackLength": 1.624
+  },
+  {
+    "name": "Willow Springs International Raceway",
+    "layout": "Horse Thief Mile / Inversé",
+    "country": "États-Unis",
+    "trackLength": 1.624
+  },
+  {
+    "name": "Willow Springs International Raceway",
+    "layout": "Streets of Willow Springs",
+    "country": "États-Unis",
+    "trackLength": 2.675
+  },
+  {
+    "name": "Willow Springs International Raceway",
+    "layout": "Streets of Willow Springs / Inversé",
+    "country": "États-Unis",
+    "trackLength": 2.675
+  }
+]

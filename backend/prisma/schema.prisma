@@ -4,10 +4,171 @@
 // Get a free hosted Postgres database in seconds: `npx create-db`
 
 generator client {
-  provider = "prisma-client"
-  output   = "../generated/prisma"
+  provider = "prisma-client-js"
 }
 
 datasource db {
   provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+enum UserRole {
+  DRIVER
+  ORGANIZER
+}
+
+enum VehicleCategory {
+  GR1
+  GR2
+  GR3
+  GR4
+  GRB
+}
+
+model User {
+  id        Int        @id @default(autoincrement())
+  username  String     @unique
+  email     String     @unique
+  password  String
+  role      UserRole
+  createdAt DateTime   @default(now())
+
+  organizedLeagues    League[]
+  driverEntries  DriverEntry[]
+}
+
+model League {
+  id      Int   @id @default(autoincrement())
+  name    String
+  description String?
+  createdAt DateTime @default(now())
+
+  organizerId Int
+  organizer  User    @relation(fields: [organizerId], references: [id])
+
+  regulations Regulation?
+  races Race[]
+  drivers DriverEntry[]
+}
+
+model Regulation{
+  id Int @id @default(autoincrement())
+  maxPP Decimal @db.Decimal(5, 2)
+  maxPower Int
+  minWeight Int
+  
+  allowedTyres String[]
+
+  bopEnabled Boolean @default(false)
+  tuningAllowed Boolean @default(true)
+
+  leagueId Int @unique
+  league League @relation(fields: [leagueId], references : [id])
+}
+
+model VehicleModel {
+  id Int @id @default(autoincrement())
+  manufacturer String
+  model String
+  
+
+  category VehicleCategory?
+  basePower Int?
+  baseWeight Int?
+
+  createdAt DateTime @default(now())
+
+  setups DriverCarSetup[]
+  @@unique([manufacturer, model])
+}
+
+model DriverEntry {
+  id Int @id @default(autoincrement())
+  
+  championshipPoints Int @default(0)
+
+  userId Int
+  user User @relation(fields: [userId], references: [id])
+  
+  leagueId Int
+  league League @relation(fields: [leagueId], references: [id])
+
+  carSetup DriverCarSetup?
+
+  results Result[]
+}
+
+model DriverCarSetup {
+  id Int @id @default(autoincrement())
+
+  currentPP Decimal @db.Decimal(5,2)
+  currentPower Int
+  currentWeight Int
+
+  tyres String
+
+  turboInstalled Boolean @default(false)
+  ballastApplied Boolean @default(false)
+
+  vehicleModelId Int
+  vehicleModel VehicleModel @relation(fields: [vehicleModelId], references: [id])
+
+  driverEntryId Int @unique
+  driverEntry DriverEntry @relation(fields: [driverEntryId], references: [id])
+  createdAt DateTime @default(now())
+}
+
+model Race {
+  id Int @id @default(autoincrement())
+
+  trackId Int
+  track Track @relation(fields: [trackId], references: [id])
+  raceDate DateTime
+
+  laps Int
+
+  qualifyingFuelConsumption Int @default(0)
+  raceFuelConsumption Int @default(0)
+
+  qualifyingTyreWear Int @default(0)
+  raceTyreWear Int @default(0)
+
+  leagueId Int
+  league League @relation(fields: [leagueId], references: [id])
+
+  results Result[]
+}
+
+model Track {
+  id Int @id @default(autoincrement())
+  
+  name String
+  country String
+
+  layout String?
+
+  trackLength Float?
+
+  createdAt DateTime @default(now())
+
+  races Race[]
+
+  @@unique([name, layout], name: "name_layout")
+}
+
+model Result {
+  id Int @id @default(autoincrement())
+
+  position Int
+  points Int
+
+  fastestLap Boolean @default(false)
+
+  raceId Int
+  race Race @relation(fields: [raceId], references: [id])
+
+  driverEntryId Int
+  driverEntry DriverEntry @relation(fields: [driverEntryId], references: [id])
+
+  createdAt DateTime @default(now())
 }

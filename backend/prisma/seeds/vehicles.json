@@ -1,0 +1,3964 @@
+[
+  {
+    "manufacturer": "Ford",
+    "model": "1932 Ford Roadster",
+    "basePower": 182,
+    "baseWeight": 1115,
+    "category": null
+  },
+  {
+    "manufacturer": "AFEELA",
+    "model": "1 '26",
+    "basePower": null,
+    "baseWeight": null,
+    "category": null
+  },
+  {
+    "manufacturer": "AFEELA",
+    "model": "Prototype 2024",
+    "basePower": null,
+    "baseWeight": null,
+    "category": null
+  },
+  {
+    "manufacturer": "Abarth",
+    "model": "1500 Biposto Bertone B.A.T 1 '52",
+    "basePower": 75,
+    "baseWeight": 870,
+    "category": null
+  },
+  {
+    "manufacturer": "Abarth",
+    "model": "500 '09",
+    "basePower": 135,
+    "baseWeight": 1035,
+    "category": null
+  },
+  {
+    "manufacturer": "Alfa Romeo",
+    "model": "155 2.5 V6 TI '93",
+    "basePower": 419,
+    "baseWeight": 1010,
+    "category": "GR4"
+  },
+  {
+    "manufacturer": "Alfa Romeo",
+    "model": "4C Gr.3",
+    "basePower": 536,
+    "baseWeight": 1220,
+    "category": "GR3"
+  },
+  {
+    "manufacturer": "Alfa Romeo",
+    "model": "4C Gr.3 Road Car",
+    "basePower": 450,
+    "baseWeight": 1320,
+    "category": null
+  },
+  {
+    "manufacturer": "Alfa Romeo",
+    "model": "4C Gr.4",
+    "basePower": 300,
+    "baseWeight": 1020,
+    "category": "GR4"
+  },
+  {
+    "manufacturer": "Alfa Romeo",
+    "model": "4C Launch Edition '14",
+    "basePower": 239,
+    "baseWeight": 950,
+    "category": null
+  },
+  {
+    "manufacturer": "Alfa Romeo",
+    "model": "8C 2900B Touring Berlinetta '38",
+    "basePower": 182,
+    "baseWeight": 1310,
+    "category": null
+  },
+  {
+    "manufacturer": "Alfa Romeo",
+    "model": "8C Competizione '08",
+    "basePower": 449,
+    "baseWeight": 1585,
+    "category": null
+  },
+  {
+    "manufacturer": "Alfa Romeo",
+    "model": "GIULIA TZ2 carrozzata da ZAGATO '65",
+    "basePower": 171,
+    "baseWeight": 620,
+    "category": null
+  },
+  {
+    "manufacturer": "Alfa Romeo",
+    "model": "Giulia GTAm '20",
+    "basePower": 540,
+    "baseWeight": 1580,
+    "category": null
+  },
+  {
+    "manufacturer": "Alfa Romeo",
+    "model": "Giulia Sprint GT Veloce '67",
+    "basePower": 106,
+    "baseWeight": 1040,
+    "category": null
+  },
+  {
+    "manufacturer": "Alfa Romeo",
+    "model": "MiTo 1.4 T Sport '09",
+    "basePower": 155,
+    "baseWeight": 1145,
+    "category": null
+  },
+  {
+    "manufacturer": "Alpine",
+    "model": "A110 1600S '72",
+    "basePower": 140,
+    "baseWeight": 715,
+    "category": null
+  },
+  {
+    "manufacturer": "Alpine",
+    "model": "A110 Première Édition '17",
+    "basePower": 252,
+    "baseWeight": 1103,
+    "category": null
+  },
+  {
+    "manufacturer": "Alpine",
+    "model": "A220 Race Car '68",
+    "basePower": 324,
+    "baseWeight": 690,
+    "category": null
+  },
+  {
+    "manufacturer": "Alpine",
+    "model": "Vision Gran Turismo",
+    "basePower": 450,
+    "baseWeight": 900,
+    "category": null
+  },
+  {
+    "manufacturer": "Alpine",
+    "model": "Vision Gran Turismo 2017",
+    "basePower": 603,
+    "baseWeight": 930,
+    "category": "GR1"
+  },
+  {
+    "manufacturer": "Alpine",
+    "model": "Vision Gran Turismo Race Mode",
+    "basePower": 450,
+    "baseWeight": 900,
+    "category": null
+  },
+  {
+    "manufacturer": "Amuse",
+    "model": "NISMO 380RS Super Leggera",
+    "basePower": 386,
+    "baseWeight": 1370,
+    "category": null
+  },
+  {
+    "manufacturer": "Amuse",
+    "model": "S2000 GT1 Turbo",
+    "basePower": 625,
+    "baseWeight": 1120,
+    "category": null
+  },
+  {
+    "manufacturer": "Aston Martin",
+    "model": "DB11 '16",
+    "basePower": 608,
+    "baseWeight": 1770,
+    "category": null
+  },
+  {
+    "manufacturer": "Aston Martin",
+    "model": "DB3S '53",
+    "basePower": 228,
+    "baseWeight": 856,
+    "category": null
+  },
+  {
+    "manufacturer": "Aston Martin",
+    "model": "DB5 '64",
+    "basePower": 285,
+    "baseWeight": 1468,
+    "category": null
+  },
+  {
+    "manufacturer": "Aston Martin",
+    "model": "DBR9 GT1 '10",
+    "basePower": 608,
+    "baseWeight": 1100,
+    "category": "GR3"
+  },
+  {
+    "manufacturer": "Aston Martin",
+    "model": "DP-100 Vision Gran Turismo",
+    "basePower": 811,
+    "baseWeight": 1375,
+    "category": null
+  },
+  {
+    "manufacturer": "Aston Martin",
+    "model": "One-77 '11",
+    "basePower": 759,
+    "baseWeight": 1630,
+    "category": null
+  },
+  {
+    "manufacturer": "Aston Martin",
+    "model": "V12 Vantage GT3 '12",
+    "basePower": 600,
+    "baseWeight": 1250,
+    "category": "GR3"
+  },
+  {
+    "manufacturer": "Aston Martin",
+    "model": "V8 Vantage S '15",
+    "basePower": 436,
+    "baseWeight": 1610,
+    "category": null
+  },
+  {
+    "manufacturer": "Aston Martin",
+    "model": "Valkyrie '21",
+    "basePower": 1155,
+    "baseWeight": 1270,
+    "category": null
+  },
+  {
+    "manufacturer": "Aston Martin",
+    "model": "Vantage '18",
+    "basePower": 510,
+    "baseWeight": 1530,
+    "category": null
+  },
+  {
+    "manufacturer": "Aston Martin",
+    "model": "Vantage Gr.4",
+    "basePower": 405,
+    "baseWeight": 1350,
+    "category": "GR4"
+  },
+  {
+    "manufacturer": "Aston Martin",
+    "model": "Vulcan '16",
+    "basePower": 832,
+    "baseWeight": 1360,
+    "category": null
+  },
+  {
+    "manufacturer": "Audi",
+    "model": "R18 '16",
+    "basePower": 514,
+    "baseWeight": 875,
+    "category": "GR1"
+  },
+  {
+    "manufacturer": "Audi",
+    "model": "R18 TDI '11",
+    "basePower": 540,
+    "baseWeight": 900,
+    "category": "GR1"
+  },
+  {
+    "manufacturer": "Audi",
+    "model": "R8 4.2 FSI R tronic '07",
+    "basePower": 420,
+    "baseWeight": 1560,
+    "category": null
+  },
+  {
+    "manufacturer": "Audi",
+    "model": "R8 Coupé V10 plus '16",
+    "basePower": 610,
+    "baseWeight": 1454,
+    "category": null
+  },
+  {
+    "manufacturer": "Audi",
+    "model": "R8 LMS '15",
+    "basePower": 594,
+    "baseWeight": 1225,
+    "category": "GR3"
+  },
+  {
+    "manufacturer": "Audi",
+    "model": "R8 LMS Evo '19",
+    "basePower": 585,
+    "baseWeight": 1235,
+    "category": "GR3"
+  },
+  {
+    "manufacturer": "Audi",
+    "model": "RS 5 Turbo DTM '19",
+    "basePower": 612,
+    "baseWeight": 986,
+    "category": "GR2"
+  },
+  {
+    "manufacturer": "Audi",
+    "model": "Sport quattro S1 Pikes Peak '87",
+    "basePower": 597,
+    "baseWeight": 1000,
+    "category": "GRB"
+  },
+  {
+    "manufacturer": "Audi",
+    "model": "TT Coupé 3.2 quattro '03",
+    "basePower": 243,
+    "baseWeight": 1520,
+    "category": null
+  },
+  {
+    "manufacturer": "Audi",
+    "model": "TT Cup '16",
+    "basePower": 340,
+    "baseWeight": 1125,
+    "category": "GR4"
+  },
+  {
+    "manufacturer": "Audi",
+    "model": "TTS Coupé '09",
+    "basePower": 272,
+    "baseWeight": 1415,
+    "category": null
+  },
+  {
+    "manufacturer": "Audi",
+    "model": "TTS Coupé '14",
+    "basePower": 310,
+    "baseWeight": 1385,
+    "category": null
+  },
+  {
+    "manufacturer": "Audi",
+    "model": "Vision Gran Turismo",
+    "basePower": 746,
+    "baseWeight": 1250,
+    "category": "GR1"
+  },
+  {
+    "manufacturer": "Audi",
+    "model": "e-tron Vision Gran Turismo",
+    "basePower": 815,
+    "baseWeight": 1450,
+    "category": null
+  },
+  {
+    "manufacturer": "Autobianchi",
+    "model": "A112 Abarth '85",
+    "basePower": 72,
+    "baseWeight": 710,
+    "category": null
+  },
+  {
+    "manufacturer": "BAC",
+    "model": "Mono '16",
+    "basePower": 309,
+    "baseWeight": 580,
+    "category": null
+  },
+  {
+    "manufacturer": "BMW",
+    "model": "3.0 CSL '71",
+    "basePower": 180,
+    "baseWeight": 1165,
+    "category": null
+  },
+  {
+    "manufacturer": "BMW",
+    "model": "3.0 CSL '73",
+    "basePower": 205,
+    "baseWeight": 1250,
+    "category": null
+  },
+  {
+    "manufacturer": "BMW",
+    "model": "M2 Competition '18",
+    "basePower": 411,
+    "baseWeight": 1575,
+    "category": null
+  },
+  {
+    "manufacturer": "BMW",
+    "model": "M3 '89",
+    "basePower": 215,
+    "baseWeight": 1200,
+    "category": null
+  },
+  {
+    "manufacturer": "BMW",
+    "model": "M3 '97",
+    "basePower": 321,
+    "baseWeight": 1460,
+    "category": null
+  },
+  {
+    "manufacturer": "BMW",
+    "model": "M3 Coupé '03",
+    "basePower": 344,
+    "baseWeight": 1560,
+    "category": null
+  },
+  {
+    "manufacturer": "BMW",
+    "model": "M3 Coupé '07",
+    "basePower": 421,
+    "baseWeight": 1655,
+    "category": null
+  },
+  {
+    "manufacturer": "BMW",
+    "model": "M3 GT '11",
+    "basePower": 508,
+    "baseWeight": 1245,
+    "category": "GR3"
+  },
+  {
+    "manufacturer": "BMW",
+    "model": "M3 Sport Evolution '89",
+    "basePower": 238,
+    "baseWeight": 1200,
+    "category": null
+  },
+  {
+    "manufacturer": "BMW",
+    "model": "M4 Coupé '14",
+    "basePower": 431,
+    "baseWeight": 1497,
+    "category": null
+  },
+  {
+    "manufacturer": "BMW",
+    "model": "M4 Gr.4",
+    "basePower": 400,
+    "baseWeight": 1365,
+    "category": "GR4"
+  },
+  {
+    "manufacturer": "BMW",
+    "model": "M4 Safety Car",
+    "basePower": 431,
+    "baseWeight": 1497,
+    "category": null
+  },
+  {
+    "manufacturer": "BMW",
+    "model": "M6 GT3 Endurance Model '16",
+    "basePower": 593,
+    "baseWeight": 1300,
+    "category": "GR3"
+  },
+  {
+    "manufacturer": "BMW",
+    "model": "M6 GT3 Sprint Model '16",
+    "basePower": 593,
+    "baseWeight": 1300,
+    "category": "GR3"
+  },
+  {
+    "manufacturer": "BMW",
+    "model": "McLaren F1 GTR Race Car '97",
+    "basePower": 611,
+    "baseWeight": 950,
+    "category": "GR2"
+  },
+  {
+    "manufacturer": "BMW",
+    "model": "Vision Gran Turismo",
+    "basePower": 549,
+    "baseWeight": 1180,
+    "category": null
+  },
+  {
+    "manufacturer": "BMW",
+    "model": "Z4 3.0i '03",
+    "basePower": 231,
+    "baseWeight": 1290,
+    "category": null
+  },
+  {
+    "manufacturer": "BMW",
+    "model": "Z4 GT3 '11",
+    "basePower": 530,
+    "baseWeight": 1190,
+    "category": "GR3"
+  },
+  {
+    "manufacturer": "BMW",
+    "model": "Z8 '01",
+    "basePower": 401,
+    "baseWeight": 1610,
+    "category": null
+  },
+  {
+    "manufacturer": "BMW",
+    "model": "i3 '15",
+    "basePower": 169,
+    "baseWeight": 1260,
+    "category": null
+  },
+  {
+    "manufacturer": "BVLGARI",
+    "model": "Aluminium Vision Gran Turismo",
+    "basePower": 400,
+    "baseWeight": 1000,
+    "category": null
+  },
+  {
+    "manufacturer": "Bugatti",
+    "model": "Chiron '16",
+    "basePower": 1500,
+    "baseWeight": 1995,
+    "category": null
+  },
+  {
+    "manufacturer": "Bugatti",
+    "model": "Veyron 16.4 '13",
+    "basePower": 1000,
+    "baseWeight": 1888,
+    "category": null
+  },
+  {
+    "manufacturer": "Bugatti",
+    "model": "Veyron Gr.4",
+    "basePower": 440,
+    "baseWeight": 1650,
+    "category": "GR4"
+  },
+  {
+    "manufacturer": "Bugatti",
+    "model": "Vision Gran Turismo",
+    "basePower": 1649,
+    "baseWeight": 1400,
+    "category": null
+  },
+  {
+    "manufacturer": "Bugatti",
+    "model": "Vision Gran Turismo (Gr.1)",
+    "basePower": 650,
+    "baseWeight": 980,
+    "category": "GR1"
+  },
+  {
+    "manufacturer": "Chaparral",
+    "model": "2J '70",
+    "basePower": 693,
+    "baseWeight": 821,
+    "category": null
+  },
+  {
+    "manufacturer": "Chevrolet",
+    "model": "Camaro 1969 Race-Mod",
+    "basePower": 667,
+    "baseWeight": 1320,
+    "category": null
+  },
+  {
+    "manufacturer": "Chevrolet",
+    "model": "Camaro SS '16",
+    "basePower": 460,
+    "baseWeight": 1672,
+    "category": null
+  },
+  {
+    "manufacturer": "Chevrolet",
+    "model": "Camaro Z28 '69",
+    "basePower": 294,
+    "baseWeight": 1415,
+    "category": null
+  },
+  {
+    "manufacturer": "Chevrolet",
+    "model": "Camaro ZL1 1LE Package '18",
+    "basePower": 659,
+    "baseWeight": 1732,
+    "category": null
+  },
+  {
+    "manufacturer": "Chevrolet",
+    "model": "Chaparral 2X Vision Gran Turismo",
+    "basePower": 918,
+    "baseWeight": 450,
+    "category": null
+  },
+  {
+    "manufacturer": "Chevrolet",
+    "model": "Chevelle SS 454 Sport Coupé '70",
+    "basePower": 456,
+    "baseWeight": 1762,
+    "category": null
+  },
+  {
+    "manufacturer": "Chevrolet",
+    "model": "Corvette (C1) '58",
+    "basePower": 247,
+    "baseWeight": 1327,
+    "category": null
+  },
+  {
+    "manufacturer": "Chevrolet",
+    "model": "Corvette C7 Gr.3",
+    "basePower": 580,
+    "baseWeight": 1300,
+    "category": "GR3"
+  },
+  {
+    "manufacturer": "Chevrolet",
+    "model": "Corvette C7 Gr.3 Road Car",
+    "basePower": 500,
+    "baseWeight": 1480,
+    "category": null
+  },
+  {
+    "manufacturer": "Chevrolet",
+    "model": "Corvette C7 Gr.4",
+    "basePower": 420,
+    "baseWeight": 1350,
+    "category": "GR4"
+  },
+  {
+    "manufacturer": "Chevrolet",
+    "model": "Corvette C7 Stingray '14",
+    "basePower": 460,
+    "baseWeight": 1500,
+    "category": null
+  },
+  {
+    "manufacturer": "Chevrolet",
+    "model": "Corvette C7 ZR1 '19",
+    "basePower": 765,
+    "baseWeight": 1615,
+    "category": null
+  },
+  {
+    "manufacturer": "Chevrolet",
+    "model": "Corvette C8 Stingray '20",
+    "basePower": 501,
+    "baseWeight": 1530,
+    "category": null
+  },
+  {
+    "manufacturer": "Chevrolet",
+    "model": "Corvette CX Concept '25",
+    "basePower": 2176,
+    "baseWeight": 1400,
+    "category": null
+  },
+  {
+    "manufacturer": "Chevrolet",
+    "model": "Corvette CX.R Vision Gran Turismo Concept",
+    "basePower": 2067,
+    "baseWeight": 1250,
+    "category": null
+  },
+  {
+    "manufacturer": "Chevrolet",
+    "model": "Corvette Sting Ray Sport Coupe (C2) '63",
+    "basePower": 365,
+    "baseWeight": 1380,
+    "category": null
+  },
+  {
+    "manufacturer": "Chevrolet",
+    "model": "Corvette Stingray Convertible (C3) '69",
+    "basePower": 303,
+    "baseWeight": 1552,
+    "category": null
+  },
+  {
+    "manufacturer": "Chevrolet",
+    "model": "Corvette Stingray L46 350 (C3) '69",
+    "basePower": 355,
+    "baseWeight": 1490,
+    "category": null
+  },
+  {
+    "manufacturer": "Chevrolet",
+    "model": "Corvette Stingray Racer Concept '59",
+    "basePower": 319,
+    "baseWeight": 1150,
+    "category": null
+  },
+  {
+    "manufacturer": "Chevrolet",
+    "model": "Corvette Z06 (C5) '01",
+    "basePower": 390,
+    "baseWeight": 1409,
+    "category": null
+  },
+  {
+    "manufacturer": "Chevrolet",
+    "model": "Corvette ZR-1 (C4) '89",
+    "basePower": 381,
+    "baseWeight": 1572,
+    "category": null
+  },
+  {
+    "manufacturer": "Chevrolet",
+    "model": "Corvette ZR1 (C6) '09",
+    "basePower": 648,
+    "baseWeight": 1508,
+    "category": null
+  },
+  {
+    "manufacturer": "Chris Holstrom Concepts",
+    "model": "1967 Chevy Nova",
+    "basePower": 743,
+    "baseWeight": 1366,
+    "category": null
+  },
+  {
+    "manufacturer": "Citroën",
+    "model": "BX 19 TRS '87",
+    "basePower": 105,
+    "baseWeight": 995,
+    "category": null
+  },
+  {
+    "manufacturer": "Citroën",
+    "model": "DS 21 Pallas '70",
+    "basePower": 105,
+    "baseWeight": 1300,
+    "category": null
+  },
+  {
+    "manufacturer": "Daihatsu",
+    "model": "DAIHATSU COPEN RJ Vision Gran Turismo",
+    "basePower": 149,
+    "baseWeight": 600,
+    "category": null
+  },
+  {
+    "manufacturer": "DMC",
+    "model": "DeLorean S2 '04",
+    "basePower": 200,
+    "baseWeight": 1288,
+    "category": null
+  },
+  {
+    "manufacturer": "DS Automobiles",
+    "model": "DS 3 Racing '11",
+    "basePower": 206,
+    "baseWeight": 1165,
+    "category": null
+  },
+  {
+    "manufacturer": "Daihatsu",
+    "model": "Copen Active Top '02",
+    "basePower": 63,
+    "baseWeight": 830,
+    "category": null
+  },
+  {
+    "manufacturer": "Super Formula",
+    "model": "Dallara SF19 Super Formula / Honda '19",
+    "basePower": 648,
+    "baseWeight": 660,
+    "category": null
+  },
+  {
+    "manufacturer": "Super Formula",
+    "model": "Dallara SF19 Super Formula / Toyota '19",
+    "basePower": 648,
+    "baseWeight": 660,
+    "category": null
+  },
+  {
+    "manufacturer": "Super Formula",
+    "model": "Dallara SF23 Super Formula / Honda '23",
+    "basePower": 634,
+    "baseWeight": 670,
+    "category": null
+  },
+  {
+    "manufacturer": "Super Formula",
+    "model": "Dallara SF23 Super Formula / Toyota '23",
+    "basePower": 634,
+    "baseWeight": 670,
+    "category": null
+  },
+  {
+    "manufacturer": "De Tomaso",
+    "model": "Mangusta '69",
+    "basePower": 305,
+    "baseWeight": 1185,
+    "category": null
+  },
+  {
+    "manufacturer": "De Tomaso",
+    "model": "Pantera '71",
+    "basePower": 330,
+    "baseWeight": 1420,
+    "category": null
+  },
+  {
+    "manufacturer": "Dodge",
+    "model": "Challenger R/T '70",
+    "basePower": 431,
+    "baseWeight": 1724,
+    "category": null
+  },
+  {
+    "manufacturer": "Dodge",
+    "model": "Challenger SRT Demon '18",
+    "basePower": 852,
+    "baseWeight": 1941,
+    "category": null
+  },
+  {
+    "manufacturer": "Dodge",
+    "model": "Charger R/T 426 Hemi '68",
+    "basePower": 431,
+    "baseWeight": 1805,
+    "category": null
+  },
+  {
+    "manufacturer": "Dodge",
+    "model": "Charger SRT Hellcat '15",
+    "basePower": 717,
+    "baseWeight": 1980,
+    "category": null
+  },
+  {
+    "manufacturer": "Dodge",
+    "model": "Charger SRT Hellcat Safety Car",
+    "basePower": 717,
+    "baseWeight": 1980,
+    "category": null
+  },
+  {
+    "manufacturer": "Dodge",
+    "model": "SRT Tomahawk GTS-R Vision Gran Turismo",
+    "basePower": 1470,
+    "baseWeight": 663,
+    "category": null
+  },
+  {
+    "manufacturer": "Dodge",
+    "model": "SRT Tomahawk S Vision Gran Turismo",
+    "basePower": 1021,
+    "baseWeight": 921,
+    "category": null
+  },
+  {
+    "manufacturer": "Dodge",
+    "model": "SRT Tomahawk Vision Gran Turismo (Gr.1)",
+    "basePower": 703,
+    "baseWeight": 950,
+    "category": "GR1"
+  },
+  {
+    "manufacturer": "Dodge",
+    "model": "SRT Tomahawk X Vision Gran Turismo",
+    "basePower": 2623,
+    "baseWeight": 749,
+    "category": null
+  },
+  {
+    "manufacturer": "Dodge",
+    "model": "Super Bee '70",
+    "basePower": 340,
+    "baseWeight": 1533,
+    "category": null
+  },
+  {
+    "manufacturer": "Dodge",
+    "model": "Viper GTS '02",
+    "basePower": 455,
+    "baseWeight": 1569,
+    "category": null
+  },
+  {
+    "manufacturer": "Dodge",
+    "model": "Viper GTS '13",
+    "basePower": 649,
+    "baseWeight": 1556,
+    "category": null
+  },
+  {
+    "manufacturer": "Dodge",
+    "model": "Viper Gr.4",
+    "basePower": 435,
+    "baseWeight": 1400,
+    "category": "GR4"
+  },
+  {
+    "manufacturer": "Dodge",
+    "model": "Viper SRT GT3-R '15",
+    "basePower": 688,
+    "baseWeight": 1290,
+    "category": "GR3"
+  },
+  {
+    "manufacturer": "Dodge",
+    "model": "Viper SRT10 Coupe '06",
+    "basePower": 516,
+    "baseWeight": 1565,
+    "category": null
+  },
+  {
+    "manufacturer": "Eckert's Rod & Custom",
+    "model": "Mach Forty",
+    "basePower": 799,
+    "baseWeight": 1588,
+    "category": null
+  },
+  {
+    "manufacturer": "Ferrari",
+    "model": "Enzo Ferrari '02",
+    "basePower": 668,
+    "baseWeight": 1255,
+    "category": null
+  },
+  {
+    "manufacturer": "FIAT",
+    "model": "500 1.2 8V Lounge SS '08",
+    "basePower": 66,
+    "baseWeight": 1010,
+    "category": null
+  },
+  {
+    "manufacturer": "FIAT",
+    "model": "500 F '68",
+    "basePower": 17,
+    "baseWeight": 520,
+    "category": null
+  },
+  {
+    "manufacturer": "FIAT",
+    "model": "Abarth 595 Esseesse '70",
+    "basePower": 31,
+    "baseWeight": 470,
+    "category": null
+  },
+  {
+    "manufacturer": "FIAT",
+    "model": "Panda 30 CL '85",
+    "basePower": 30,
+    "baseWeight": 650,
+    "category": null
+  },
+  {
+    "manufacturer": "Ferrari",
+    "model": "250 GT Berlinetta passo corto '61",
+    "basePower": 279,
+    "baseWeight": 960,
+    "category": null
+  },
+  {
+    "manufacturer": "Ferrari",
+    "model": "250 GTO '62",
+    "basePower": 300,
+    "baseWeight": 880,
+    "category": null
+  },
+  {
+    "manufacturer": "Ferrari",
+    "model": "296 GT3 '23",
+    "basePower": 608,
+    "baseWeight": 1280,
+    "category": "GR3"
+  },
+  {
+    "manufacturer": "Ferrari",
+    "model": "296 GTB '22",
+    "basePower": 830,
+    "baseWeight": 1470,
+    "category": null
+  },
+  {
+    "manufacturer": "Ferrari",
+    "model": "308 GTB '75",
+    "basePower": 255,
+    "baseWeight": 1090,
+    "category": null
+  },
+  {
+    "manufacturer": "Ferrari",
+    "model": "330 P4 '67",
+    "basePower": 455,
+    "baseWeight": 792,
+    "category": null
+  },
+  {
+    "manufacturer": "Ferrari",
+    "model": "365 GTB4 '71",
+    "basePower": 352,
+    "baseWeight": 1200,
+    "category": null
+  },
+  {
+    "manufacturer": "Ferrari",
+    "model": "430 Scuderia '07",
+    "basePower": 510,
+    "baseWeight": 1350,
+    "category": null
+  },
+  {
+    "manufacturer": "Ferrari",
+    "model": "458 Italia '09",
+    "basePower": 571,
+    "baseWeight": 1485,
+    "category": null
+  },
+  {
+    "manufacturer": "Ferrari",
+    "model": "458 Italia GT3 '13",
+    "basePower": 550,
+    "baseWeight": 1215,
+    "category": "GR3"
+  },
+  {
+    "manufacturer": "Ferrari",
+    "model": "458 Italia Gr.4",
+    "basePower": 380,
+    "baseWeight": 1350,
+    "category": "GR4"
+  },
+  {
+    "manufacturer": "Ferrari",
+    "model": "500 Mondial Pinin Farina Coupe '54",
+    "basePower": 171,
+    "baseWeight": 720,
+    "category": null
+  },
+  {
+    "manufacturer": "Ferrari",
+    "model": "512 BB '76",
+    "basePower": 359,
+    "baseWeight": 1400,
+    "category": null
+  },
+  {
+    "manufacturer": "Ferrari",
+    "model": "812 Superfast '17",
+    "basePower": 800,
+    "baseWeight": 1525,
+    "category": null
+  },
+  {
+    "manufacturer": "Ferrari",
+    "model": "Dino 246 GT '71",
+    "basePower": 194,
+    "baseWeight": 1080,
+    "category": null
+  },
+  {
+    "manufacturer": "Ferrari",
+    "model": "F12berlinetta '12",
+    "basePower": 741,
+    "baseWeight": 1525,
+    "category": null
+  },
+  {
+    "manufacturer": "Ferrari",
+    "model": "F40 '92",
+    "basePower": 478,
+    "baseWeight": 1100,
+    "category": null
+  },
+  {
+    "manufacturer": "Ferrari",
+    "model": "F430 '06",
+    "basePower": 502,
+    "baseWeight": 1450,
+    "category": null
+  },
+  {
+    "manufacturer": "Ferrari",
+    "model": "F50 '95",
+    "basePower": 519,
+    "baseWeight": 1230,
+    "category": null
+  },
+  {
+    "manufacturer": "Ferrari",
+    "model": "F8 Tributo '19",
+    "basePower": 720,
+    "baseWeight": 1330,
+    "category": null
+  },
+  {
+    "manufacturer": "Ferrari",
+    "model": "FXX K '14",
+    "basePower": 1049,
+    "baseWeight": 1165,
+    "category": null
+  },
+  {
+    "manufacturer": "Ferrari",
+    "model": "GTO '84",
+    "basePower": 399,
+    "baseWeight": 1160,
+    "category": null
+  },
+  {
+    "manufacturer": "Ferrari",
+    "model": "LaFerrari '13",
+    "basePower": 963,
+    "baseWeight": 1255,
+    "category": null
+  },
+  {
+    "manufacturer": "Ferrari",
+    "model": "Testarossa '91",
+    "basePower": 390,
+    "baseWeight": 1506,
+    "category": null
+  },
+  {
+    "manufacturer": "Ferrari",
+    "model": "Vision Gran Turismo",
+    "basePower": 1383,
+    "baseWeight": 1250,
+    "category": null
+  },
+  {
+    "manufacturer": "Ford",
+    "model": "Escort RS Cosworth '92",
+    "basePower": 227,
+    "baseWeight": 1275,
+    "category": null
+  },
+  {
+    "manufacturer": "Ford",
+    "model": "F-150 SVT Raptor '11",
+    "basePower": 417,
+    "baseWeight": 2724,
+    "category": null
+  },
+  {
+    "manufacturer": "Ford",
+    "model": "Focus Gr.B Rally Car",
+    "basePower": 546,
+    "baseWeight": 1260,
+    "category": "GRB"
+  },
+  {
+    "manufacturer": "Ford",
+    "model": "Focus RS '18",
+    "basePower": 355,
+    "baseWeight": 1557,
+    "category": null
+  },
+  {
+    "manufacturer": "Ford",
+    "model": "Focus ST '15",
+    "basePower": 254,
+    "baseWeight": 1462,
+    "category": null
+  },
+  {
+    "manufacturer": "Ford",
+    "model": "GT '06",
+    "basePower": 558,
+    "baseWeight": 1451,
+    "category": null
+  },
+  {
+    "manufacturer": "Ford",
+    "model": "GT '17",
+    "basePower": 656,
+    "baseWeight": 1385,
+    "category": null
+  },
+  {
+    "manufacturer": "Ford",
+    "model": "GT LM Race Car Spec II",
+    "basePower": 615,
+    "baseWeight": 1130,
+    "category": "GR3"
+  },
+  {
+    "manufacturer": "Ford",
+    "model": "GT LM Spec II Test Car",
+    "basePower": 599,
+    "baseWeight": 1165,
+    "category": "GR3"
+  },
+  {
+    "manufacturer": "Ford",
+    "model": "GT Race Car '18",
+    "basePower": 535,
+    "baseWeight": 1200,
+    "category": "GR3"
+  },
+  {
+    "manufacturer": "Ford",
+    "model": "GT40 Mark I '66",
+    "basePower": 359,
+    "baseWeight": 1080,
+    "category": null
+  },
+  {
+    "manufacturer": "Ford",
+    "model": "Mark IV Race Car '67",
+    "basePower": 511,
+    "baseWeight": 1000,
+    "category": null
+  },
+  {
+    "manufacturer": "Ford",
+    "model": "Mustang Boss 429 '69",
+    "basePower": 380,
+    "baseWeight": 1614,
+    "category": null
+  },
+  {
+    "manufacturer": "Ford",
+    "model": "Mustang GT Premium Fastback '15",
+    "basePower": 441,
+    "baseWeight": 1681,
+    "category": null
+  },
+  {
+    "manufacturer": "Ford",
+    "model": "Mustang Gr.3",
+    "basePower": 576,
+    "baseWeight": 1300,
+    "category": "GR3"
+  },
+  {
+    "manufacturer": "Ford",
+    "model": "Mustang Gr.3 Road Car",
+    "basePower": 510,
+    "baseWeight": 1500,
+    "category": null
+  },
+  {
+    "manufacturer": "Ford",
+    "model": "Mustang Gr.4",
+    "basePower": 401,
+    "baseWeight": 1400,
+    "category": "GR4"
+  },
+  {
+    "manufacturer": "Ford",
+    "model": "Mustang Gr.B Rally Car",
+    "basePower": 557,
+    "baseWeight": 1380,
+    "category": "GRB"
+  },
+  {
+    "manufacturer": "Ford",
+    "model": "Mustang Mach 1 '71",
+    "basePower": 307,
+    "baseWeight": 1615,
+    "category": null
+  },
+  {
+    "manufacturer": "Ford",
+    "model": "Shelby GT350R '16",
+    "basePower": 533,
+    "baseWeight": 1658,
+    "category": null
+  },
+  {
+    "manufacturer": "Ford",
+    "model": "Sierra RS 500 Cosworth '87",
+    "basePower": 227,
+    "baseWeight": 1207,
+    "category": null
+  },
+  {
+    "manufacturer": "GReddy",
+    "model": "Fugu Z",
+    "basePower": 299,
+    "baseWeight": 1100,
+    "category": null
+  },
+  {
+    "manufacturer": "Citroën",
+    "model": "GT by Citroën Gr.4",
+    "basePower": 400,
+    "baseWeight": 1300,
+    "category": "GR4"
+  },
+  {
+    "manufacturer": "Citroën",
+    "model": "GT by Citroën Race Car (Gr.3)",
+    "basePower": 608,
+    "baseWeight": 1200,
+    "category": "GR3"
+  },
+  {
+    "manufacturer": "Citroën",
+    "model": "GT by Citroën Road Car",
+    "basePower": 508,
+    "baseWeight": 1450,
+    "category": null
+  },
+  {
+    "manufacturer": "Garage RCR",
+    "model": "Civic",
+    "basePower": 395,
+    "baseWeight": 1014,
+    "category": null
+  },
+  {
+    "manufacturer": "Genesis",
+    "model": "G70 3.3T AWD Prestige Package '22",
+    "basePower": 372,
+    "baseWeight": 1815,
+    "category": null
+  },
+  {
+    "manufacturer": "Genesis",
+    "model": "G70 GR4",
+    "basePower": 420,
+    "baseWeight": 1400,
+    "category": "GR4"
+  },
+  {
+    "manufacturer": "Genesis",
+    "model": "X GR3",
+    "basePower": 555,
+    "baseWeight": 1280,
+    "category": "GR3"
+  },
+  {
+    "manufacturer": "Genesis",
+    "model": "X Gran Berlinetta Vision Gran Turismo Concept",
+    "basePower": 882,
+    "baseWeight": 1060,
+    "category": null
+  },
+  {
+    "manufacturer": "Genesis",
+    "model": "X Gran Racer Vision Gran Turismo Concept",
+    "basePower": 882,
+    "baseWeight": 1089,
+    "category": "GR1"
+  },
+  {
+    "manufacturer": "Gran Turismo",
+    "model": "F1500T-A",
+    "basePower": 1000,
+    "baseWeight": 540,
+    "category": null
+  },
+  {
+    "manufacturer": "Gran Turismo",
+    "model": "F3500-A",
+    "basePower": 784,
+    "baseWeight": 529,
+    "category": null
+  },
+  {
+    "manufacturer": "Gran Turismo",
+    "model": "F3500-B",
+    "basePower": 730,
+    "baseWeight": 505,
+    "category": null
+  },
+  {
+    "manufacturer": "Gran Turismo",
+    "model": "Racing Kart 125 Shifter",
+    "basePower": 50,
+    "baseWeight": 105,
+    "category": null
+  },
+  {
+    "manufacturer": "Gran Turismo",
+    "model": "Red Bull X2014 Junior",
+    "basePower": 250,
+    "baseWeight": 550,
+    "category": null
+  },
+  {
+    "manufacturer": "Gran Turismo",
+    "model": "Red Bull X2014 Standard",
+    "basePower": 810,
+    "baseWeight": 650,
+    "category": null
+  },
+  {
+    "manufacturer": "Gran Turismo",
+    "model": "Red Bull X2019 Competition",
+    "basePower": 816,
+    "baseWeight": 650,
+    "category": null
+  },
+  {
+    "manufacturer": "Greening Auto Company",
+    "model": "Maverick",
+    "basePower": 1216,
+    "baseWeight": 1633,
+    "category": null
+  },
+  {
+    "manufacturer": "Hyundai",
+    "model": "N 2025 Vision Gran Turismo",
+    "basePower": 883,
+    "baseWeight": 972,
+    "category": null
+  },
+  {
+    "manufacturer": "Hyundai",
+    "model": "N 2025 Vision Gran Turismo (Gr.1)",
+    "basePower": 649,
+    "baseWeight": 972,
+    "category": "GR1"
+  },
+  {
+    "manufacturer": "Honda",
+    "model": "Beat '91",
+    "basePower": 64,
+    "baseWeight": 760,
+    "category": null
+  },
+  {
+    "manufacturer": "Honda",
+    "model": "CR-V e:HEV EX・Black Edition '21",
+    "basePower": 184,
+    "baseWeight": 1700,
+    "category": null
+  },
+  {
+    "manufacturer": "Honda",
+    "model": "Civic Si Extra (EF) '87",
+    "basePower": 130,
+    "baseWeight": 910,
+    "category": null
+  },
+  {
+    "manufacturer": "Honda",
+    "model": "Civic SiR･II (EG) '93",
+    "basePower": 170,
+    "baseWeight": 1070,
+    "category": null
+  },
+  {
+    "manufacturer": "Honda",
+    "model": "Civic Type R (EK) '97",
+    "basePower": 179,
+    "baseWeight": 1050,
+    "category": null
+  },
+  {
+    "manufacturer": "Honda",
+    "model": "Civic Type R (EK) '98",
+    "basePower": 184,
+    "baseWeight": 1050,
+    "category": null
+  },
+  {
+    "manufacturer": "Honda",
+    "model": "Civic Type R (EK) Touring Car",
+    "basePower": 251,
+    "baseWeight": 845,
+    "category": null
+  },
+  {
+    "manufacturer": "Honda",
+    "model": "Civic Type R (FK2) '15",
+    "basePower": 310,
+    "baseWeight": 1380,
+    "category": null
+  },
+  {
+    "manufacturer": "Honda",
+    "model": "Civic Type R (FL5) '22",
+    "basePower": 330,
+    "baseWeight": 1430,
+    "category": null
+  },
+  {
+    "manufacturer": "Honda",
+    "model": "Civic Type R Limited Edition (FK8) '20",
+    "basePower": 320,
+    "baseWeight": 1370,
+    "category": null
+  },
+  {
+    "manufacturer": "Honda",
+    "model": "Fit Hybrid '14",
+    "basePower": 140,
+    "baseWeight": 1080,
+    "category": null
+  },
+  {
+    "manufacturer": "Honda",
+    "model": "Integra Type R (DC2) '95",
+    "basePower": 200,
+    "baseWeight": 1060,
+    "category": null
+  },
+  {
+    "manufacturer": "Honda",
+    "model": "Integra Type R (DC2) '98",
+    "basePower": 201,
+    "baseWeight": 1080,
+    "category": null
+  },
+  {
+    "manufacturer": "Honda",
+    "model": "N-ONE RS '22",
+    "basePower": 64,
+    "baseWeight": 840,
+    "category": null
+  },
+  {
+    "manufacturer": "Honda",
+    "model": "NSX '17",
+    "basePower": 578,
+    "baseWeight": 1780,
+    "category": null
+  },
+  {
+    "manufacturer": "Honda",
+    "model": "NSX CONCEPT-GT '16",
+    "basePower": 612,
+    "baseWeight": 1049,
+    "category": "GR2"
+  },
+  {
+    "manufacturer": "Honda",
+    "model": "NSX GT500 '00",
+    "basePower": 488,
+    "baseWeight": 1150,
+    "category": "GR3"
+  },
+  {
+    "manufacturer": "Honda",
+    "model": "NSX GT500 '08",
+    "basePower": 526,
+    "baseWeight": 1150,
+    "category": "GR2"
+  },
+  {
+    "manufacturer": "Honda",
+    "model": "NSX Gr.3",
+    "basePower": 576,
+    "baseWeight": 1300,
+    "category": "GR3"
+  },
+  {
+    "manufacturer": "Honda",
+    "model": "NSX Gr.4",
+    "basePower": 400,
+    "baseWeight": 1360,
+    "category": "GR4"
+  },
+  {
+    "manufacturer": "Honda",
+    "model": "NSX Gr.B Rally Car",
+    "basePower": 565,
+    "baseWeight": 1300,
+    "category": "GRB"
+  },
+  {
+    "manufacturer": "Honda",
+    "model": "NSX Type R '02",
+    "basePower": 295,
+    "baseWeight": 1270,
+    "category": null
+  },
+  {
+    "manufacturer": "Honda",
+    "model": "NSX Type R '92",
+    "basePower": 288,
+    "baseWeight": 1230,
+    "category": null
+  },
+  {
+    "manufacturer": "Honda",
+    "model": "Project 2&4 powered by RC213V",
+    "basePower": 214,
+    "baseWeight": 405,
+    "category": null
+  },
+  {
+    "manufacturer": "Honda",
+    "model": "RA272 '65",
+    "basePower": 232,
+    "baseWeight": 498,
+    "category": null
+  },
+  {
+    "manufacturer": "Honda",
+    "model": "S2000 '99",
+    "basePower": 246,
+    "baseWeight": 1240,
+    "category": null
+  },
+  {
+    "manufacturer": "Honda",
+    "model": "S660 '15",
+    "basePower": 64,
+    "baseWeight": 830,
+    "category": null
+  },
+  {
+    "manufacturer": "Honda",
+    "model": "S800 '66",
+    "basePower": 69,
+    "baseWeight": 720,
+    "category": null
+  },
+  {
+    "manufacturer": "Honda",
+    "model": "Sports Vision Gran Turismo",
+    "basePower": 409,
+    "baseWeight": 899,
+    "category": null
+  },
+  {
+    "manufacturer": "Hyundai",
+    "model": "ELANTRA N '23",
+    "basePower": 280,
+    "baseWeight": 1450,
+    "category": null
+  },
+  {
+    "manufacturer": "Hyundai",
+    "model": "ELANTRA N TC '24",
+    "basePower": 355,
+    "baseWeight": 1265,
+    "category": "GR4"
+  },
+  {
+    "manufacturer": "Hyundai",
+    "model": "Genesis Coupe 3.8 Track '13",
+    "basePower": 348,
+    "baseWeight": 1557,
+    "category": null
+  },
+  {
+    "manufacturer": "Hyundai",
+    "model": "Genesis Gr.3",
+    "basePower": 584,
+    "baseWeight": 1250,
+    "category": "GR3"
+  },
+  {
+    "manufacturer": "Hyundai",
+    "model": "Genesis Gr.4",
+    "basePower": 390,
+    "baseWeight": 1350,
+    "category": "GR4"
+  },
+  {
+    "manufacturer": "Hyundai",
+    "model": "Genesis Gr.B Rally Car",
+    "basePower": 507,
+    "baseWeight": 1250,
+    "category": "GRB"
+  },
+  {
+    "manufacturer": "Hyundai",
+    "model": "IONIQ 5 N '24",
+    "basePower": 650,
+    "baseWeight": 2210,
+    "category": null
+  },
+  {
+    "manufacturer": "Infiniti",
+    "model": "CONCEPT Vision Gran Turismo",
+    "basePower": 543,
+    "baseWeight": 1680,
+    "category": null
+  },
+  {
+    "manufacturer": "Zagato",
+    "model": "IsoRivolta Zagato Vision Gran Turismo",
+    "basePower": 567,
+    "baseWeight": 1150,
+    "category": null
+  },
+  {
+    "manufacturer": "Italdesign",
+    "model": "EXENEO Vision Gran Turismo Off-road Mode",
+    "basePower": 1237,
+    "baseWeight": 1000,
+    "category": null
+  },
+  {
+    "manufacturer": "Italdesign",
+    "model": "EXENEO Vision Gran Turismo Street Mode",
+    "basePower": 1237,
+    "baseWeight": 1000,
+    "category": null
+  },
+  {
+    "manufacturer": "Jaguar",
+    "model": "D-type '54",
+    "basePower": 253,
+    "baseWeight": 850,
+    "category": null
+  },
+  {
+    "manufacturer": "Jaguar",
+    "model": "E-type Coupé '61",
+    "basePower": 268,
+    "baseWeight": 1300,
+    "category": null
+  },
+  {
+    "manufacturer": "Jaguar",
+    "model": "F-type Gr.3",
+    "basePower": 560,
+    "baseWeight": 1250,
+    "category": "GR3"
+  },
+  {
+    "manufacturer": "Jaguar",
+    "model": "F-type Gr.4",
+    "basePower": 405,
+    "baseWeight": 1350,
+    "category": "GR4"
+  },
+  {
+    "manufacturer": "Jaguar",
+    "model": "F-type R Coupé '14",
+    "basePower": 550,
+    "baseWeight": 1650,
+    "category": null
+  },
+  {
+    "manufacturer": "Jaguar",
+    "model": "Vision Gran Turismo Coupé",
+    "basePower": 1019,
+    "baseWeight": 1400,
+    "category": null
+  },
+  {
+    "manufacturer": "Jaguar",
+    "model": "Vision Gran Turismo Roadster",
+    "basePower": 1019,
+    "baseWeight": 1400,
+    "category": null
+  },
+  {
+    "manufacturer": "Jaguar",
+    "model": "Vision Gran Turismo SV",
+    "basePower": 1903,
+    "baseWeight": 1400,
+    "category": null
+  },
+  {
+    "manufacturer": "Jaguar",
+    "model": "XJ13 '66",
+    "basePower": 518,
+    "baseWeight": 998,
+    "category": null
+  },
+  {
+    "manufacturer": "Jaguar",
+    "model": "XJ220 '92",
+    "basePower": 523,
+    "baseWeight": 1372,
+    "category": null
+  },
+  {
+    "manufacturer": "Jaguar",
+    "model": "XJR-9 '88",
+    "basePower": 760,
+    "baseWeight": 894,
+    "category": "GR1"
+  },
+  {
+    "manufacturer": "Jeep",
+    "model": "Willys MB '45",
+    "basePower": 61,
+    "baseWeight": 1113,
+    "category": null
+  },
+  {
+    "manufacturer": "KTM",
+    "model": "X-BOW R '12",
+    "basePower": 303,
+    "baseWeight": 790,
+    "category": null
+  },
+  {
+    "manufacturer": "Lexus",
+    "model": "LF-LC GT \"Vision Gran Turismo\"",
+    "basePower": 621,
+    "baseWeight": 1075,
+    "category": null
+  },
+  {
+    "manufacturer": "Lamborghini",
+    "model": "Lambo V12 Vision Gran Turismo",
+    "basePower": 785,
+    "baseWeight": 819,
+    "category": null
+  },
+  {
+    "manufacturer": "Lamborghini",
+    "model": "Aventador LP 700-4 '11",
+    "basePower": 700,
+    "baseWeight": 1575,
+    "category": null
+  },
+  {
+    "manufacturer": "Lamborghini",
+    "model": "Aventador LP 750-4 Superveloce '15",
+    "basePower": 750,
+    "baseWeight": 1525,
+    "category": null
+  },
+  {
+    "manufacturer": "Lamborghini",
+    "model": "Countach 25th Anniversary '88",
+    "basePower": 456,
+    "baseWeight": 1490,
+    "category": null
+  },
+  {
+    "manufacturer": "Lamborghini",
+    "model": "Countach LP400 '74",
+    "basePower": 379,
+    "baseWeight": 1065,
+    "category": null
+  },
+  {
+    "manufacturer": "Lamborghini",
+    "model": "Diablo GT '00",
+    "basePower": 580,
+    "baseWeight": 1490,
+    "category": null
+  },
+  {
+    "manufacturer": "Lamborghini",
+    "model": "Gallardo LP 560-4 '08",
+    "basePower": 560,
+    "baseWeight": 1410,
+    "category": null
+  },
+  {
+    "manufacturer": "Lamborghini",
+    "model": "Huracán GT3 '15",
+    "basePower": 585,
+    "baseWeight": 1230,
+    "category": "GR3"
+  },
+  {
+    "manufacturer": "Lamborghini",
+    "model": "Huracán Gr.4",
+    "basePower": 410,
+    "baseWeight": 1365,
+    "category": "GR4"
+  },
+  {
+    "manufacturer": "Lamborghini",
+    "model": "Huracán LP 610-4 '15",
+    "basePower": 610,
+    "baseWeight": 1422,
+    "category": null
+  },
+  {
+    "manufacturer": "Lamborghini",
+    "model": "Miura P400 Bertone Prototype '67",
+    "basePower": 354,
+    "baseWeight": 980,
+    "category": null
+  },
+  {
+    "manufacturer": "Lamborghini",
+    "model": "Murciélago LP 640 '09",
+    "basePower": 640,
+    "baseWeight": 1665,
+    "category": null
+  },
+  {
+    "manufacturer": "Lamborghini",
+    "model": "Urus '18",
+    "basePower": 650,
+    "baseWeight": 2197,
+    "category": null
+  },
+  {
+    "manufacturer": "Lamborghini",
+    "model": "Veneno '14",
+    "basePower": 750,
+    "baseWeight": 1450,
+    "category": null
+  },
+  {
+    "manufacturer": "Lancia",
+    "model": "Delta HF Integrale Evoluzione '91",
+    "basePower": 212,
+    "baseWeight": 1350,
+    "category": null
+  },
+  {
+    "manufacturer": "Lancia",
+    "model": "Delta HF Integrale Rally Car '92",
+    "basePower": 335,
+    "baseWeight": 1100,
+    "category": "GRB"
+  },
+  {
+    "manufacturer": "Lancia",
+    "model": "Stratos '73",
+    "basePower": 188,
+    "baseWeight": 980,
+    "category": null
+  },
+  {
+    "manufacturer": "Lexus",
+    "model": "LC500 '17",
+    "basePower": 476,
+    "baseWeight": 1940,
+    "category": null
+  },
+  {
+    "manufacturer": "Lexus",
+    "model": "LFA '10",
+    "basePower": 560,
+    "baseWeight": 1480,
+    "category": null
+  },
+  {
+    "manufacturer": "Lexus",
+    "model": "RC F '14",
+    "basePower": 476,
+    "baseWeight": 1790,
+    "category": null
+  },
+  {
+    "manufacturer": "Lexus",
+    "model": "RC F GT3 '17",
+    "basePower": 543,
+    "baseWeight": 1300,
+    "category": "GR3"
+  },
+  {
+    "manufacturer": "Lexus",
+    "model": "RC F GT3 prototype '16",
+    "basePower": 535,
+    "baseWeight": 1300,
+    "category": "GR3"
+  },
+  {
+    "manufacturer": "Lexus",
+    "model": "RC F GT500 '16",
+    "basePower": 623,
+    "baseWeight": 1020,
+    "category": "GR2"
+  },
+  {
+    "manufacturer": "Lexus",
+    "model": "RC F Gr.4",
+    "basePower": 425,
+    "baseWeight": 1400,
+    "category": "GR4"
+  },
+  {
+    "manufacturer": "Lexus",
+    "model": "SC430 GT500 '08",
+    "basePower": 524,
+    "baseWeight": 1100,
+    "category": "GR2"
+  },
+  {
+    "manufacturer": "Mazda",
+    "model": "RX-VISION GT3 CONCEPT",
+    "basePower": 570,
+    "baseWeight": 1250,
+    "category": "GR3"
+  },
+   {
+    "manufacturer": "Mazda",
+    "model": "RX-VISION GT3 CONCEPT Stealth Model",
+    "basePower": 570,
+    "baseWeight": 1250,
+    "category": "GR3"
+  },
+  {
+    "manufacturer": "Mazda",
+    "model": "SPIRIT RACING ROADSTER 12R '25",
+    "basePower": 200,
+    "baseWeight": 1050,
+    "category": null
+  },
+  {
+    "manufacturer": "Mazda",
+    "model": "3 Gr.4",
+    "basePower": 386,
+    "baseWeight": 1200,
+    "category": "GR4"
+  },
+  {
+    "manufacturer": "Mazda",
+    "model": "3 X Burgundy Selection '19",
+    "basePower": 180,
+    "baseWeight": 1480,
+    "category": null
+  },
+  {
+    "manufacturer": "MINI",
+    "model": "Clubman Vision Gran Turismo",
+    "basePower": 394,
+    "baseWeight": 1050,
+    "category": null
+  },
+  {
+    "manufacturer": "MINI",
+    "model": "Cooper S '05",
+    "basePower": 170,
+    "baseWeight": 1180,
+    "category": null
+  },
+  {
+    "manufacturer": "Maserati",
+    "model": "A6GCS/53 Spyder '54",
+    "basePower": 169,
+    "baseWeight": 740,
+    "category": null
+  },
+  {
+    "manufacturer": "Maserati",
+    "model": "GranTurismo S '08",
+    "basePower": 446,
+    "baseWeight": 1780,
+    "category": null
+  },
+  {
+    "manufacturer": "Maserati",
+    "model": "MC20 '20",
+    "basePower": 630,
+    "baseWeight": 1500,
+    "category": null
+  },
+  {
+    "manufacturer": "Maserati",
+    "model": "Merak SS '80",
+    "basePower": 220,
+    "baseWeight": 1420,
+    "category": null
+  },
+  {
+    "manufacturer": "Mazda",
+    "model": "787B '91",
+    "basePower": 700,
+    "baseWeight": 830,
+    "category": "GR1"
+  },
+  {
+    "manufacturer": "Mazda",
+    "model": "Atenza Gr.3",
+    "basePower": 575,
+    "baseWeight": 1280,
+    "category": "GR3"
+  },
+  {
+    "manufacturer": "Mazda",
+    "model": "Atenza Gr.3 Road Car",
+    "basePower": 490,
+    "baseWeight": 1450,
+    "category": null
+  },
+  {
+    "manufacturer": "Mazda",
+    "model": "Atenza Gr.4",
+    "basePower": 399,
+    "baseWeight": 1380,
+    "category": "GR4"
+  },
+  {
+    "manufacturer": "Mazda",
+    "model": "Atenza Sedan XD L Package '15",
+    "basePower": 175,
+    "baseWeight": 1600,
+    "category": null
+  },
+  {
+    "manufacturer": "Mazda",
+    "model": "CX-30 X Smart Edition '21",
+    "basePower": 190,
+    "baseWeight": 1490,
+    "category": null
+  },
+  {
+    "manufacturer": "Mazda",
+    "model": "Demio XD Touring '15",
+    "basePower": 105,
+    "baseWeight": 1080,
+    "category": null
+  },
+  {
+    "manufacturer": "Mazda",
+    "model": "Eunos Roadster (NA Special Package) '89",
+    "basePower": 119,
+    "baseWeight": 940,
+    "category": null
+  },
+  {
+    "manufacturer": "Mazda",
+    "model": "LM55 Vision Gran Turismo",
+    "basePower": null,
+    "baseWeight": null,
+    "category": null
+  },
+  {
+    "manufacturer": "Mazda",
+    "model": "LM55 Vision Gran Turismo (Gr.1)",
+    "basePower": 650,
+    "baseWeight": 880,
+    "category": "GR1"
+  },
+  {
+    "manufacturer": "Mazda",
+    "model": "RX-7 GT-X (FC) '90",
+    "basePower": 206,
+    "baseWeight": 1250,
+    "category": null
+  },
+  {
+    "manufacturer": "Mazda",
+    "model": "RX-7 Spirit R Type A (FD) '02",
+    "basePower": 297,
+    "baseWeight": 1270,
+    "category": null
+  },
+  {
+    "manufacturer": "Mazda",
+    "model": "RX-8 Spirit R '12",
+    "basePower": 234,
+    "baseWeight": 1350,
+    "category": null
+  },
+  {
+    "manufacturer": "Mazda",
+    "model": "RX-VISION '15",
+    "basePower": 525,
+    "baseWeight": 1290,
+    "category": null
+  },
+  {
+    "manufacturer": "Mazda",
+    "model": "RX500 '70",
+    "basePower": 251,
+    "baseWeight": 850,
+    "category": null
+  },
+  {
+    "manufacturer": "Mazda",
+    "model": "Roadster NR-A (ND) '22",
+    "basePower": 132,
+    "baseWeight": 1010,
+    "category": null
+  },
+  {
+    "manufacturer": "Mazda",
+    "model": "Roadster S (ND) '15",
+    "basePower": 130,
+    "baseWeight": 990,
+    "category": null
+  },
+  {
+    "manufacturer": "Mazda",
+    "model": "Roadster Touring Car",
+    "basePower": 208,
+    "baseWeight": 795,
+    "category": null
+  },
+  {
+    "manufacturer": "Mazda",
+    "model": "ɛ̃fini RX-7 Type R (FD) '91",
+    "basePower": 255,
+    "baseWeight": 1260,
+    "category": null
+  },
+  {
+    "manufacturer": "McLaren",
+    "model": "650S Coupe '14",
+    "basePower": 650,
+    "baseWeight": 1330,
+    "category": null
+  },
+  {
+    "manufacturer": "McLaren",
+    "model": "650S GT3 '15",
+    "basePower": 550,
+    "baseWeight": 1240,
+    "category": "GR3"
+  },
+  {
+    "manufacturer": "McLaren",
+    "model": "650S Gr.4",
+    "basePower": 405,
+    "baseWeight": 1300,
+    "category": "GR4"
+  },
+  {
+    "manufacturer": "McLaren",
+    "model": "F1 '94",
+    "basePower": 635,
+    "baseWeight": 1140,
+    "category": null
+  },
+  {
+    "manufacturer": "McLaren",
+    "model": "F1 GTR - BMW '95",
+    "basePower": 609,
+    "baseWeight": 1050,
+    "category": "GR3"
+  },
+  {
+    "manufacturer": "McLaren",
+    "model": "MP4-12C '10",
+    "basePower": 609,
+    "baseWeight": 1350,
+    "category": null
+  },
+  {
+    "manufacturer": "McLaren",
+    "model": "MP4/4 '88",
+    "basePower": 685,
+    "baseWeight": 540,
+    "category": null
+  },
+  {
+    "manufacturer": "McLaren",
+    "model": "P1 GTR '16",
+    "basePower": 1000,
+    "baseWeight": 1345,
+    "category": null
+  },
+  {
+    "manufacturer": "McLaren",
+    "model": "Ultimate Vision Gran Turismo",
+    "basePower": 1150,
+    "baseWeight": 900,
+    "category": null
+  },
+  {
+    "manufacturer": "McLaren",
+    "model": "Ultimate Vision Gran Turismo (Gr.1)",
+    "basePower": 825,
+    "baseWeight": 900,
+    "category": "GR1"
+  },
+  {
+    "manufacturer": "AMG",
+    "model": "Mercedes-AMG C 63 S '15",
+    "basePower": 511,
+    "baseWeight": 1725,
+    "category": null
+  },
+  {
+    "manufacturer": "AMG",
+    "model": "Mercedes-AMG GT Black Series '20",
+    "basePower": 730,
+    "baseWeight": 1540,
+    "category": null
+  },
+  {
+    "manufacturer": "AMG",
+    "model": "Mercedes-AMG GT R '17",
+    "basePower": 585,
+    "baseWeight": 1660,
+    "category": null
+  },
+  {
+    "manufacturer": "AMG",
+    "model": "Mercedes-AMG GT S '15",
+    "basePower": 510,
+    "baseWeight": 1570,
+    "category": null
+  },
+  {
+    "manufacturer": "AMG",
+    "model": "Mercedes-AMG GT Safety Car",
+    "basePower": 510,
+    "baseWeight": 1570,
+    "category": null
+  },
+  {
+    "manufacturer": "AMG",
+    "model": "Mercedes-AMG GT3 '16",
+    "basePower": 623,
+    "baseWeight": 1325,
+    "category": "GR3"
+  },
+  {
+    "manufacturer": "AMG",
+    "model": "Mercedes-AMG GT3 '20",
+    "basePower": 623,
+    "baseWeight": 1285,
+    "category": "GR3"
+  },
+  {
+    "manufacturer": "Mercedes-Benz",
+    "model": "190 E 2.5-16 Evolution II '91",
+    "basePower": 235,
+    "baseWeight": 1340,
+    "category": null
+  },
+  {
+    "manufacturer": "AMG",
+    "model": "300 SEL 6.8 AMG '71",
+    "basePower": 428,
+    "baseWeight": 1635,
+    "category": null
+  },
+  {
+    "manufacturer": "Mercedes-Benz",
+    "model": "300 SL (W194) '52",
+    "basePower": 181,
+    "baseWeight": 1080,
+    "category": null
+  },
+  {
+    "manufacturer": "Mercedes-Benz",
+    "model": "300 SL Coupé '54",
+    "basePower": 215,
+    "baseWeight": 1295,
+    "category": null
+  },
+  {
+    "manufacturer": "AMG",
+    "model": "A 45 AMG 4MATIC '13",
+    "basePower": 360,
+    "baseWeight": 1555,
+    "category": null
+  },
+  {
+    "manufacturer": "AMG",
+    "model": "Mercedes-Benz AMG Vision Gran Turismo",
+    "basePower": 585,
+    "baseWeight": 1385,
+    "category": null
+  },
+  {
+    "manufacturer": "AMG",
+    "model": "Mercedes-Benz AMG Vision Gran Turismo Racing Series",
+    "basePower": 599,
+    "baseWeight": 1300,
+    "category": null
+  },
+  {
+    "manufacturer": "Mercedes-Benz",
+    "model": "CLK-LM '98",
+    "basePower": 608,
+    "baseWeight": 940,
+    "category": "GR2"
+  },
+  {
+    "manufacturer": "Mercedes-Benz",
+    "model": "S Barker Tourer '29",
+    "basePower": 180,
+    "baseWeight": 1270,
+    "category": null
+  },
+  {
+    "manufacturer": "Mercedes-Benz",
+    "model": "SLR McLaren '09",
+    "basePower": 625,
+    "baseWeight": 1768,
+    "category": null
+  },
+  {
+    "manufacturer": "AMG",
+    "model": "SLS AMG '10",
+    "basePower": 578,
+    "baseWeight": 1620,
+    "category": null
+  },
+  {
+    "manufacturer": "AMG",
+    "model": "SLS AMG GT3 '11",
+    "basePower": 623,
+    "baseWeight": 1350,
+    "category": "GR3"
+  },
+  {
+    "manufacturer": "AMG",
+    "model": "SLS AMG Gr.4",
+    "basePower": 425,
+    "baseWeight": 1415,
+    "category": null
+  },
+  {
+    "manufacturer": "Mercedes-Benz",
+    "model": "Unimog Type 411 '62",
+    "basePower": 30,
+    "baseWeight": 1940,
+    "category": null
+  },
+  {
+    "manufacturer": "Mercedes-Benz",
+    "model": "W 196 R '55",
+    "basePower": 294,
+    "baseWeight": 835,
+    "category": null
+  },
+  {
+    "manufacturer": "Mine's",
+    "model": "BNR34 GT-R N1 base",
+    "basePower": 630,
+    "baseWeight": 1350,
+    "category": null
+  },
+  {
+    "manufacturer": "MINI",
+    "model": "Mini-Cooper 'S' '65",
+    "basePower": 65,
+    "baseWeight": 605,
+    "category": null
+  },
+  {
+    "manufacturer": "Mitsubishi",
+    "model": "Concept XR-PHEV EVOLUTION Vision Gran Turismo",
+    "basePower": 510,
+    "baseWeight": 1350,
+    "category": null
+  },
+  {
+    "manufacturer": "Mitsubishi",
+    "model": "FTO GP Version R '97",
+    "basePower": 200,
+    "baseWeight": 1150,
+    "category": null
+  },
+  {
+    "manufacturer": "Mitsubishi",
+    "model": "GTO Twin Turbo '91",
+    "basePower": 289,
+    "baseWeight": 1700,
+    "category": null
+  },
+  {
+    "manufacturer": "Mitsubishi",
+    "model": "Lancer Evolution Final Edition '15",
+    "basePower": 314,
+    "baseWeight": 1530,
+    "category": null
+  },
+  {
+    "manufacturer": "Mitsubishi",
+    "model": "Lancer Evolution Final Edition Gr.3",
+    "basePower": 619,
+    "baseWeight": 1290,
+    "category": "GR3"
+  },
+  {
+    "manufacturer": "Mitsubishi",
+    "model": "Lancer Evolution Final Edition Gr.4",
+    "basePower": 395,
+    "baseWeight": 1330,
+    "category": "GR4"
+  },
+  {
+    "manufacturer": "Mitsubishi",
+    "model": "Lancer Evolution Final Edition Gr.B Rally Car",
+    "basePower": 529,
+    "baseWeight": 1290,
+    "category": "GRB"
+  },
+  {
+    "manufacturer": "Mitsubishi",
+    "model": "Lancer Evolution Final Edition Gr.B Road Car",
+    "basePower": 480,
+    "baseWeight": 1425,
+    "category": null
+  },
+  {
+    "manufacturer": "Mitsubishi",
+    "model": "Lancer Evolution III GSR '95",
+    "basePower": 268,
+    "baseWeight": 1260,
+    "category": null
+  },
+  {
+    "manufacturer": "Mitsubishi",
+    "model": "Lancer Evolution IV GSR '96",
+    "basePower": 277,
+    "baseWeight": 1350,
+    "category": null
+  },
+  {
+    "manufacturer": "Mitsubishi",
+    "model": "Lancer Evolution IX MR GSR '06",
+    "basePower": 281,
+    "baseWeight": 1420,
+    "category": null
+  },
+  {
+    "manufacturer": "Mitsubishi",
+    "model": "Lancer Evolution V GSR '98",
+    "basePower": 311,
+    "baseWeight": 1360,
+    "category": null
+  },
+  {
+    "manufacturer": "Mitsubishi",
+    "model": "Lancer Evolution VI GSR T.M. EDITION Special Color Package '99",
+    "basePower": 316,
+    "baseWeight": 1360,
+    "category": null
+  },
+  {
+    "manufacturer": "Mitsubishi",
+    "model": "Lancer Evolution VIII MR GSR '04",
+    "basePower": 280,
+    "baseWeight": 1400,
+    "category": null
+  },
+  {
+    "manufacturer": "Nismo",
+    "model": "400R '95",
+    "basePower": 400,
+    "baseWeight": 1550,
+    "category": null
+  },
+  {
+    "manufacturer": "Nismo",
+    "model": "R34 GT-R Z-tune '05",
+    "basePower": 500,
+    "baseWeight": 1600,
+    "category": null
+  },
+  {
+    "manufacturer": "Nissan",
+    "model": "CONCEPT 2020 Vision Gran Turismo",
+    "basePower": null,
+    "baseWeight": null,
+    "category": null
+  },
+  {
+    "manufacturer": "Nissan",
+    "model": "180SX Type X '96",
+    "basePower": 206,
+    "baseWeight": 1220,
+    "category": null
+  },
+  {
+    "manufacturer": "Nissan",
+    "model": "Fairlady 240ZG (HS30) '71",
+    "basePower": 150,
+    "baseWeight": 1010,
+    "category": null
+  },
+  {
+    "manufacturer": "Nissan",
+    "model": "Fairlady Z (Z34) '08",
+    "basePower": 336,
+    "baseWeight": 1530,
+    "category": null
+  },
+  {
+    "manufacturer": "Nissan",
+    "model": "Fairlady Z 300ZX TwinTurbo 2seater (Z32) '89",
+    "basePower": 280,
+    "baseWeight": 1510,
+    "category": null
+  },
+  {
+    "manufacturer": "Nissan",
+    "model": "Fairlady Z 432 '69",
+    "basePower": 160,
+    "baseWeight": 1040,
+    "category": null
+  },
+  {
+    "manufacturer": "Nissan",
+    "model": "Fairlady Z Version S (Z33) '07",
+    "basePower": 315,
+    "baseWeight": 1480,
+    "category": null
+  },
+  {
+    "manufacturer": "Nissan",
+    "model": "GT-R GT500 '08",
+    "basePower": 535,
+    "baseWeight": 1100,
+    "category": "GR2"
+  },
+  {
+    "manufacturer": "Nissan",
+    "model": "GT-R GT500 '99",
+    "basePower": 505,
+    "baseWeight": 1200,
+    "category": "GR3"
+  },
+  {
+    "manufacturer": "Nissan",
+    "model": "GT-R Gr.4",
+    "basePower": 435,
+    "baseWeight": 1450,
+    "category": "GR4"
+  },
+  {
+    "manufacturer": "Nissan",
+    "model": "GT-R Gr.B Rally Car",
+    "basePower": 550,
+    "baseWeight": 1350,
+    "category": "GRB"
+  },
+  {
+    "manufacturer": "Nissan",
+    "model": "GT-R LM NISMO '15",
+    "basePower": 613,
+    "baseWeight": 880,
+    "category": "GR1"
+  },
+  {
+    "manufacturer": "Nissan",
+    "model": "GT-R NISMO '17",
+    "basePower": 600,
+    "baseWeight": 1740,
+    "category": null
+  },
+  {
+    "manufacturer": "Nissan",
+    "model": "GT-R NISMO (R32) '90",
+    "basePower": 311,
+    "baseWeight": 1400,
+    "category": null
+  },
+  {
+    "manufacturer": "Nissan",
+    "model": "GT-R NISMO GT3 '13",
+    "basePower": 600,
+    "baseWeight": 1300,
+    "category": "GR3"
+  },
+  {
+    "manufacturer": "Nissan",
+    "model": "GT-R NISMO GT3 '18",
+    "basePower": 585,
+    "baseWeight": 1285,
+    "category": "GR3"
+  },
+  {
+    "manufacturer": "Nissan",
+    "model": "GT-R NISMO GT500 '16",
+    "basePower": 621,
+    "baseWeight": 1020,
+    "category": "GR2"
+  },
+  {
+    "manufacturer": "Nissan",
+    "model": "GT-R Premium edition '17",
+    "basePower": 572,
+    "baseWeight": 1770,
+    "category": null
+  },
+  {
+    "manufacturer": "Nissan",
+    "model": "GT-R Premium edition T-spec '24",
+    "basePower": 570,
+    "baseWeight": 1760,
+    "category": null
+  },
+  {
+    "manufacturer": "Nissan",
+    "model": "GT-R Safety Car",
+    "basePower": 572,
+    "baseWeight": 1740,
+    "category": null
+  },
+  {
+    "manufacturer": "Nissan",
+    "model": "Qashqai Tekna 190 2wd e-Power '22",
+    "basePower": 190,
+    "baseWeight": 1624,
+    "category": null
+  },
+  {
+    "manufacturer": "Nissan",
+    "model": "R92CP '92",
+    "basePower": 800,
+    "baseWeight": 900,
+    "category": "GR1"
+  },
+  {
+    "manufacturer": "Nissan",
+    "model": "Sileighty '98",
+    "basePower": 206,
+    "baseWeight": 1170,
+    "category": null
+  },
+  {
+    "manufacturer": "Nissan",
+    "model": "Silvia K's Aero (S14) '96",
+    "basePower": 220,
+    "baseWeight": 1250,
+    "category": null
+  },
+  {
+    "manufacturer": "Nissan",
+    "model": "Silvia K's Dia Selection (S13) '90",
+    "basePower": 174,
+    "baseWeight": 1140,
+    "category": null
+  },
+  {
+    "manufacturer": "Nissan",
+    "model": "Silvia K's Type S (S14) '94",
+    "basePower": 220,
+    "baseWeight": 1220,
+    "category": null
+  },
+  {
+    "manufacturer": "Nissan",
+    "model": "Silvia Q's (S13) '88",
+    "basePower": 134,
+    "baseWeight": 1090,
+    "category": null
+  },
+  {
+    "manufacturer": "Nissan",
+    "model": "Silvia spec-R Aero (S15) '02",
+    "basePower": 250,
+    "baseWeight": 1240,
+    "category": null
+  },
+  {
+    "manufacturer": "Nissan",
+    "model": "Silvia spec-R Aero (S15) Touring Car",
+    "basePower": 360,
+    "baseWeight": 1000,
+    "category": "GR4"
+  },
+  {
+    "manufacturer": "Nissan",
+    "model": "Skyline 2000GT-R (KPGC110) '73",
+    "basePower": 160,
+    "baseWeight": 1145,
+    "category": null
+  },
+  {
+    "manufacturer": "Nissan",
+    "model": "Skyline GT-R V･spec (R33) '97",
+    "basePower": 324,
+    "baseWeight": 1540,
+    "category": null
+  },
+  {
+    "manufacturer": "Nissan",
+    "model": "Skyline GT-R V･spec II (R32) '94",
+    "basePower": 311,
+    "baseWeight": 1500,
+    "category": null
+  },
+  {
+    "manufacturer": "Nissan",
+    "model": "Skyline GT-R V･spec II Nür (R34) '02",
+    "basePower": 341,
+    "baseWeight": 1560,
+    "category": null
+  },
+  {
+    "manufacturer": "Nissan",
+    "model": "Skyline GTS-R (R31) '87",
+    "basePower": 210,
+    "baseWeight": 1340,
+    "category": null
+  },
+  {
+    "manufacturer": "Nissan",
+    "model": "Skyline Hard Top 2000GT-R (KPGC10) '70",
+    "basePower": 160,
+    "baseWeight": 1100,
+    "category": null
+  },
+  {
+    "manufacturer": "Nissan",
+    "model": "Skyline Super Silhouette Group 5 '84",
+    "basePower": 569,
+    "baseWeight": 1005,
+    "category": "GR3"
+  },
+  {
+    "manufacturer": "Nissan",
+    "model": "Z Performance '23",
+    "basePower": 405,
+    "baseWeight": 1543,
+    "category": null
+  },
+  {
+    "manufacturer": "Opel",
+    "model": "Corsa GSE Vision Gran Turismo",
+    "basePower": 800,
+    "baseWeight": 1170,
+    "category": null
+  },
+  {
+    "manufacturer": "Peugeot",
+    "model": "Vision Gran Turismo",
+    "basePower": 886,
+    "baseWeight": 875,
+    "category": null
+  },
+  {
+    "manufacturer": "Peugeot",
+    "model": "Vision Gran Turismo (Gr.3)",
+    "basePower": 550,
+    "baseWeight": 1250,
+    "category": "GR3"
+  },
+  {
+    "manufacturer": "Pagani",
+    "model": "Huayra '13",
+    "basePower": 741,
+    "baseWeight": 1350,
+    "category": null
+  },
+  {
+    "manufacturer": "Pagani",
+    "model": "Zonda R '09",
+    "basePower": 748,
+    "baseWeight": 1070,
+    "category": null
+  },
+  {
+    "manufacturer": "Peugeot",
+    "model": "205 GTI '88",
+    "basePower": 130,
+    "baseWeight": 875,
+    "category": null
+  },
+  {
+    "manufacturer": "Peugeot",
+    "model": "205 Turbo 16 Evolution 2 '86",
+    "basePower": 455,
+    "baseWeight": 910,
+    "category": "GRB"
+  },
+  {
+    "manufacturer": "Peugeot",
+    "model": "208 GTi by Peugeot Sport '14",
+    "basePower": 207,
+    "baseWeight": 1200,
+    "category": null
+  },
+  {
+    "manufacturer": "Peugeot",
+    "model": "908 HDi FAP '10",
+    "basePower": 710,
+    "baseWeight": 930,
+    "category": "GR1"
+  },
+  {
+    "manufacturer": "Peugeot",
+    "model": "L500R HYbrid Vision Gran Turismo, 2017",
+    "basePower": 517,
+    "baseWeight": 1000,
+    "category": null
+  },
+  {
+    "manufacturer": "Peugeot",
+    "model": "L750R HYbrid Vision Gran Turismo, 2017",
+    "basePower": 703,
+    "baseWeight": 825,
+    "category": "GR1"
+  },
+  {
+    "manufacturer": "Peugeot",
+    "model": "RCZ GT Line '15",
+    "basePower": 155,
+    "baseWeight": 1350,
+    "category": null
+  },
+  {
+    "manufacturer": "Peugeot",
+    "model": "RCZ Gr.3",
+    "basePower": 528,
+    "baseWeight": 1200,
+    "category": "GR3"
+  },
+  {
+    "manufacturer": "Peugeot",
+    "model": "RCZ Gr.3 Road Car",
+    "basePower": 475,
+    "baseWeight": 1400,
+    "category": null
+  },
+  {
+    "manufacturer": "Peugeot",
+    "model": "RCZ Gr.4",
+    "basePower": 350,
+    "baseWeight": 1225,
+    "category": "GR4"
+  },
+  {
+    "manufacturer": "Peugeot",
+    "model": "RCZ Gr.B Rally Car",
+    "basePower": 524,
+    "baseWeight": 1200,
+    "category": "GRB"
+  },
+  {
+    "manufacturer": "Peugeot",
+    "model": "SUV 2008 Allure '21",
+    "basePower": 131,
+    "baseWeight": 1192,
+    "category": null
+  },
+  {
+    "manufacturer": "Plymouth",
+    "model": "Superbird '70",
+    "basePower": 431,
+    "baseWeight": 1755,
+    "category": null
+  },
+  {
+    "manufacturer": "Plymouth",
+    "model": "XNR Ghia Roadster '60",
+    "basePower": 254,
+    "baseWeight": 1500,
+    "category": null
+  },
+  {
+    "manufacturer": "Polestar",
+    "model": "5 Performance '26",
+    "basePower": 884,
+    "baseWeight": 2503,
+    "category": null
+  },
+  {
+    "manufacturer": "Pontiac",
+    "model": "Firebird Trans Am '78",
+    "basePower": 223,
+    "baseWeight": 1640,
+    "category": null
+  },
+  {
+    "manufacturer": "Pontiac",
+    "model": "GTO 'The Judge' '69",
+    "basePower": 370,
+    "baseWeight": 1610,
+    "category": null
+  },
+  {
+    "manufacturer": "Porsche",
+    "model": "356 A/1500 GS Carrera '56",
+    "basePower": 99,
+    "baseWeight": 840,
+    "category": null
+  },
+  {
+    "manufacturer": "Porsche",
+    "model": "356 A/1500 GS GT Carrera Speedster '56",
+    "basePower": 109,
+    "baseWeight": 840,
+    "category": null
+  },
+  {
+    "manufacturer": "Porsche",
+    "model": "911 Carrera RS (901) '73",
+    "basePower": 209,
+    "baseWeight": 1075,
+    "category": null
+  },
+  {
+    "manufacturer": "Porsche",
+    "model": "911 Carrera RS (964) '92",
+    "basePower": 259,
+    "baseWeight": 1230,
+    "category": null
+  },
+  {
+    "manufacturer": "Porsche",
+    "model": "911 Carrera RS (993) '95",
+    "basePower": 300,
+    "baseWeight": 1270,
+    "category": null
+  },
+  {
+    "manufacturer": "Porsche",
+    "model": "911 Carrera RS Clubsport (993) '95",
+    "basePower": 300,
+    "baseWeight": 1235,
+    "category": null
+  },
+  {
+    "manufacturer": "Porsche",
+    "model": "911 GT1 Strassenversion '97",
+    "basePower": 541,
+    "baseWeight": 1200,
+    "category": null
+  },
+  {
+    "manufacturer": "Porsche",
+    "model": "911 GT3 (996) '01",
+    "basePower": 359,
+    "baseWeight": 1350,
+    "category": null
+  },
+  {
+    "manufacturer": "Porsche",
+    "model": "911 GT3 (997) '09",
+    "basePower": 434,
+    "baseWeight": 1395,
+    "category": null
+  },
+  {
+    "manufacturer": "Porsche",
+    "model": "911 GT3 R (992) '22",
+    "basePower": 565,
+    "baseWeight": 1250,
+    "category": "GR3"
+  },
+  {
+    "manufacturer": "Porsche",
+    "model": "911 GT3 RS (991) '16",
+    "basePower": 498,
+    "baseWeight": 1420,
+    "category": null
+  },
+  {
+    "manufacturer": "Porsche",
+    "model": "911 GT3 RS (992) '22",
+    "basePower": 525,
+    "baseWeight": 1450,
+    "category": null
+  },
+  {
+    "manufacturer": "Porsche",
+    "model": "911 RSR (991) '17",
+    "basePower": 517,
+    "baseWeight": 1243,
+    "category": "GR3"
+  },
+  {
+    "manufacturer": "Porsche",
+    "model": "911 Turbo (930) '81",
+    "basePower": 300,
+    "baseWeight": 1300,
+    "category": null
+  },
+  {
+    "manufacturer": "Porsche",
+    "model": "911 Turbo S (992) '20",
+    "basePower": 650,
+    "baseWeight": 1640,
+    "category": null
+  },
+  {
+    "manufacturer": "Porsche",
+    "model": "911 Turbo S Leichtbau (964) '93",
+    "basePower": 381,
+    "baseWeight": 1290,
+    "category": null
+  },
+  {
+    "manufacturer": "Porsche",
+    "model": "917 LIVING LEGEND",
+    "basePower": 990,
+    "baseWeight": 1220,
+    "category": null
+  },
+  {
+    "manufacturer": "Porsche",
+    "model": "917K '70",
+    "basePower": 607,
+    "baseWeight": 800,
+    "category": null
+  },
+  {
+    "manufacturer": "Porsche",
+    "model": "918 Spyder '13",
+    "basePower": 887,
+    "baseWeight": 1674,
+    "category": null
+  },
+  {
+    "manufacturer": "Porsche",
+    "model": "919 Hybrid '16",
+    "basePower": 507,
+    "baseWeight": 875,
+    "category": "GR1"
+  },
+  {
+    "manufacturer": "Porsche",
+    "model": "959 '87",
+    "basePower": 450,
+    "baseWeight": 1450,
+    "category": null
+  },
+  {
+    "manufacturer": "Porsche",
+    "model": "962 C '88",
+    "basePower": 700,
+    "baseWeight": 850,
+    "category": "GR1"
+  },
+  {
+    "manufacturer": "Porsche",
+    "model": "Carrera GT '04",
+    "basePower": 612,
+    "baseWeight": 1380,
+    "category": null
+  },
+  {
+    "manufacturer": "Porsche",
+    "model": "Carrera GTS (904) '64",
+    "basePower": 182,
+    "baseWeight": 650,
+    "category": null
+  },
+  {
+    "manufacturer": "Porsche",
+    "model": "Cayman GT4 '16",
+    "basePower": 385,
+    "baseWeight": 1340,
+    "category": null
+  },
+  {
+    "manufacturer": "Porsche",
+    "model": "Cayman GT4 Clubsport '16",
+    "basePower": 385,
+    "baseWeight": 1300,
+    "category": "GR4"
+  },
+  {
+    "manufacturer": "Porsche",
+    "model": "Mission X '23",
+    "basePower": 1360,
+    "baseWeight": null,
+    "category": null
+  },
+  {
+    "manufacturer": "Porsche",
+    "model": "Spyder type 550/1500RS '55",
+    "basePower": 110,
+    "baseWeight": 590,
+    "category": null
+  },
+  {
+    "manufacturer": "Porsche",
+    "model": "Taycan Turbo S '19",
+    "basePower": 762,
+    "baseWeight": 2295,
+    "category": null
+  },
+  {
+    "manufacturer": "Porsche",
+    "model": "Vision Gran Turismo",
+    "basePower": 1114,
+    "baseWeight": 1390,
+    "category": null
+  },
+  {
+    "manufacturer": "Porsche",
+    "model": "Vision Gran Turismo Spyder",
+    "basePower": 1114,
+    "baseWeight": 1390,
+    "category": null
+  },
+  {
+    "manufacturer": "RE Amemiya",
+    "model": "FD3S RX-7",
+    "basePower": 372,
+    "baseWeight": 1240,
+    "category": null
+  },
+  {
+    "manufacturer": "RUF",
+    "model": "CTR3 '07",
+    "basePower": 700,
+    "baseWeight": 1400,
+    "category": null
+  },
+  {
+    "manufacturer": "RUF",
+    "model": "RGT 4.2 '16",
+    "basePower": 525,
+    "baseWeight": 1400,
+    "category": null
+  },
+  {
+    "manufacturer": "Radical",
+    "model": "SR3 SL '13",
+    "basePower": 243,
+    "baseWeight": 775,
+    "category": null
+  },
+  {
+    "manufacturer": "Renault",
+    "model": "Avantime 3.0 V6 24V '02",
+    "basePower": 207,
+    "baseWeight": 1741,
+    "category": null
+  },
+  {
+    "manufacturer": "Renault",
+    "model": "Captur S Edition TCe 140 '21",
+    "basePower": 140,
+    "baseWeight": 1234,
+    "category": null
+  },
+  {
+    "manufacturer": "Renault",
+    "model": "Espace F1 '95",
+    "basePower": 811,
+    "baseWeight": 1300,
+    "category": null
+  },
+  {
+    "manufacturer": "Renault",
+    "model": "Kangoo 1.4 '01",
+    "basePower": 75,
+    "baseWeight": 1080,
+    "category": null
+  },
+  {
+    "manufacturer": "Renault",
+    "model": "R4 GTL '85",
+    "basePower": 34,
+    "baseWeight": 720,
+    "category": null
+  },
+  {
+    "manufacturer": "Renault",
+    "model": "R5 Turbo '80",
+    "basePower": 162,
+    "baseWeight": 970,
+    "category": null
+  },
+  {
+    "manufacturer": "Renault",
+    "model": "R8 Gordini '66",
+    "basePower": 103,
+    "baseWeight": 850,
+    "category": null
+  },
+  {
+    "manufacturer": "Renault",
+    "model": "Sport Clio R.S. 220 EDC Trophy '15",
+    "basePower": 220,
+    "baseWeight": 1179,
+    "category": null
+  },
+  {
+    "manufacturer": "Renault",
+    "model": "Sport Clio R.S. 220 EDC Trophy '16",
+    "basePower": 220,
+    "baseWeight": 1204,
+    "category": null
+  },
+  {
+    "manufacturer": "Renault",
+    "model": "Sport Clio V6 24V '00",
+    "basePower": 233,
+    "baseWeight": 1335,
+    "category": null
+  },
+  {
+    "manufacturer": "Renault",
+    "model": "Sport Mégane Gr.4",
+    "basePower": 355,
+    "baseWeight": 1100,
+    "category": "GR4"
+  },
+  {
+    "manufacturer": "Renault",
+    "model": "Sport Mégane R.S. Trophy '11",
+    "basePower": 265,
+    "baseWeight": 1387,
+    "category": "GR4"
+  },
+  {
+    "manufacturer": "Renault",
+    "model": "Sport Mégane R.S. Trophy Safety Car",
+    "basePower": 265,
+    "baseWeight": 1387,
+    "category": null
+  },
+  {
+    "manufacturer": "Renault",
+    "model": "Sport Mégane Trophy '11",
+    "basePower": 365,
+    "baseWeight": 955,
+    "category": null
+  },
+  {
+    "manufacturer": "Renault",
+    "model": "Sport R.S.01 '16",
+    "basePower": 550,
+    "baseWeight": 1144,
+    "category": null
+  },
+  {
+    "manufacturer": "Renault",
+    "model": "Sport R.S.01 GT3 '16",
+    "basePower": 542,
+    "baseWeight": 1220,
+    "category": "GR3"
+  },
+  {
+    "manufacturer": "Renault",
+    "model": "Twingo '93",
+    "basePower": 55,
+    "baseWeight": 790,
+    "category": null
+  },
+  {
+    "manufacturer": "Roadster Shop",
+    "model": "Rampage",
+    "basePower": 759,
+    "baseWeight": 1406,
+    "category": null
+  },
+  {
+    "manufacturer": "Subaru",
+    "model": "VIZIV GT Vision Gran Turismo",
+    "basePower": 639,
+    "baseWeight": 1380,
+    "category": null
+  },
+  {
+    "manufacturer": "Suzuki",
+    "model": "Vision Gran Turismo",
+    "basePower": 432,
+    "baseWeight": 970,
+    "category": null
+  },
+  {
+    "manufacturer": "Suzuki",
+    "model": "Vision Gran Turismo (Gr.3 Version)",
+    "basePower": 586,
+    "baseWeight": 1220,
+    "category": "GR3"
+  },
+  {
+    "manufacturer": "Mercedes-Benz",
+    "model": "Sauber Mercedes C9 '89",
+    "basePower": 720,
+    "baseWeight": 893,
+    "category": "GR1"
+  },
+  {
+    "manufacturer": "Shelby",
+    "model": "Cobra 427 '66",
+    "basePower": 491,
+    "baseWeight": 1068,
+    "category": null
+  },
+  {
+    "manufacturer": "Shelby",
+    "model": "Cobra Daytona Coupe '64",
+    "basePower": 390,
+    "baseWeight": 1043,
+    "category": null
+  },
+  {
+    "manufacturer": "Shelby",
+    "model": "G.T.350 '65",
+    "basePower": 309,
+    "baseWeight": 1270,
+    "category": null
+  },
+  {
+    "manufacturer": "Subaru",
+    "model": "BRZ Drift Car '17",
+    "basePower": 1052,
+    "baseWeight": 1433,
+    "category": null
+  },
+  {
+    "manufacturer": "Subaru",
+    "model": "BRZ GT300 '21",
+    "basePower": 485,
+    "baseWeight": 1150,
+    "category": "GR3"
+  },
+  {
+    "manufacturer": "Subaru",
+    "model": "BRZ S '15",
+    "basePower": 200,
+    "baseWeight": 1230,
+    "category": null
+  },
+  {
+    "manufacturer": "Subaru",
+    "model": "BRZ S '21",
+    "basePower": 235,
+    "baseWeight": 1270,
+    "category": null
+  },
+  {
+    "manufacturer": "Subaru",
+    "model": "BRZ STI Sport '18",
+    "basePower": 206,
+    "baseWeight": 1250,
+    "category": null
+  },
+  {
+    "manufacturer": "Subaru",
+    "model": "Impreza 22B-STi Version '98",
+    "basePower": 294,
+    "baseWeight": 1270,
+    "category": null
+  },
+  {
+    "manufacturer": "Subaru",
+    "model": "Impreza Coupe WRX Type R STi Version VI '99",
+    "basePower": 280,
+    "baseWeight": 1260,
+    "category": null
+  },
+  {
+    "manufacturer": "Subaru",
+    "model": "Impreza Rally Car '98",
+    "basePower": 304,
+    "baseWeight": 1230,
+    "category": "GRB"
+  },
+  {
+    "manufacturer": "Subaru",
+    "model": "Impreza Sedan WRX STi '04",
+    "basePower": 291,
+    "baseWeight": 1460,
+    "category": null
+  },
+  {
+    "manufacturer": "Subaru",
+    "model": "WRX Gr.3",
+    "basePower": 600,
+    "baseWeight": 1280,
+    "category": "GR3"
+  },
+  {
+    "manufacturer": "Subaru",
+    "model": "WRX Gr.4",
+    "basePower": 383,
+    "baseWeight": 1320,
+    "category": null
+  },
+  {
+    "manufacturer": "Subaru",
+    "model": "WRX Gr.B Rally Car",
+    "basePower": 529,
+    "baseWeight": 1280,
+    "category": "GRB"
+  },
+  {
+    "manufacturer": "Subaru",
+    "model": "WRX Gr.B Road Car",
+    "basePower": 480,
+    "baseWeight": 1425,
+    "category": null
+  },
+  {
+    "manufacturer": "Subaru",
+    "model": "WRX STI Isle of Man Time Attack Car '16",
+    "basePower": 587,
+    "baseWeight": 1140,
+    "category": null
+  },
+  {
+    "manufacturer": "Subaru",
+    "model": "WRX STI Type S '14",
+    "basePower": 307,
+    "baseWeight": 1490,
+    "category": null
+  },
+  {
+    "manufacturer": "Suzuki",
+    "model": "Cappuccino (EA11R) '91",
+    "basePower": 63,
+    "baseWeight": 700,
+    "category": null
+  },
+  {
+    "manufacturer": "Suzuki",
+    "model": "Carry KC '12",
+    "basePower": 48,
+    "baseWeight": 710,
+    "category": null
+  },
+  {
+    "manufacturer": "Suzuki",
+    "model": "Jimny Sierra JC '18",
+    "basePower": 102,
+    "baseWeight": 1070,
+    "category": null
+  },
+  {
+    "manufacturer": "Suzuki",
+    "model": "Jimny XC '18",
+    "basePower": 64,
+    "baseWeight": 1030,
+    "category": null
+  },
+  {
+    "manufacturer": "Suzuki",
+    "model": "Swift Sport '07",
+    "basePower": 125,
+    "baseWeight": 1060,
+    "category": null
+  },
+  {
+    "manufacturer": "Suzuki",
+    "model": "Swift Sport '17",
+    "basePower": 139,
+    "baseWeight": 970,
+    "category": null
+  },
+  {
+    "manufacturer": "Suzuki",
+    "model": "Swift Sport KATANA Edition Gr.4",
+    "basePower": 350,
+    "baseWeight": 900,
+    "category": "GR4"
+  },
+  {
+    "manufacturer": "Suzuki",
+    "model": "V6 Escudo Pikes Peak Special '98",
+    "basePower": 995,
+    "baseWeight": 800,
+    "category": null
+  },
+  {
+    "manufacturer": "Toyota",
+    "model": "86 GT '15",
+    "basePower": 200,
+    "baseWeight": 1230,
+    "category": null
+  },
+  {
+    "manufacturer": "Toyota",
+    "model": "86 GT\"Limited\" '16",
+    "basePower": 206,
+    "baseWeight": 1240,
+    "category": null
+  },
+  {
+    "manufacturer": "Toyota",
+    "model": "86 Gr.4",
+    "basePower": 364,
+    "baseWeight": 1200,
+    "category": "GR4"
+  },
+  {
+    "manufacturer": "Toyota",
+    "model": "86 Gr.B Rally Car",
+    "basePower": 524,
+    "baseWeight": 1180,
+    "category": "GRB"
+  },
+  {
+    "manufacturer": "Toyota",
+    "model": "GR010 HYBRID '21",
+    "basePower": 680,
+    "baseWeight": 1040,
+    "category": "GR1"
+  },
+  {
+    "manufacturer": "Toyota",
+    "model": "S-FR '15",
+    "basePower": 135,
+    "baseWeight": 1050,
+    "category": null
+  },
+  {
+    "manufacturer": "Toyota",
+    "model": "S-FR Racing Concept '16",
+    "basePower": 354,
+    "baseWeight": 1150,
+    "category": null
+  },
+  {
+    "manufacturer": "TVR",
+    "model": "Tuscan Speed 6 '00",
+    "basePower": 366,
+    "baseWeight": 1100,
+    "category": null
+  },
+  {
+    "manufacturer": "Tesla",
+    "model": "Model 3 Performance '23",
+    "basePower": 539,
+    "baseWeight": 1836,
+    "category": null
+  },
+  {
+    "manufacturer": "Tesla",
+    "model": "Model S Signature Performance '12",
+    "basePower": 416,
+    "baseWeight": 2018,
+    "category": null
+  },
+  {
+    "manufacturer": "Toyota",
+    "model": "2000GT '67",
+    "basePower": 156,
+    "baseWeight": 1120,
+    "category": null
+  },
+  {
+    "manufacturer": "Toyota",
+    "model": "86 GRMN '16",
+    "basePower": 218,
+    "baseWeight": 1220,
+    "category": null
+  },
+  {
+    "manufacturer": "Toyota",
+    "model": "Alphard Executive Lounge '18",
+    "basePower": 301,
+    "baseWeight": 2210,
+    "category": null
+  },
+  {
+    "manufacturer": "Toyota",
+    "model": "Ambulance Himedic '21",
+    "basePower": 160,
+    "baseWeight": 2860,
+    "category": null
+  },
+  {
+    "manufacturer": "Toyota",
+    "model": "Aqua S '11",
+    "basePower": 111,
+    "baseWeight": 1080,
+    "category": null
+  },
+  {
+    "manufacturer": "Toyota",
+    "model": "C-HR S '18",
+    "basePower": 138,
+    "baseWeight": 1440,
+    "category": null
+  },
+  {
+    "manufacturer": "Toyota",
+    "model": "Celica GT-FOUR (ST205) '94",
+    "basePower": 254,
+    "baseWeight": 1380,
+    "category": null
+  },
+  {
+    "manufacturer": "Toyota",
+    "model": "Celica GT-FOUR Rally Car (ST205) '95",
+    "basePower": 303,
+    "baseWeight": 1200,
+    "category": "GRB"
+  },
+  {
+    "manufacturer": "Toyota",
+    "model": "Corolla Levin 3door 1600GT APEX (AE86) '83",
+    "basePower": 129,
+    "baseWeight": 940,
+    "category": null
+  },
+  {
+    "manufacturer": "Toyota",
+    "model": "Crown Athlete G '13",
+    "basePower": 314,
+    "baseWeight": 1650,
+    "category": null
+  },
+  {
+    "manufacturer": "Toyota",
+    "model": "Crown Athlete G Safety Car",
+    "basePower": 314,
+    "baseWeight": 1650,
+    "category": null
+  },
+  {
+    "manufacturer": "Toyota",
+    "model": "FT-1",
+    "basePower": null,
+    "baseWeight": null,
+    "category": null
+  },
+  {
+    "manufacturer": "Toyota",
+    "model": "FT-1 Vision Gran Turismo",
+    "basePower": null,
+    "baseWeight": null,
+    "category": null
+  },
+  {
+    "manufacturer": "Toyota",
+    "model": "FT-1 Vision Gran Turismo (Gr.3)",
+    "basePower": 552,
+    "baseWeight": 1280,
+    "category": "GR3"
+  },
+  {
+    "manufacturer": "Toyota",
+    "model": "GR Corolla MORIZO Edition '22",
+    "basePower": 304,
+    "baseWeight": 1445,
+    "category": null
+  },
+  {
+    "manufacturer": "Toyota",
+    "model": "GR Supra RZ '19",
+    "basePower": 340,
+    "baseWeight": 1520,
+    "category": null
+  },
+  {
+    "manufacturer": "Toyota",
+    "model": "GR Supra RZ '20",
+    "basePower": 388,
+    "baseWeight": 1530,
+    "category": null
+  },
+  {
+    "manufacturer": "Toyota",
+    "model": "GR Supra Race Car '19",
+    "basePower": 400,
+    "baseWeight": 1380,
+    "category": "GR4"
+  },
+  {
+    "manufacturer": "Toyota",
+    "model": "GR Supra Racing Concept '18",
+    "basePower": 600,
+    "baseWeight": 1243,
+    "category": "GR3"
+  },
+  {
+    "manufacturer": "Toyota",
+    "model": "GR Yaris 1st Edition RZ \"High performance\" '20",
+    "basePower": 272,
+    "baseWeight": 1290,
+    "category": null
+  },
+  {
+    "manufacturer": "Toyota",
+    "model": "GR86 RZ '21",
+    "basePower": 235,
+    "baseWeight": 1270,
+    "category": null
+  },
+  {
+    "manufacturer": "Toyota",
+    "model": "GT-One (TS020) '99",
+    "basePower": 775,
+    "baseWeight": 900,
+    "category": "GR2"
+  },
+  {
+    "manufacturer": "Toyota",
+    "model": "Hiace Van DX '16",
+    "basePower": 136,
+    "baseWeight": 1680,
+    "category": null
+  },
+  {
+    "manufacturer": "Toyota",
+    "model": "Land Cruiser FJ40V '74",
+    "basePower": 130,
+    "baseWeight": 1610,
+    "category": null
+  },
+  {
+    "manufacturer": "Toyota",
+    "model": "MR2 GT-S '97",
+    "basePower": 245,
+    "baseWeight": 1270,
+    "category": null
+  },
+  {
+    "manufacturer": "Toyota",
+    "model": "Prius G '09",
+    "basePower": 149,
+    "baseWeight": 1350,
+    "category": null
+  },
+  {
+    "manufacturer": "Toyota",
+    "model": "RAV4 Adventure '20",
+    "basePower": 171,
+    "baseWeight": 1630,
+    "category": null
+  },
+  {
+    "manufacturer": "Toyota",
+    "model": "Sports 800 '65",
+    "basePower": 44,
+    "baseWeight": 580,
+    "category": null
+  },
+  {
+    "manufacturer": "Toyota",
+    "model": "Sprinter Trueno 3door 1600GT APEX (AE86) '83",
+    "basePower": 129,
+    "baseWeight": 940,
+    "category": null
+  },
+  {
+    "manufacturer": "Toyota",
+    "model": "Supra 3.0GT Turbo A '88",
+    "basePower": 270,
+    "baseWeight": 1530,
+    "category": null
+  },
+  {
+    "manufacturer": "Toyota",
+    "model": "Supra GT500 '97",
+    "basePower": 499,
+    "baseWeight": 1150,
+    "category": "GR3"
+  },
+  {
+    "manufacturer": "Toyota",
+    "model": "Supra RZ '97",
+    "basePower": 330,
+    "baseWeight": 1510,
+    "category": null
+  },
+  {
+    "manufacturer": "Toyota",
+    "model": "TS030 Hybrid '12",
+    "basePower": 537,
+    "baseWeight": 900,
+    "category": "GR1"
+  },
+  {
+    "manufacturer": "Toyota",
+    "model": "TS050 - Hybrid '16",
+    "basePower": 500,
+    "baseWeight": 875,
+    "category": "GR1"
+  },
+  {
+    "manufacturer": "Toyota",
+    "model": "Trueno 3door 1600GT APEX (AE86 Shuichi Shigeno Version)",
+    "basePower": 210,
+    "baseWeight": 825,
+    "category": null
+  },
+  {
+    "manufacturer": "Toyota",
+    "model": "Tundra TRD Pro '19",
+    "basePower": 385,
+    "baseWeight": 2555,
+    "category": null
+  },
+  {
+    "manufacturer": "Volkswagen",
+    "model": "1200 '66",
+    "basePower": 34,
+    "baseWeight": 780,
+    "category": null
+  },
+  {
+    "manufacturer": "Volkswagen",
+    "model": "Beetle Gr.3",
+    "basePower": 600,
+    "baseWeight": 1200,
+    "category": "GR3"
+  },
+  {
+    "manufacturer": "Volkswagen",
+    "model": "GTI Roadster Vision Gran Turismo",
+    "basePower": 559,
+    "baseWeight": 1200,
+    "category": null
+  },
+  {
+    "manufacturer": "Volkswagen",
+    "model": "GTI Supersport Vision Gran Turismo",
+    "basePower": 559,
+    "baseWeight": 1200,
+    "category": null
+  },
+  {
+    "manufacturer": "Volkswagen",
+    "model": "GTI Vision Gran Turismo (Gr.3)",
+    "basePower": 559,
+    "baseWeight": 1260,
+    "category": "GR3"
+  },
+  {
+    "manufacturer": "Volkswagen",
+    "model": "Golf I GTI '83",
+    "basePower": 112,
+    "baseWeight": 890,
+    "category": null
+  },
+  {
+    "manufacturer": "Volkswagen",
+    "model": "Golf VII GTI '14",
+    "basePower": 220,
+    "baseWeight": 1390,
+    "category": null
+  },
+  {
+    "manufacturer": "Volkswagen",
+    "model": "ID.R '19",
+    "basePower": 680,
+    "baseWeight": 1030,
+    "category": null
+  },
+  {
+    "manufacturer": "Volkswagen",
+    "model": "Polo GTI '14",
+    "basePower": 192,
+    "baseWeight": 1272,
+    "category": null
+  },
+  {
+    "manufacturer": "Volkswagen",
+    "model": "Sambabus Typ 2 (T1) '62",
+    "basePower": 34,
+    "baseWeight": 1095,
+    "category": null
+  },
+  {
+    "manufacturer": "Volkswagen",
+    "model": "Scirocco Gr.4",
+    "basePower": 364,
+    "baseWeight": 1050,
+    "category": "GR4"
+  },
+  {
+    "manufacturer": "Volkswagen",
+    "model": "Scirocco R '10",
+    "basePower": 256,
+    "baseWeight": 1410,
+    "category": null
+  },
+  {
+    "manufacturer": "Volvo",
+    "model": "240 SE Estate '93",
+    "basePower": 111,
+    "baseWeight": 1324,
+    "category": null
+  },
+  {
+    "manufacturer": "Volvo",
+    "model": "V40 T5 R-Design '13",
+    "basePower": 213,
+    "baseWeight": 1540,
+    "category": null
+  },
+  {
+    "manufacturer": "Wicked Fabrication",
+    "model": "GT 51",
+    "basePower": 378,
+    "baseWeight": 1338,
+    "category": null
+  },
+  {
+    "manufacturer": "Xiaomi",
+    "model": "SU7 Ultra '25",
+    "basePower": 1548,
+    "baseWeight": 2360,
+    "category": null
+  },
+  {
+    "manufacturer": "Yangwang",
+    "model": "U9 '24",
+    "basePower": 1305,
+    "baseWeight": 2380,
+    "category": null
+  },
+  {
+    "manufacturer": "Škoda",
+    "model": "Vision Gran Turismo",
+    "basePower": 1087,
+    "baseWeight": 1300,
+    "category": null
+  }
+]
