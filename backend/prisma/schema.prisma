@@ -62,12 +62,6 @@ model VehicleModel {
   id Int @id @default(autoincrement())
   manufacturer String
   model String
-
-  basePP Decimal @db.Decimal(5,2)
-  basePower Int
-  baseWeight Int
-  Year Int?
-
   category String?
 
   createdAt DateTime @default(now())
