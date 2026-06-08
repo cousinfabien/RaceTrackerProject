@@ -1,0 +1,4522 @@
+[
+  {
+    "model": "1932 Ford Roadster",
+    "transmission": "FR",
+    "power": 182,
+    "torque": 417.6,
+    "weight": 1115,
+    "aspiration": "NA"
+  },
+  {
+    "model": "AFEELA 1 '26",
+    "transmission": "4RM",
+    "power": null,
+    "torque": null,
+    "weight": null,
+    "aspiration": "VE"
+  },
+  {
+    "model": "AFEELA Prototype 2024",
+    "transmission": "4RM",
+    "power": null,
+    "torque": null,
+    "weight": null,
+    "aspiration": "VE"
+  },
+  {
+    "model": "Abarth 1500 Biposto Bertone B.A.T 1 '52",
+    "transmission": "FR",
+    "power": 75,
+    "torque": 99.8,
+    "weight": 870,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Abarth 500 '09",
+    "transmission": "FF",
+    "power": 135,
+    "torque": 180.2,
+    "weight": 1035,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Alfa Romeo 155 2.5 V6 TI '93",
+    "transmission": "4RM",
+    "power": 419,
+    "torque": 294,
+    "weight": 1010,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Alfa Romeo 4C Gr.3",
+    "transmission": "MR",
+    "power": 536,
+    "torque": 528.9,
+    "weight": 1220,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Alfa Romeo 4C Gr.3 Road Car",
+    "transmission": "MR",
+    "power": 450,
+    "torque": 447.5,
+    "weight": 1320,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Alfa Romeo 4C Gr.4",
+    "transmission": "MR",
+    "power": 300,
+    "torque": 356.3,
+    "weight": 1020,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Alfa Romeo 4C Launch Edition '14",
+    "transmission": "MR",
+    "power": 239,
+    "torque": 349.8,
+    "weight": 950,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Alfa Romeo 8C 2900B Touring Berlinetta '38",
+    "transmission": "FR",
+    "power": 182,
+    "torque": 261.6,
+    "weight": 1310,
+    "aspiration": "SA"
+  },
+  {
+    "model": "Alfa Romeo 8C Competizione '08",
+    "transmission": "FR",
+    "power": 449,
+    "torque": 480.2,
+    "weight": 1585,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Alfa Romeo GIULIA TZ2 carrozzata da ZAGATO '65",
+    "transmission": "FR",
+    "power": 171,
+    "torque": 172.4,
+    "weight": 620,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Alfa Romeo Giulia GTAm '20",
+    "transmission": "FR",
+    "power": 540,
+    "torque": 599.7,
+    "weight": 1580,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Alfa Romeo Giulia Sprint GT Veloce '67",
+    "transmission": "FR",
+    "power": 106,
+    "torque": 139.1,
+    "weight": 1040,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Alfa Romeo MiTo 1.4 T Sport '09",
+    "transmission": "FF",
+    "power": 155,
+    "torque": 200.9,
+    "weight": 1145,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Alpine A110 1600S '72",
+    "transmission": "RR",
+    "power": 140,
+    "torque": 154.8,
+    "weight": 715,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Alpine A110 Première Édition '17",
+    "transmission": "MR",
+    "power": 252,
+    "torque": 319.9,
+    "weight": 1103,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Alpine A220 Race Car '68",
+    "transmission": "MR",
+    "power": 324,
+    "torque": 343,
+    "weight": 690,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Alpine Vision Gran Turismo",
+    "transmission": "MR",
+    "power": 450,
+    "torque": 578.2,
+    "weight": 900,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Alpine Vision Gran Turismo 2017",
+    "transmission": "RR",
+    "power": 603,
+    "torque": 554.6,
+    "weight": 930,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Alpine Vision Gran Turismo Race Mode",
+    "transmission": "MR",
+    "power": 450,
+    "torque": 578.2,
+    "weight": 900,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Amuse NISMO 380RS Super Leggera",
+    "transmission": "FR",
+    "power": 386,
+    "torque": 409.6,
+    "weight": 1370,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Amuse S2000 GT1 Turbo",
+    "transmission": "FR",
+    "power": 625,
+    "torque": 568.4,
+    "weight": 1120,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Aston Martin DB11 '16",
+    "transmission": "FR",
+    "power": 608,
+    "torque": 700,
+    "weight": 1770,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Aston Martin DB3S '53",
+    "transmission": "FR",
+    "power": 228,
+    "torque": 304,
+    "weight": 856,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Aston Martin DB5 '64",
+    "transmission": "FR",
+    "power": 285,
+    "torque": 379.2,
+    "weight": 1468,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Aston Martin DBR9 GT1 '10",
+    "transmission": "FR",
+    "power": 608,
+    "torque": 665,
+    "weight": 1100,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Aston Martin DP-100 Vision Gran Turismo",
+    "transmission": "4RM",
+    "power": 811,
+    "torque": 1,
+    "weight": 1375,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Aston Martin One-77 '11",
+    "transmission": "FR",
+    "power": 759,
+    "torque": 749.9,
+    "weight": 1630,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Aston Martin V12 Vantage GT3 '12",
+    "transmission": "FR",
+    "power": 600,
+    "torque": 686.5,
+    "weight": 1250,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Aston Martin V8 Vantage S '15",
+    "transmission": "FR",
+    "power": 436,
+    "torque": 490,
+    "weight": 1610,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Aston Martin Valkyrie '21",
+    "transmission": "MR",
+    "power": 1155,
+    "torque": 921.8,
+    "weight": 1270,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Aston Martin Vantage '18",
+    "transmission": "FR",
+    "power": 510,
+    "torque": 685,
+    "weight": 1530,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Aston Martin Vantage Gr.4",
+    "transmission": "FR",
+    "power": 405,
+    "torque": 490,
+    "weight": 1350,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Aston Martin Vulcan '16",
+    "transmission": "FR",
+    "power": 832,
+    "torque": 799.9,
+    "weight": 1360,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Audi R18 '16",
+    "transmission": "4RM",
+    "power": 514,
+    "torque": 851.5,
+    "weight": 875,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Audi R18 TDI '11",
+    "transmission": "MR",
+    "power": 540,
+    "torque": 900,
+    "weight": 900,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Audi R8 4.2 FSI R tronic '07",
+    "transmission": "4RM",
+    "power": 420,
+    "torque": 430,
+    "weight": 1560,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Audi R8 Coupé V10 plus '16",
+    "transmission": "4RM",
+    "power": 610,
+    "torque": 559.5,
+    "weight": 1454,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Audi R8 LMS '15",
+    "transmission": "MR",
+    "power": 594,
+    "torque": 574.2,
+    "weight": 1225,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Audi R8 LMS Evo '19",
+    "transmission": "MR",
+    "power": 585,
+    "torque": 574.2,
+    "weight": 1235,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Audi RS 5 Turbo DTM '19",
+    "transmission": "FR",
+    "power": 612,
+    "torque": 650,
+    "weight": 986,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Audi Sport quattro S1 Pikes Peak '87",
+    "transmission": "4RM",
+    "power": 597,
+    "torque": 589.9,
+    "weight": 1000,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Audi TT Coupé 3.2 quattro '03",
+    "transmission": "4RM",
+    "power": 243,
+    "torque": 320.4,
+    "weight": 1520,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Audi TT Cup '16",
+    "transmission": "FF",
+    "power": 340,
+    "torque": 399.7,
+    "weight": 1125,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Audi TTS Coupé '09",
+    "transmission": "4RM",
+    "power": 272,
+    "torque": 349.8,
+    "weight": 1415,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Audi TTS Coupé '14",
+    "transmission": "4RM",
+    "power": 310,
+    "torque": 380.1,
+    "weight": 1385,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Audi Vision Gran Turismo",
+    "transmission": "4RM",
+    "power": 746,
+    "torque": 699.7,
+    "weight": 1250,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Audi e-tron Vision Gran Turismo",
+    "transmission": "4RM",
+    "power": 815,
+    "torque": null,
+    "weight": 1450,
+    "aspiration": "VE"
+  },
+  {
+    "model": "Autobianchi A112 Abarth '85",
+    "transmission": "FF",
+    "power": 72,
+    "torque": 87.2,
+    "weight": 710,
+    "aspiration": "NA"
+  },
+  {
+    "model": "BAC Mono '16",
+    "transmission": "MR",
+    "power": 309,
+    "torque": 307.7,
+    "weight": 580,
+    "aspiration": "NA"
+  },
+  {
+    "model": "BMW 3.0 CSL '71",
+    "transmission": "FR",
+    "power": 180,
+    "torque": 254.8,
+    "weight": 1165,
+    "aspiration": "NA"
+  },
+  {
+    "model": "BMW 3.0 CSL '73",
+    "transmission": "FR",
+    "power": 205,
+    "torque": 286.1,
+    "weight": 1250,
+    "aspiration": "NA"
+  },
+  {
+    "model": "BMW M2 Competition '18",
+    "transmission": "FR",
+    "power": 411,
+    "torque": 549.7,
+    "weight": 1575,
+    "aspiration": "TC"
+  },
+  {
+    "model": "BMW M3 '89",
+    "transmission": "FR",
+    "power": 215,
+    "torque": 230.3,
+    "weight": 1200,
+    "aspiration": "NA"
+  },
+  {
+    "model": "BMW M3 '97",
+    "transmission": "FR",
+    "power": 321,
+    "torque": 349.8,
+    "weight": 1460,
+    "aspiration": "NA"
+  },
+  {
+    "model": "BMW M3 Coupé '03",
+    "transmission": "FR",
+    "power": 344,
+    "torque": 364.5,
+    "weight": 1560,
+    "aspiration": "NA"
+  },
+  {
+    "model": "BMW M3 Coupé '07",
+    "transmission": "FR",
+    "power": 421,
+    "torque": 400,
+    "weight": 1655,
+    "aspiration": "NA"
+  },
+  {
+    "model": "BMW M3 GT '11",
+    "transmission": "FR",
+    "power": 508,
+    "torque": 499.9,
+    "weight": 1245,
+    "aspiration": "NA"
+  },
+  {
+    "model": "BMW M3 Sport Evolution '89",
+    "transmission": "FR",
+    "power": 238,
+    "torque": 240.1,
+    "weight": 1200,
+    "aspiration": "NA"
+  },
+  {
+    "model": "BMW M4 Coupé '14",
+    "transmission": "FR",
+    "power": 431,
+    "torque": 549.9,
+    "weight": 1497,
+    "aspiration": "TC"
+  },
+  {
+    "model": "BMW M4 Gr.4",
+    "transmission": "FR",
+    "power": 400,
+    "torque": 510.3,
+    "weight": 1365,
+    "aspiration": "TC"
+  },
+  {
+    "model": "BMW M4 Safety Car",
+    "transmission": "FR",
+    "power": 431,
+    "torque": 549.9,
+    "weight": 1497,
+    "aspiration": "TC"
+  },
+  {
+    "model": "BMW M6 GT3 Endurance Model '16",
+    "transmission": "FR",
+    "power": 593,
+    "torque": 749.7,
+    "weight": 1300,
+    "aspiration": "TC"
+  },
+  {
+    "model": "BMW M6 GT3 Sprint Model '16",
+    "transmission": "FR",
+    "power": 593,
+    "torque": 749.7,
+    "weight": 1300,
+    "aspiration": "TC"
+  },
+  {
+    "model": "BMW McLaren F1 GTR Race Car '97",
+    "transmission": "MR",
+    "power": 611,
+    "torque": 710.9,
+    "weight": 950,
+    "aspiration": "NA"
+  },
+  {
+    "model": "BMW Vision Gran Turismo",
+    "transmission": "FR",
+    "power": 549,
+    "torque": 680,
+    "weight": 1180,
+    "aspiration": "TC"
+  },
+  {
+    "model": "BMW Z4 3.0i '03",
+    "transmission": "FR",
+    "power": 231,
+    "torque": 299.8,
+    "weight": 1290,
+    "aspiration": "NA"
+  },
+  {
+    "model": "BMW Z4 GT3 '11",
+    "transmission": "FR",
+    "power": 530,
+    "torque": 514.9,
+    "weight": 1190,
+    "aspiration": "NA"
+  },
+  {
+    "model": "BMW Z8 '01",
+    "transmission": "FR",
+    "power": 401,
+    "torque": 499.8,
+    "weight": 1610,
+    "aspiration": "NA"
+  },
+  {
+    "model": "BMW i3 '15",
+    "transmission": "MR",
+    "power": 169,
+    "torque": null,
+    "weight": 1260,
+    "aspiration": "VE"
+  },
+  {
+    "model": "BVLGARI Aluminium Vision Gran Turismo",
+    "transmission": "MR",
+    "power": 400,
+    "torque": 377.5,
+    "weight": 1000,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Bugatti Chiron '16",
+    "transmission": "4RM",
+    "power": 1500,
+    "torque": 1,
+    "weight": 1995,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Bugatti Veyron 16.4 '13",
+    "transmission": "4RM",
+    "power": 1000,
+    "torque": 1,
+    "weight": 1888,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Bugatti Veyron Gr.4",
+    "transmission": "4RM",
+    "power": 440,
+    "torque": 549.5,
+    "weight": 1650,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Bugatti Vision Gran Turismo",
+    "transmission": "4RM",
+    "power": 1649,
+    "torque": 1,
+    "weight": 1400,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Bugatti Vision Gran Turismo (Gr.1)",
+    "transmission": "4RM",
+    "power": 650,
+    "torque": 722.4,
+    "weight": 980,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Chaparral 2J '70",
+    "transmission": "MR",
+    "power": 693,
+    "torque": 744.8,
+    "weight": 821,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Chevrolet Camaro 1969 Race-Mod",
+    "transmission": "FR",
+    "power": 667,
+    "torque": 845,
+    "weight": 1320,
+    "aspiration": "SA"
+  },
+  {
+    "model": "Chevrolet Camaro SS '16",
+    "transmission": "FR",
+    "power": 460,
+    "torque": 617.4,
+    "weight": 1672,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Chevrolet Camaro Z28 '69",
+    "transmission": "FR",
+    "power": 294,
+    "torque": 392.9,
+    "weight": 1415,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Chevrolet Camaro ZL1 1LE Package '18",
+    "transmission": "FR",
+    "power": 659,
+    "torque": 868.2,
+    "weight": 1732,
+    "aspiration": "SA"
+  },
+  {
+    "model": "Chevrolet Chaparral 2X Vision Gran Turismo",
+    "transmission": "---",
+    "power": 918,
+    "torque": 795.9,
+    "weight": 450,
+    "aspiration": "---"
+  },
+  {
+    "model": "Chevrolet Chevelle SS 454 Sport Coupé '70",
+    "transmission": "FR",
+    "power": 456,
+    "torque": 677,
+    "weight": 1762,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Chevrolet Corvette (C1) '58",
+    "transmission": "FR",
+    "power": 247,
+    "torque": 406.7,
+    "weight": 1327,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Chevrolet Corvette C7 Gr.3",
+    "transmission": "FR",
+    "power": 580,
+    "torque": 714.4,
+    "weight": 1300,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Chevrolet Corvette C7 Gr.3 Road Car",
+    "transmission": "FR",
+    "power": 500,
+    "torque": 660.6,
+    "weight": 1480,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Chevrolet Corvette C7 Gr.4",
+    "transmission": "FR",
+    "power": 420,
+    "torque": 568.4,
+    "weight": 1350,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Chevrolet Corvette C7 Stingray '14",
+    "transmission": "FR",
+    "power": 460,
+    "torque": 623.2,
+    "weight": 1500,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Chevrolet Corvette C7 ZR1 '19",
+    "transmission": "FR",
+    "power": 765,
+    "torque": 969.2,
+    "weight": 1615,
+    "aspiration": "SA"
+  },
+  {
+    "model": "Chevrolet Corvette C8 Stingray '20",
+    "transmission": "MR",
+    "power": 501,
+    "torque": 637,
+    "weight": 1530,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Chevrolet Corvette CX Concept '25",
+    "transmission": "4RM",
+    "power": 2176,
+    "torque": null,
+    "weight": 1400,
+    "aspiration": "VE"
+  },
+  {
+    "model": "Chevrolet Corvette CX.R Vision Gran Turismo Concept",
+    "transmission": "4RM",
+    "power": 2067,
+    "torque": null,
+    "weight": 1250,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Chevrolet Corvette Sting Ray Sport Coupe (C2) '63",
+    "transmission": "FR",
+    "power": 365,
+    "torque": 477.2,
+    "weight": 1380,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Chevrolet Corvette Stingray Convertible (C3) '69",
+    "transmission": "FR",
+    "power": 303,
+    "torque": 514.8,
+    "weight": 1552,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Chevrolet Corvette Stingray L46 350 (C3) '69",
+    "transmission": "FR",
+    "power": 355,
+    "torque": 534.4,
+    "weight": 1490,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Chevrolet Corvette Stingray Racer Concept '59",
+    "transmission": "FR",
+    "power": 319,
+    "torque": 392,
+    "weight": 1150,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Chevrolet Corvette Z06 (C5) '01",
+    "transmission": "FR",
+    "power": 390,
+    "torque": 522.3,
+    "weight": 1409,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Chevrolet Corvette ZR-1 (C4) '89",
+    "transmission": "FR",
+    "power": 381,
+    "torque": 501.7,
+    "weight": 1572,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Chevrolet Corvette ZR1 (C6) '09",
+    "transmission": "FR",
+    "power": 648,
+    "torque": 818.3,
+    "weight": 1508,
+    "aspiration": "SA"
+  },
+  {
+    "model": "Chris Holstrom Concepts 1967 Chevy Nova",
+    "transmission": "FR",
+    "power": 743,
+    "torque": 939.4,
+    "weight": 1366,
+    "aspiration": "SA"
+  },
+  {
+    "model": "Citroën BX 19 TRS '87",
+    "transmission": "FF",
+    "power": 105,
+    "torque": 161.7,
+    "weight": 995,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Citroën DS 21 Pallas '70",
+    "transmission": "FF",
+    "power": 105,
+    "torque": 166.6,
+    "weight": 1300,
+    "aspiration": "NA"
+  },
+  {
+    "model": "DAIHATSU COPEN RJ Vision Gran Turismo",
+    "transmission": "FF",
+    "power": 149,
+    "torque": 202.4,
+    "weight": 600,
+    "aspiration": "TC"
+  },
+  {
+    "model": "DMC DeLorean S2 '04",
+    "transmission": "RR",
+    "power": 200,
+    "torque": 287.1,
+    "weight": 1288,
+    "aspiration": "NA"
+  },
+  {
+    "model": "DS 3 Racing '11",
+    "transmission": "FF",
+    "power": 206,
+    "torque": 274.4,
+    "weight": 1165,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Daihatsu Copen Active Top '02",
+    "transmission": "FF",
+    "power": 63,
+    "torque": 109.9,
+    "weight": 830,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Dallara SF19 Super Formula / Honda '19",
+    "transmission": "MR",
+    "power": 648,
+    "torque": 499.2,
+    "weight": 660,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Dallara SF19 Super Formula / Toyota '19",
+    "transmission": "MR",
+    "power": 648,
+    "torque": 499.2,
+    "weight": 660,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Dallara SF23 Super Formula / Honda '23",
+    "transmission": "MR",
+    "power": 634,
+    "torque": 539.3,
+    "weight": 670,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Dallara SF23 Super Formula / Toyota '23",
+    "transmission": "MR",
+    "power": 634,
+    "torque": 539.3,
+    "weight": 670,
+    "aspiration": "TC"
+  },
+  {
+    "model": "De Tomaso Mangusta '69",
+    "transmission": "MR",
+    "power": 305,
+    "torque": 556.6,
+    "weight": 1185,
+    "aspiration": "NA"
+  },
+  {
+    "model": "De Tomaso Pantera '71",
+    "transmission": "MR",
+    "power": 330,
+    "torque": 466.4,
+    "weight": 1420,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Dodge Challenger R/T '70",
+    "transmission": "FR",
+    "power": 431,
+    "torque": 663.7,
+    "weight": 1724,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Dodge Challenger SRT Demon '18",
+    "transmission": "FR",
+    "power": 852,
+    "torque": 1,
+    "weight": 1941,
+    "aspiration": "SA"
+  },
+  {
+    "model": "Dodge Charger R/T 426 Hemi '68",
+    "transmission": "FR",
+    "power": 431,
+    "torque": 664.4,
+    "weight": 1805,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Dodge Charger SRT Hellcat '15",
+    "transmission": "FR",
+    "power": 717,
+    "torque": 881,
+    "weight": 1980,
+    "aspiration": "SA"
+  },
+  {
+    "model": "Dodge Charger SRT Hellcat Safety Car",
+    "transmission": "FR",
+    "power": 717,
+    "torque": 881,
+    "weight": 1980,
+    "aspiration": "SA"
+  },
+  {
+    "model": "Dodge SRT Tomahawk GTS-R Vision Gran Turismo",
+    "transmission": "4RM",
+    "power": 1470,
+    "torque": 974.8,
+    "weight": 663,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Dodge SRT Tomahawk S Vision Gran Turismo",
+    "transmission": "4RM",
+    "power": 1021,
+    "torque": 678.8,
+    "weight": 921,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Dodge SRT Tomahawk Vision Gran Turismo (Gr.1)",
+    "transmission": "MR",
+    "power": 703,
+    "torque": 595.4,
+    "weight": 950,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Dodge SRT Tomahawk X Vision Gran Turismo",
+    "transmission": "4RM",
+    "power": 2623,
+    "torque": 1,
+    "weight": 749,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Dodge Super Bee '70",
+    "transmission": "FR",
+    "power": 340,
+    "torque": 576.2,
+    "weight": 1533,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Dodge Viper GTS '02",
+    "transmission": "FR",
+    "power": 455,
+    "torque": 663.4,
+    "weight": 1569,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Dodge Viper GTS '13",
+    "transmission": "FR",
+    "power": 649,
+    "torque": 813.9,
+    "weight": 1556,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Dodge Viper Gr.4",
+    "transmission": "FR",
+    "power": 435,
+    "torque": 546.1,
+    "weight": 1400,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Dodge Viper SRT GT3-R '15",
+    "transmission": "FR",
+    "power": 688,
+    "torque": 868.2,
+    "weight": 1290,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Dodge Viper SRT10 Coupe '06",
+    "transmission": "FR",
+    "power": 516,
+    "torque": 724.7,
+    "weight": 1565,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Eckert's Rod & Custom Mach Forty",
+    "transmission": "MR",
+    "power": 799,
+    "torque": 1,
+    "weight": 1588,
+    "aspiration": "SA"
+  },
+  {
+    "model": "Enzo Ferrari '02",
+    "transmission": "MR",
+    "power": 668,
+    "torque": 656.9,
+    "weight": 1255,
+    "aspiration": "NA"
+  },
+  {
+    "model": "FIAT 500 1.2 8V Lounge SS '08",
+    "transmission": "FF",
+    "power": 66,
+    "torque": 102.5,
+    "weight": 1010,
+    "aspiration": "NA"
+  },
+  {
+    "model": "FIAT 500 F '68",
+    "transmission": "RR",
+    "power": 17,
+    "torque": 30.3,
+    "weight": 520,
+    "aspiration": "NA"
+  },
+  {
+    "model": "FIAT Abarth 595 Esseesse '70",
+    "transmission": "RR",
+    "power": 31,
+    "torque": 44,
+    "weight": 470,
+    "aspiration": "NA"
+  },
+  {
+    "model": "FIAT Panda 30 CL '85",
+    "transmission": "FF",
+    "power": 30,
+    "torque": 40.9,
+    "weight": 650,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Ferrari 250 GT Berlinetta passo corto '61",
+    "transmission": "FR",
+    "power": 279,
+    "torque": 299.8,
+    "weight": 960,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Ferrari 250 GTO '62",
+    "transmission": "FR",
+    "power": 300,
+    "torque": 299.8,
+    "weight": 880,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Ferrari 296 GT3 '23",
+    "transmission": "MR",
+    "power": 608,
+    "torque": 712.4,
+    "weight": 1280,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Ferrari 296 GTB '22",
+    "transmission": "MR",
+    "power": 830,
+    "torque": 739.9,
+    "weight": 1470,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Ferrari 308 GTB '75",
+    "transmission": "MR",
+    "power": 255,
+    "torque": 294,
+    "weight": 1090,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Ferrari 330 P4 '67",
+    "transmission": "MR",
+    "power": 455,
+    "torque": 522.3,
+    "weight": 792,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Ferrari 365 GTB4 '71",
+    "transmission": "FR",
+    "power": 352,
+    "torque": 431.2,
+    "weight": 1200,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Ferrari 430 Scuderia '07",
+    "transmission": "MR",
+    "power": 510,
+    "torque": 470.4,
+    "weight": 1350,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Ferrari 458 Italia '09",
+    "transmission": "MR",
+    "power": 571,
+    "torque": 539.9,
+    "weight": 1485,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Ferrari 458 Italia GT3 '13",
+    "transmission": "MR",
+    "power": 550,
+    "torque": 549.7,
+    "weight": 1215,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Ferrari 458 Italia Gr.4",
+    "transmission": "MR",
+    "power": 380,
+    "torque": 359.6,
+    "weight": 1350,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Ferrari 500 Mondial Pinin Farina Coupe '54",
+    "transmission": "FR",
+    "power": 171,
+    "torque": 173.6,
+    "weight": 720,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Ferrari 512 BB '76",
+    "transmission": "MR",
+    "power": 359,
+    "torque": 450.8,
+    "weight": 1400,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Ferrari 812 Superfast '17",
+    "transmission": "FR",
+    "power": 800,
+    "torque": 718.4,
+    "weight": 1525,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Ferrari Dino 246 GT '71",
+    "transmission": "MR",
+    "power": 194,
+    "torque": 224.4,
+    "weight": 1080,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Ferrari F12berlinetta '12",
+    "transmission": "FR",
+    "power": 741,
+    "torque": 689.9,
+    "weight": 1525,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Ferrari F40 '92",
+    "transmission": "MR",
+    "power": 478,
+    "torque": 576.2,
+    "weight": 1100,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Ferrari F430 '06",
+    "transmission": "MR",
+    "power": 502,
+    "torque": 464.5,
+    "weight": 1450,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Ferrari F50 '95",
+    "transmission": "MR",
+    "power": 519,
+    "torque": 470.4,
+    "weight": 1230,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Ferrari F8 Tributo '19",
+    "transmission": "MR",
+    "power": 720,
+    "torque": 770.1,
+    "weight": 1330,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Ferrari FXX K '14",
+    "transmission": "MR",
+    "power": 1049,
+    "torque": 749.7,
+    "weight": 1165,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Ferrari GTO '84",
+    "transmission": "MR",
+    "power": 399,
+    "torque": 499.8,
+    "weight": 1160,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Ferrari LaFerrari '13",
+    "transmission": "MR",
+    "power": 963,
+    "torque": 699.9,
+    "weight": 1255,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Ferrari Testarossa '91",
+    "transmission": "MR",
+    "power": 390,
+    "torque": 490,
+    "weight": 1506,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Ferrari Vision Gran Turismo",
+    "transmission": "4RM",
+    "power": 1383,
+    "torque": 900,
+    "weight": 1250,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Ford Escort RS Cosworth '92",
+    "transmission": "4RM",
+    "power": 227,
+    "torque": 297.9,
+    "weight": 1275,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Ford F-150 SVT Raptor '11",
+    "transmission": "4RM",
+    "power": 417,
+    "torque": 588,
+    "weight": 2724,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Ford Focus Gr.B Rally Car",
+    "transmission": "4RM",
+    "power": 546,
+    "torque": 579.1,
+    "weight": 1260,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Ford Focus RS '18",
+    "transmission": "4RM",
+    "power": 355,
+    "torque": 478.2,
+    "weight": 1557,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Ford Focus ST '15",
+    "transmission": "FF",
+    "power": 254,
+    "torque": 365.4,
+    "weight": 1462,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Ford GT '06",
+    "transmission": "MR",
+    "power": 558,
+    "torque": 678.1,
+    "weight": 1451,
+    "aspiration": "SA"
+  },
+  {
+    "model": "Ford GT '17",
+    "transmission": "MR",
+    "power": 656,
+    "torque": 744.8,
+    "weight": 1385,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Ford GT LM Race Car Spec II",
+    "transmission": "MR",
+    "power": 615,
+    "torque": 713.4,
+    "weight": 1130,
+    "aspiration": "SA"
+  },
+  {
+    "model": "Ford GT LM Spec II Test Car",
+    "transmission": "MR",
+    "power": 599,
+    "torque": 723.2,
+    "weight": 1165,
+    "aspiration": "SA"
+  },
+  {
+    "model": "Ford GT Race Car '18",
+    "transmission": "MR",
+    "power": 535,
+    "torque": 611.5,
+    "weight": 1200,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Ford GT40 Mark I '66",
+    "transmission": "MR",
+    "power": 359,
+    "torque": 455.9,
+    "weight": 1080,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Ford Mark IV Race Car '67",
+    "transmission": "MR",
+    "power": 511,
+    "torque": 637,
+    "weight": 1000,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Ford Mustang Boss 429 '69",
+    "transmission": "FR",
+    "power": 380,
+    "torque": 610.5,
+    "weight": 1614,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Ford Mustang GT Premium Fastback '15",
+    "transmission": "FR",
+    "power": 441,
+    "torque": 541.9,
+    "weight": 1681,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Ford Mustang Gr.3",
+    "transmission": "FR",
+    "power": 576,
+    "torque": 599.7,
+    "weight": 1300,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Ford Mustang Gr.3 Road Car",
+    "transmission": "FR",
+    "power": 510,
+    "torque": 522.4,
+    "weight": 1500,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Ford Mustang Gr.4",
+    "transmission": "FR",
+    "power": 401,
+    "torque": 501.6,
+    "weight": 1400,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Ford Mustang Gr.B Rally Car",
+    "transmission": "4RM",
+    "power": 557,
+    "torque": 570.3,
+    "weight": 1380,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Ford Mustang Mach 1 '71",
+    "transmission": "FR",
+    "power": 307,
+    "torque": 501.7,
+    "weight": 1615,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Ford Shelby GT350R '16",
+    "transmission": "FR",
+    "power": 533,
+    "torque": 582.1,
+    "weight": 1658,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Ford Sierra RS 500 Cosworth '87",
+    "transmission": "FR",
+    "power": 227,
+    "torque": 280.2,
+    "weight": 1207,
+    "aspiration": "TC"
+  },
+  {
+    "model": "GReddy Fugu Z",
+    "transmission": "FR",
+    "power": 299,
+    "torque": 329.2,
+    "weight": 1100,
+    "aspiration": "NA"
+  },
+  {
+    "model": "GT by Citroën Gr.4",
+    "transmission": "MR",
+    "power": 400,
+    "torque": 384.3,
+    "weight": 1300,
+    "aspiration": "NA"
+  },
+  {
+    "model": "GT by Citroën Race Car (Gr.3)",
+    "transmission": "MR",
+    "power": 608,
+    "torque": 584,
+    "weight": 1200,
+    "aspiration": "NA"
+  },
+  {
+    "model": "GT by Citroën Road Car",
+    "transmission": "MR",
+    "power": 508,
+    "torque": 520.3,
+    "weight": 1450,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Garage RCR Civic",
+    "transmission": "FF",
+    "power": 395,
+    "torque": 439,
+    "weight": 1014,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Genesis G70 3.3T AWD Prestige Package '22",
+    "transmission": "4RM",
+    "power": 372,
+    "torque": 509.6,
+    "weight": 1815,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Genesis G70 GR4",
+    "transmission": "4RM",
+    "power": 420,
+    "torque": 527.1,
+    "weight": 1400,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Genesis X GR3",
+    "transmission": "FR",
+    "power": 555,
+    "torque": 696.6,
+    "weight": 1280,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Genesis X Gran Berlinetta Vision Gran Turismo Concept",
+    "transmission": "4RM",
+    "power": 882,
+    "torque": 1,
+    "weight": 1060,
+    "aspiration": "TC+SC"
+  },
+  {
+    "model": "Genesis X Gran Racer Vision Gran Turismo Concept",
+    "transmission": "4RM",
+    "power": 882,
+    "torque": 1,
+    "weight": 1089,
+    "aspiration": "TC+SC"
+  },
+  {
+    "model": "Gran Turismo F1500T-A",
+    "transmission": "MR",
+    "power": 1000,
+    "torque": 658.2,
+    "weight": 540,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Gran Turismo F3500-A",
+    "transmission": "MR",
+    "power": 784,
+    "torque": 405.9,
+    "weight": 529,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Gran Turismo F3500-B",
+    "transmission": "MR",
+    "power": 730,
+    "torque": 406.7,
+    "weight": 505,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Gran Turismo Racing Kart 125 Shifter",
+    "transmission": "MR",
+    "power": 50,
+    "torque": 25,
+    "weight": 105,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Gran Turismo Red Bull X2014 Junior",
+    "transmission": "MR",
+    "power": 250,
+    "torque": 225.5,
+    "weight": 550,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Gran Turismo Red Bull X2014 Standard",
+    "transmission": "MR",
+    "power": 810,
+    "torque": 380,
+    "weight": 650,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Gran Turismo Red Bull X2019 Competition",
+    "transmission": "MR",
+    "power": 816,
+    "torque": 329.7,
+    "weight": 650,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Greening Auto Company Maverick",
+    "transmission": "FR",
+    "power": 1216,
+    "torque": 1,
+    "weight": 1633,
+    "aspiration": "TC"
+  },
+  {
+    "model": "HYUNDAI N 2025 Vision Gran Turismo",
+    "transmission": "4RM",
+    "power": 883,
+    "torque": null,
+    "weight": 972,
+    "aspiration": "VE"
+  },
+  {
+    "model": "HYUNDAI N 2025 Vision Gran Turismo (Gr.1)",
+    "transmission": "4RM",
+    "power": 649,
+    "torque": 602,
+    "weight": 972,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Honda Beat '91",
+    "transmission": "MR",
+    "power": 64,
+    "torque": 59.6,
+    "weight": 760,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Honda CR-V e:HEV EX・Black Edition '21",
+    "transmission": "4RM",
+    "power": 184,
+    "torque": 315,
+    "weight": 1700,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Honda Civic Si Extra (EF) '87",
+    "transmission": "FF",
+    "power": 130,
+    "torque": 144,
+    "weight": 910,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Honda Civic SiR･II (EG) '93",
+    "transmission": "FF",
+    "power": 170,
+    "torque": 156.8,
+    "weight": 1070,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Honda Civic Type R (EK) '97",
+    "transmission": "FF",
+    "power": 179,
+    "torque": 158.7,
+    "weight": 1050,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Honda Civic Type R (EK) '98",
+    "transmission": "FF",
+    "power": 184,
+    "torque": 161.7,
+    "weight": 1050,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Honda Civic Type R (EK) Touring Car",
+    "transmission": "FF",
+    "power": 251,
+    "torque": 201.5,
+    "weight": 845,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Honda Civic Type R (FK2) '15",
+    "transmission": "FF",
+    "power": 310,
+    "torque": 399.7,
+    "weight": 1380,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Honda Civic Type R (FL5) '22",
+    "transmission": "FF",
+    "power": 330,
+    "torque": 419.4,
+    "weight": 1430,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Honda Civic Type R Limited Edition (FK8) '20",
+    "transmission": "FF",
+    "power": 320,
+    "torque": 399.7,
+    "weight": 1370,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Honda Fit Hybrid '14",
+    "transmission": "FF",
+    "power": 140,
+    "torque": 133.9,
+    "weight": 1080,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Honda Integra Type R (DC2) '95",
+    "transmission": "FF",
+    "power": 200,
+    "torque": 181.3,
+    "weight": 1060,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Honda Integra Type R (DC2) '98",
+    "transmission": "FF",
+    "power": 201,
+    "torque": 186.4,
+    "weight": 1080,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Honda N-ONE RS '22",
+    "transmission": "FF",
+    "power": 64,
+    "torque": 104.2,
+    "weight": 840,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Honda NSX '17",
+    "transmission": "4RM",
+    "power": 578,
+    "torque": 549.9,
+    "weight": 1780,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Honda NSX CONCEPT-GT '16",
+    "transmission": "MR",
+    "power": 612,
+    "torque": 612.5,
+    "weight": 1049,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Honda NSX GT500 '00",
+    "transmission": "MR",
+    "power": 488,
+    "torque": 454.3,
+    "weight": 1150,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Honda NSX GT500 '08",
+    "transmission": "MR",
+    "power": 526,
+    "torque": 588.6,
+    "weight": 1150,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Honda NSX Gr.3",
+    "transmission": "MR",
+    "power": 576,
+    "torque": 583.9,
+    "weight": 1300,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Honda NSX Gr.4",
+    "transmission": "MR",
+    "power": 400,
+    "torque": 433.9,
+    "weight": 1360,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Honda NSX Gr.B Rally Car",
+    "transmission": "4RM",
+    "power": 565,
+    "torque": 572.5,
+    "weight": 1300,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Honda NSX Type R '02",
+    "transmission": "MR",
+    "power": 295,
+    "torque": 320.9,
+    "weight": 1270,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Honda NSX Type R '92",
+    "transmission": "MR",
+    "power": 288,
+    "torque": 305.7,
+    "weight": 1230,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Honda Project 2&4 powered by RC213V",
+    "transmission": "MR",
+    "power": 214,
+    "torque": 118.2,
+    "weight": 405,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Honda RA272 '65",
+    "transmission": "MR",
+    "power": 232,
+    "torque": 142.1,
+    "weight": 498,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Honda S2000 '99",
+    "transmission": "FR",
+    "power": 246,
+    "torque": 217.5,
+    "weight": 1240,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Honda S660 '15",
+    "transmission": "MR",
+    "power": 64,
+    "torque": 104.6,
+    "weight": 830,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Honda S800 '66",
+    "transmission": "FR",
+    "power": 69,
+    "torque": 65.6,
+    "weight": 720,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Honda Sports Vision Gran Turismo",
+    "transmission": "MR",
+    "power": 409,
+    "torque": 400,
+    "weight": 899,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Hyundai ELANTRA N '23",
+    "transmission": "FF",
+    "power": 280,
+    "torque": 392,
+    "weight": 1450,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Hyundai ELANTRA N TC '24",
+    "transmission": "FF",
+    "power": 355,
+    "torque": 450,
+    "weight": 1265,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Hyundai Genesis Coupe 3.8 Track '13",
+    "transmission": "FR",
+    "power": 348,
+    "torque": 395.5,
+    "weight": 1557,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Hyundai Genesis Gr.3",
+    "transmission": "FR",
+    "power": 584,
+    "torque": 542.1,
+    "weight": 1250,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Hyundai Genesis Gr.4",
+    "transmission": "FR",
+    "power": 390,
+    "torque": 411.4,
+    "weight": 1350,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Hyundai Genesis Gr.B Rally Car",
+    "transmission": "4RM",
+    "power": 507,
+    "torque": 464.2,
+    "weight": 1250,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Hyundai IONIQ 5 N '24",
+    "transmission": "4RM",
+    "power": 650,
+    "torque": null,
+    "weight": 2210,
+    "aspiration": "VE"
+  },
+  {
+    "model": "INFINITI CONCEPT Vision Gran Turismo",
+    "transmission": "FR",
+    "power": 543,
+    "torque": 509.6,
+    "weight": 1680,
+    "aspiration": "NA"
+  },
+  {
+    "model": "IsoRivolta Zagato Vision Gran Turismo",
+    "transmission": "FR",
+    "power": 567,
+    "torque": 579.9,
+    "weight": 1150,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Italdesign EXENEO Vision Gran Turismo Off-road Mode",
+    "transmission": "4RM",
+    "power": 1237,
+    "torque": 559.9,
+    "weight": 1000,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Italdesign EXENEO Vision Gran Turismo Street Mode",
+    "transmission": "4RM",
+    "power": 1237,
+    "torque": 559.9,
+    "weight": 1000,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Jaguar D-type '54",
+    "transmission": "FR",
+    "power": 253,
+    "torque": 325.3,
+    "weight": 850,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Jaguar E-type Coupé '61",
+    "transmission": "FR",
+    "power": 268,
+    "torque": 352.8,
+    "weight": 1300,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Jaguar F-type Gr.3",
+    "transmission": "FR",
+    "power": 560,
+    "torque": 679.1,
+    "weight": 1250,
+    "aspiration": "SA"
+  },
+  {
+    "model": "Jaguar F-type Gr.4",
+    "transmission": "FR",
+    "power": 405,
+    "torque": 501.1,
+    "weight": 1350,
+    "aspiration": "SA"
+  },
+  {
+    "model": "Jaguar F-type R Coupé '14",
+    "transmission": "FR",
+    "power": 550,
+    "torque": 679.1,
+    "weight": 1650,
+    "aspiration": "SA"
+  },
+  {
+    "model": "Jaguar Vision Gran Turismo Coupé",
+    "transmission": "4RM",
+    "power": 1019,
+    "torque": null,
+    "weight": 1400,
+    "aspiration": "VE"
+  },
+  {
+    "model": "Jaguar Vision Gran Turismo Roadster",
+    "transmission": "4RM",
+    "power": 1019,
+    "torque": null,
+    "weight": 1400,
+    "aspiration": "VE"
+  },
+  {
+    "model": "Jaguar Vision Gran Turismo SV",
+    "transmission": "4RM",
+    "power": 1903,
+    "torque": null,
+    "weight": 1400,
+    "aspiration": "VE"
+  },
+  {
+    "model": "Jaguar XJ13 '66",
+    "transmission": "MR",
+    "power": 518,
+    "torque": 523.3,
+    "weight": 998,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Jaguar XJ220 '92",
+    "transmission": "MR",
+    "power": 523,
+    "torque": 640.9,
+    "weight": 1372,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Jaguar XJR-9 '88",
+    "transmission": "MR",
+    "power": 760,
+    "torque": 780.1,
+    "weight": 894,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Jeep Willys MB '45",
+    "transmission": "4RM",
+    "power": 61,
+    "torque": 142.1,
+    "weight": 1113,
+    "aspiration": "NA"
+  },
+  {
+    "model": "KTM X-BOW R '12",
+    "transmission": "MR",
+    "power": 303,
+    "torque": 400,
+    "weight": 790,
+    "aspiration": "TC"
+  },
+  {
+    "model": "LEXUS LF-LC GT \"Vision Gran Turismo\"",
+    "transmission": "FR",
+    "power": 621,
+    "torque": 460.6,
+    "weight": 1075,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Lambo V12 Vision Gran Turismo",
+    "transmission": "4RM",
+    "power": 785,
+    "torque": 720.3,
+    "weight": 819,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Lamborghini Aventador LP 700-4 '11",
+    "transmission": "4RM",
+    "power": 700,
+    "torque": 689.9,
+    "weight": 1575,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Lamborghini Aventador LP 750-4 Superveloce '15",
+    "transmission": "4RM",
+    "power": 750,
+    "torque": 689.9,
+    "weight": 1525,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Lamborghini Countach 25th Anniversary '88",
+    "transmission": "MR",
+    "power": 456,
+    "torque": 491.9,
+    "weight": 1490,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Lamborghini Countach LP400 '74",
+    "transmission": "MR",
+    "power": 379,
+    "torque": 360.5,
+    "weight": 1065,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Lamborghini Diablo GT '00",
+    "transmission": "MR",
+    "power": 580,
+    "torque": 630,
+    "weight": 1490,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Lamborghini Gallardo LP 560-4 '08",
+    "transmission": "4RM",
+    "power": 560,
+    "torque": 539.9,
+    "weight": 1410,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Lamborghini Huracán GT3 '15",
+    "transmission": "MR",
+    "power": 585,
+    "torque": 580.1,
+    "weight": 1230,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Lamborghini Huracán Gr.4",
+    "transmission": "4RM",
+    "power": 410,
+    "torque": 376.9,
+    "weight": 1365,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Lamborghini Huracán LP 610-4 '15",
+    "transmission": "4RM",
+    "power": 610,
+    "torque": 559.9,
+    "weight": 1422,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Lamborghini Miura P400 Bertone Prototype '67",
+    "transmission": "MR",
+    "power": 354,
+    "torque": 368.4,
+    "weight": 980,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Lamborghini Murciélago LP 640 '09",
+    "transmission": "4RM",
+    "power": 640,
+    "torque": 659.9,
+    "weight": 1665,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Lamborghini Urus '18",
+    "transmission": "4RM",
+    "power": 650,
+    "torque": 849.7,
+    "weight": 2197,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Lamborghini Veneno '14",
+    "transmission": "4RM",
+    "power": 750,
+    "torque": 720.3,
+    "weight": 1450,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Lancia Delta HF Integrale Evoluzione '91",
+    "transmission": "4RM",
+    "power": 212,
+    "torque": 303.8,
+    "weight": 1350,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Lancia Delta HF Integrale Rally Car '92",
+    "transmission": "4RM",
+    "power": 335,
+    "torque": 483.3,
+    "weight": 1100,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Lancia Stratos '73",
+    "transmission": "MR",
+    "power": 188,
+    "torque": 225.4,
+    "weight": 980,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Lexus LC500 '17",
+    "transmission": "FR",
+    "power": 476,
+    "torque": 539.9,
+    "weight": 1940,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Lexus LFA '10",
+    "transmission": "FR",
+    "power": 560,
+    "torque": 479.2,
+    "weight": 1480,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Lexus RC F '14",
+    "transmission": "FR",
+    "power": 476,
+    "torque": 529.2,
+    "weight": 1790,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Lexus RC F GT3 '17",
+    "transmission": "FR",
+    "power": 543,
+    "torque": 615.4,
+    "weight": 1300,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Lexus RC F GT3 prototype '16",
+    "transmission": "FR",
+    "power": 535,
+    "torque": 607.6,
+    "weight": 1300,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Lexus RC F GT500 '16",
+    "transmission": "FR",
+    "power": 623,
+    "torque": 588.4,
+    "weight": 1020,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Lexus RC F Gr.4",
+    "transmission": "FR",
+    "power": 425,
+    "torque": 472,
+    "weight": 1400,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Lexus SC430 GT500 '08",
+    "transmission": "FR",
+    "power": 524,
+    "torque": 584.8,
+    "weight": 1100,
+    "aspiration": "NA"
+  },
+  {
+    "model": "MAZDA RX-VISION GT3 CONCEPT",
+    "transmission": "FR",
+    "power": 570,
+    "torque": 539,
+    "weight": 1250,
+    "aspiration": "NA"
+  },
+  {
+    "model": "MAZDA SPIRIT RACING ROADSTER 12R '25",
+    "transmission": "FR",
+    "power": 200,
+    "torque": 215.6,
+    "weight": 1050,
+    "aspiration": "NA"
+  },
+  {
+    "model": "MAZDA3 Gr.4",
+    "transmission": "FF",
+    "power": 386,
+    "torque": 433.1,
+    "weight": 1200,
+    "aspiration": "TC"
+  },
+  {
+    "model": "MAZDA3 X Burgundy Selection '19",
+    "transmission": "4RM",
+    "power": 180,
+    "torque": 223.4,
+    "weight": 1480,
+    "aspiration": "NA"
+  },
+  {
+    "model": "MINI Clubman Vision Gran Turismo",
+    "transmission": "4RM",
+    "power": 394,
+    "torque": 427.4,
+    "weight": 1050,
+    "aspiration": "TC"
+  },
+  {
+    "model": "MINI Cooper S '05",
+    "transmission": "FF",
+    "power": 170,
+    "torque": 220,
+    "weight": 1180,
+    "aspiration": "SA"
+  },
+  {
+    "model": "Maserati A6GCS/53 Spyder '54",
+    "transmission": "FR",
+    "power": 169,
+    "torque": 194,
+    "weight": 740,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Maserati GranTurismo S '08",
+    "transmission": "FR",
+    "power": 446,
+    "torque": 490,
+    "weight": 1780,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Maserati MC20 '20",
+    "transmission": "MR",
+    "power": 630,
+    "torque": 730.1,
+    "weight": 1500,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Maserati Merak SS '80",
+    "transmission": "MR",
+    "power": 220,
+    "torque": 269.5,
+    "weight": 1420,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Mazda 787B '91",
+    "transmission": "MR",
+    "power": 700,
+    "torque": 607.6,
+    "weight": 830,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Mazda Atenza Gr.3",
+    "transmission": "FR",
+    "power": 575,
+    "torque": 568.6,
+    "weight": 1280,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Mazda Atenza Gr.3 Road Car",
+    "transmission": "FR",
+    "power": 490,
+    "torque": 460.3,
+    "weight": 1450,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Mazda Atenza Gr.4",
+    "transmission": "4RM",
+    "power": 399,
+    "torque": 428.9,
+    "weight": 1380,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Mazda Atenza Sedan XD L Package '15",
+    "transmission": "4RM",
+    "power": 175,
+    "torque": 419.4,
+    "weight": 1600,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Mazda CX-30 X Smart Edition '21",
+    "transmission": "FF",
+    "power": 190,
+    "torque": 240.1,
+    "weight": 1490,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Mazda Demio XD Touring '15",
+    "transmission": "FF",
+    "power": 105,
+    "torque": 219.5,
+    "weight": 1080,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Mazda Eunos Roadster (NA Special Package) '89",
+    "transmission": "FR",
+    "power": 119,
+    "torque": 137.2,
+    "weight": 940,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Mazda LM55 Vision Gran Turismo",
+    "transmission": "4RM",
+    "power": null,
+    "torque": null,
+    "weight": null,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Mazda LM55 Vision Gran Turismo (Gr.1)",
+    "transmission": "4RM",
+    "power": 650,
+    "torque": 564.4,
+    "weight": 880,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Mazda RX-7 GT-X (FC) '90",
+    "transmission": "FR",
+    "power": 206,
+    "torque": 269.5,
+    "weight": 1250,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Mazda RX-7 Spirit R Type A (FD) '02",
+    "transmission": "FR",
+    "power": 297,
+    "torque": 332.4,
+    "weight": 1270,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Mazda RX-8 Spirit R '12",
+    "transmission": "FR",
+    "power": 234,
+    "torque": 215.6,
+    "weight": 1350,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Mazda RX-VISION '15",
+    "transmission": "FR",
+    "power": 525,
+    "torque": 488.9,
+    "weight": 1290,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Mazda RX500 '70",
+    "transmission": "MR",
+    "power": 251,
+    "torque": 231.2,
+    "weight": 850,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Mazda Roadster NR-A (ND) '22",
+    "transmission": "FR",
+    "power": 132,
+    "torque": 154.2,
+    "weight": 1010,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Mazda Roadster S (ND) '15",
+    "transmission": "FR",
+    "power": 130,
+    "torque": 149.9,
+    "weight": 990,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Mazda Roadster Touring Car",
+    "transmission": "FR",
+    "power": 208,
+    "torque": 201.7,
+    "weight": 795,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Mazda ɛ̃fini RX-7 Type R (FD) '91",
+    "transmission": "FR",
+    "power": 255,
+    "torque": 294,
+    "weight": 1260,
+    "aspiration": "TC"
+  },
+  {
+    "model": "McLaren 650S Coupe '14",
+    "transmission": "MR",
+    "power": 650,
+    "torque": 678.1,
+    "weight": 1330,
+    "aspiration": "TC"
+  },
+  {
+    "model": "McLaren 650S GT3 '15",
+    "transmission": "MR",
+    "power": 550,
+    "torque": 559.4,
+    "weight": 1240,
+    "aspiration": "TC"
+  },
+  {
+    "model": "McLaren 650S Gr.4",
+    "transmission": "MR",
+    "power": 405,
+    "torque": 423.1,
+    "weight": 1300,
+    "aspiration": "TC"
+  },
+  {
+    "model": "McLaren F1 '94",
+    "transmission": "MR",
+    "power": 635,
+    "torque": 650.7,
+    "weight": 1140,
+    "aspiration": "NA"
+  },
+  {
+    "model": "McLaren F1 GTR - BMW '95",
+    "transmission": "MR",
+    "power": 609,
+    "torque": 651,
+    "weight": 1050,
+    "aspiration": "NA"
+  },
+  {
+    "model": "McLaren MP4-12C '10",
+    "transmission": "MR",
+    "power": 609,
+    "torque": 630.1,
+    "weight": 1350,
+    "aspiration": "TC"
+  },
+  {
+    "model": "McLaren MP4/4 '88",
+    "transmission": "MR",
+    "power": 685,
+    "torque": 424.3,
+    "weight": 540,
+    "aspiration": "TC"
+  },
+  {
+    "model": "McLaren P1 GTR '16",
+    "transmission": "MR",
+    "power": 1000,
+    "torque": 823.2,
+    "weight": 1345,
+    "aspiration": "TC"
+  },
+  {
+    "model": "McLaren Ultimate Vision Gran Turismo",
+    "transmission": "MR",
+    "power": 1150,
+    "torque": 850.7,
+    "weight": 900,
+    "aspiration": "TC"
+  },
+  {
+    "model": "McLaren Ultimate Vision Gran Turismo (Gr.1)",
+    "transmission": "MR",
+    "power": 825,
+    "torque": 661.6,
+    "weight": 900,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Mercedes-AMG C 63 S '15",
+    "transmission": "FR",
+    "power": 511,
+    "torque": 699.7,
+    "weight": 1725,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Mercedes-AMG GT Black Series '20",
+    "transmission": "FR",
+    "power": 730,
+    "torque": 799.5,
+    "weight": 1540,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Mercedes-AMG GT R '17",
+    "transmission": "FR",
+    "power": 585,
+    "torque": 699.7,
+    "weight": 1660,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Mercedes-AMG GT S '15",
+    "transmission": "FR",
+    "power": 510,
+    "torque": 648.7,
+    "weight": 1570,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Mercedes-AMG GT Safety Car",
+    "transmission": "FR",
+    "power": 510,
+    "torque": 648.7,
+    "weight": 1570,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Mercedes-AMG GT3 '16",
+    "transmission": "FR",
+    "power": 623,
+    "torque": 719.7,
+    "weight": 1325,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Mercedes-AMG GT3 '20",
+    "transmission": "FR",
+    "power": 623,
+    "torque": 719.7,
+    "weight": 1285,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Mercedes-Benz 190 E 2.5-16 Evolution II '91",
+    "transmission": "FR",
+    "power": 235,
+    "torque": 245,
+    "weight": 1340,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Mercedes-Benz 300 SEL 6.8 AMG '71",
+    "transmission": "FR",
+    "power": 428,
+    "torque": 600.3,
+    "weight": 1635,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Mercedes-Benz 300 SL (W194) '52",
+    "transmission": "FR",
+    "power": 181,
+    "torque": 281.4,
+    "weight": 1080,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Mercedes-Benz 300 SL Coupé '54",
+    "transmission": "FR",
+    "power": 215,
+    "torque": 274.4,
+    "weight": 1295,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Mercedes-Benz A 45 AMG 4MATIC '13",
+    "transmission": "4RM",
+    "power": 360,
+    "torque": 449.8,
+    "weight": 1555,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Mercedes-Benz AMG Vision Gran Turismo",
+    "transmission": "FR",
+    "power": 585,
+    "torque": 799.9,
+    "weight": 1385,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Mercedes-Benz AMG Vision Gran Turismo Racing Series",
+    "transmission": "FR",
+    "power": 599,
+    "torque": 818.5,
+    "weight": 1300,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Mercedes-Benz CLK-LM '98",
+    "transmission": "MR",
+    "power": 608,
+    "torque": 539,
+    "weight": 940,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Mercedes-Benz S Barker Tourer '29",
+    "transmission": "FR",
+    "power": 180,
+    "torque": 432.1,
+    "weight": 1270,
+    "aspiration": "SA"
+  },
+  {
+    "model": "Mercedes-Benz SLR McLaren '09",
+    "transmission": "FR",
+    "power": 625,
+    "torque": 779.9,
+    "weight": 1768,
+    "aspiration": "SA"
+  },
+  {
+    "model": "Mercedes-Benz SLS AMG '10",
+    "transmission": "FR",
+    "power": 578,
+    "torque": 650,
+    "weight": 1620,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Mercedes-Benz SLS AMG GT3 '11",
+    "transmission": "FR",
+    "power": 623,
+    "torque": 719.7,
+    "weight": 1350,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Mercedes-Benz SLS AMG Gr.4",
+    "transmission": "FR",
+    "power": 425,
+    "torque": 477.7,
+    "weight": 1415,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Mercedes-Benz Unimog Type 411 '62",
+    "transmission": "4RM",
+    "power": 30,
+    "torque": 100.9,
+    "weight": 1940,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Mercedes-Benz W 196 R '55",
+    "transmission": "FR",
+    "power": 294,
+    "torque": 246.9,
+    "weight": 835,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Mine's BNR34 GT-R N1 base",
+    "transmission": "4RM",
+    "power": 630,
+    "torque": 627.9,
+    "weight": 1350,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Mini-Cooper 'S' '65",
+    "transmission": "FF",
+    "power": 65,
+    "torque": 74.4,
+    "weight": 605,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Mitsubishi Concept XR-PHEV EVOLUTION Vision Gran Turismo",
+    "transmission": "4RM",
+    "power": 510,
+    "torque": 1,
+    "weight": 1350,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Mitsubishi FTO GP Version R '97",
+    "transmission": "FF",
+    "power": 200,
+    "torque": 200.5,
+    "weight": 1150,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Mitsubishi GTO Twin Turbo '91",
+    "transmission": "4RM",
+    "power": 289,
+    "torque": 416.5,
+    "weight": 1700,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Mitsubishi Lancer Evolution Final Edition '15",
+    "transmission": "4RM",
+    "power": 314,
+    "torque": 428.2,
+    "weight": 1530,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Mitsubishi Lancer Evolution Final Edition Gr.3",
+    "transmission": "FR",
+    "power": 619,
+    "torque": 652.9,
+    "weight": 1290,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Mitsubishi Lancer Evolution Final Edition Gr.4",
+    "transmission": "4RM",
+    "power": 395,
+    "torque": 462.6,
+    "weight": 1330,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Mitsubishi Lancer Evolution Final Edition Gr.B Rally Car",
+    "transmission": "4RM",
+    "power": 529,
+    "torque": 619.3,
+    "weight": 1290,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Mitsubishi Lancer Evolution Final Edition Gr.B Road Car",
+    "transmission": "4RM",
+    "power": 480,
+    "torque": 561.7,
+    "weight": 1425,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Mitsubishi Lancer Evolution III GSR '95",
+    "transmission": "4RM",
+    "power": 268,
+    "torque": 308.7,
+    "weight": 1260,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Mitsubishi Lancer Evolution IV GSR '96",
+    "transmission": "4RM",
+    "power": 277,
+    "torque": 352.8,
+    "weight": 1350,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Mitsubishi Lancer Evolution IX MR GSR '06",
+    "transmission": "4RM",
+    "power": 281,
+    "torque": 400,
+    "weight": 1420,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Mitsubishi Lancer Evolution V GSR '98",
+    "transmission": "4RM",
+    "power": 311,
+    "torque": 414.4,
+    "weight": 1360,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Mitsubishi Lancer Evolution VI GSR T.M. EDITION Special Color Package '99",
+    "transmission": "4RM",
+    "power": 316,
+    "torque": 413.3,
+    "weight": 1360,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Mitsubishi Lancer Evolution VIII MR GSR '04",
+    "transmission": "4RM",
+    "power": 280,
+    "torque": 400,
+    "weight": 1400,
+    "aspiration": "TC"
+  },
+  {
+    "model": "NISMO 400R '95",
+    "transmission": "4RM",
+    "power": 400,
+    "torque": 468.4,
+    "weight": 1550,
+    "aspiration": "TC"
+  },
+  {
+    "model": "NISMO R34 GT-R Z-tune '05",
+    "transmission": "4RM",
+    "power": 500,
+    "torque": 539,
+    "weight": 1600,
+    "aspiration": "TC"
+  },
+  {
+    "model": "NISSAN CONCEPT 2020 Vision Gran Turismo",
+    "transmission": "4RM",
+    "power": null,
+    "torque": null,
+    "weight": null,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Nissan 180SX Type X '96",
+    "transmission": "FR",
+    "power": 206,
+    "torque": 274.4,
+    "weight": 1220,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Nissan Fairlady 240ZG (HS30) '71",
+    "transmission": "FR",
+    "power": 150,
+    "torque": 205.8,
+    "weight": 1010,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Nissan Fairlady Z (Z34) '08",
+    "transmission": "FR",
+    "power": 336,
+    "torque": 364.9,
+    "weight": 1530,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Nissan Fairlady Z 300ZX TwinTurbo 2seater (Z32) '89",
+    "transmission": "FR",
+    "power": 280,
+    "torque": 388,
+    "weight": 1510,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Nissan Fairlady Z 432 '69",
+    "transmission": "FR",
+    "power": 160,
+    "torque": 176.4,
+    "weight": 1040,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Nissan Fairlady Z Version S (Z33) '07",
+    "transmission": "FR",
+    "power": 315,
+    "torque": 358.2,
+    "weight": 1480,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Nissan GT-R GT500 '08",
+    "transmission": "FR",
+    "power": 535,
+    "torque": 550.4,
+    "weight": 1100,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Nissan GT-R GT500 '99",
+    "transmission": "FR",
+    "power": 505,
+    "torque": 705.6,
+    "weight": 1200,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Nissan GT-R Gr.4",
+    "transmission": "4RM",
+    "power": 435,
+    "torque": 499.8,
+    "weight": 1450,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Nissan GT-R Gr.B Rally Car",
+    "transmission": "4RM",
+    "power": 550,
+    "torque": 632.1,
+    "weight": 1350,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Nissan GT-R LM NISMO '15",
+    "transmission": "4RM",
+    "power": 613,
+    "torque": 936.5,
+    "weight": 880,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Nissan GT-R NISMO '17",
+    "transmission": "4RM",
+    "power": 600,
+    "torque": 651.7,
+    "weight": 1740,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Nissan GT-R NISMO (R32) '90",
+    "transmission": "4RM",
+    "power": 311,
+    "torque": 391.6,
+    "weight": 1400,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Nissan GT-R NISMO GT3 '13",
+    "transmission": "FR",
+    "power": 600,
+    "torque": 686,
+    "weight": 1300,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Nissan GT-R NISMO GT3 '18",
+    "transmission": "FR",
+    "power": 585,
+    "torque": 661.5,
+    "weight": 1285,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Nissan GT-R NISMO GT500 '16",
+    "transmission": "FR",
+    "power": 621,
+    "torque": 588,
+    "weight": 1020,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Nissan GT-R Premium edition '17",
+    "transmission": "4RM",
+    "power": 572,
+    "torque": 632.1,
+    "weight": 1770,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Nissan GT-R Premium edition T-spec '24",
+    "transmission": "4RM",
+    "power": 570,
+    "torque": 637,
+    "weight": 1760,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Nissan GT-R Safety Car",
+    "transmission": "4RM",
+    "power": 572,
+    "torque": 632.1,
+    "weight": 1740,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Nissan Qashqai Tekna 190 2wd e-Power '22",
+    "transmission": "FF",
+    "power": 190,
+    "torque": null,
+    "weight": 1624,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Nissan R92CP '92",
+    "transmission": "MR",
+    "power": 800,
+    "torque": 784,
+    "weight": 900,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Nissan Sileighty '98",
+    "transmission": "FR",
+    "power": 206,
+    "torque": 274.4,
+    "weight": 1170,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Nissan Silvia K's Aero (S14) '96",
+    "transmission": "FR",
+    "power": 220,
+    "torque": 274.4,
+    "weight": 1250,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Nissan Silvia K's Dia Selection (S13) '90",
+    "transmission": "FR",
+    "power": 174,
+    "torque": 225.3,
+    "weight": 1140,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Nissan Silvia K's Type S (S14) '94",
+    "transmission": "FR",
+    "power": 220,
+    "torque": 274.4,
+    "weight": 1220,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Nissan Silvia Q's (S13) '88",
+    "transmission": "FR",
+    "power": 134,
+    "torque": 158.7,
+    "weight": 1090,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Nissan Silvia spec-R Aero (S15) '02",
+    "transmission": "FR",
+    "power": 250,
+    "torque": 274.4,
+    "weight": 1240,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Nissan Silvia spec-R Aero (S15) Touring Car",
+    "transmission": "FR",
+    "power": 360,
+    "torque": 351.2,
+    "weight": 1000,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Nissan Skyline 2000GT-R (KPGC110) '73",
+    "transmission": "FR",
+    "power": 160,
+    "torque": 176.4,
+    "weight": 1145,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Nissan Skyline GT-R V･spec (R33) '97",
+    "transmission": "4RM",
+    "power": 324,
+    "torque": 426.3,
+    "weight": 1540,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Nissan Skyline GT-R V･spec II (R32) '94",
+    "transmission": "4RM",
+    "power": 311,
+    "torque": 391.6,
+    "weight": 1500,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Nissan Skyline GT-R V･spec II Nür (R34) '02",
+    "transmission": "4RM",
+    "power": 341,
+    "torque": 469.2,
+    "weight": 1560,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Nissan Skyline GTS-R (R31) '87",
+    "transmission": "FR",
+    "power": 210,
+    "torque": 245,
+    "weight": 1340,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Nissan Skyline Hard Top 2000GT-R (KPGC10) '70",
+    "transmission": "FR",
+    "power": 160,
+    "torque": 176.4,
+    "weight": 1100,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Nissan Skyline Super Silhouette Group 5 '84",
+    "transmission": "FR",
+    "power": 569,
+    "torque": 539,
+    "weight": 1005,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Nissan Z Performance '23",
+    "transmission": "FR",
+    "power": 405,
+    "torque": 475.3,
+    "weight": 1543,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Opel Corsa GSE Vision Gran Turismo",
+    "transmission": "4RM",
+    "power": 800,
+    "torque": null,
+    "weight": 1170,
+    "aspiration": "VE"
+  },
+  {
+    "model": "PEUGEOT Vision Gran Turismo",
+    "transmission": "4RM",
+    "power": 886,
+    "torque": 842.8,
+    "weight": 875,
+    "aspiration": "TC"
+  },
+  {
+    "model": "PEUGEOT Vision Gran Turismo (Gr.3)",
+    "transmission": "MR",
+    "power": 550,
+    "torque": 554.5,
+    "weight": 1250,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Pagani Huayra '13",
+    "transmission": "MR",
+    "power": 741,
+    "torque": 1,
+    "weight": 1350,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Pagani Zonda R '09",
+    "transmission": "MR",
+    "power": 748,
+    "torque": 710,
+    "weight": 1070,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Peugeot 205 GTI '88",
+    "transmission": "FF",
+    "power": 130,
+    "torque": 165,
+    "weight": 875,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Peugeot 205 Turbo 16 Evolution 2 '86",
+    "transmission": "4RM",
+    "power": 455,
+    "torque": 490,
+    "weight": 910,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Peugeot 208 GTi by Peugeot Sport '14",
+    "transmission": "FF",
+    "power": 207,
+    "torque": 299.8,
+    "weight": 1200,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Peugeot 908 HDi FAP '10",
+    "transmission": "MR",
+    "power": 710,
+    "torque": 1,
+    "weight": 930,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Peugeot L500R HYbrid Vision Gran Turismo, 2017",
+    "transmission": "4RM",
+    "power": 517,
+    "torque": 339.9,
+    "weight": 1000,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Peugeot L750R HYbrid Vision Gran Turismo, 2017",
+    "transmission": "4RM",
+    "power": 703,
+    "torque": 877.3,
+    "weight": 825,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Peugeot RCZ GT Line '15",
+    "transmission": "FF",
+    "power": 155,
+    "torque": 240.1,
+    "weight": 1350,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Peugeot RCZ Gr.3",
+    "transmission": "MR",
+    "power": 528,
+    "torque": 549.7,
+    "weight": 1200,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Peugeot RCZ Gr.3 Road Car",
+    "transmission": "MR",
+    "power": 475,
+    "torque": 497.2,
+    "weight": 1400,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Peugeot RCZ Gr.4",
+    "transmission": "FF",
+    "power": 350,
+    "torque": 392.3,
+    "weight": 1225,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Peugeot RCZ Gr.B Rally Car",
+    "transmission": "4RM",
+    "power": 524,
+    "torque": 548.8,
+    "weight": 1200,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Peugeot SUV 2008 Allure '21",
+    "transmission": "FF",
+    "power": 131,
+    "torque": 230.3,
+    "weight": 1192,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Plymouth Superbird '70",
+    "transmission": "FR",
+    "power": 431,
+    "torque": 664.4,
+    "weight": 1755,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Plymouth XNR Ghia Roadster '60",
+    "transmission": "FR",
+    "power": 254,
+    "torque": 270.9,
+    "weight": 1500,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Polestar 5 Performance '26",
+    "transmission": "4RM",
+    "power": 884,
+    "torque": null,
+    "weight": 2503,
+    "aspiration": "VE"
+  },
+  {
+    "model": "Pontiac Firebird Trans Am '78",
+    "transmission": "FR",
+    "power": 223,
+    "torque": 435,
+    "weight": 1640,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Pontiac GTO 'The Judge' '69",
+    "transmission": "FR",
+    "power": 370,
+    "torque": 602.7,
+    "weight": 1610,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Porsche 356 A/1500 GS Carrera '56",
+    "transmission": "RR",
+    "power": 99,
+    "torque": 118.5,
+    "weight": 840,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Porsche 356 A/1500 GS GT Carrera Speedster '56",
+    "transmission": "RR",
+    "power": 109,
+    "torque": 123.4,
+    "weight": 840,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Porsche 911 Carrera RS (901) '73",
+    "transmission": "RR",
+    "power": 209,
+    "torque": 254.8,
+    "weight": 1075,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Porsche 911 Carrera RS (964) '92",
+    "transmission": "RR",
+    "power": 259,
+    "torque": 325.3,
+    "weight": 1230,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Porsche 911 Carrera RS (993) '95",
+    "transmission": "RR",
+    "power": 300,
+    "torque": 354.7,
+    "weight": 1270,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Porsche 911 Carrera RS Clubsport (993) '95",
+    "transmission": "RR",
+    "power": 300,
+    "torque": 354.7,
+    "weight": 1235,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Porsche 911 GT1 Strassenversion '97",
+    "transmission": "MR",
+    "power": 541,
+    "torque": 599.7,
+    "weight": 1200,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Porsche 911 GT3 (996) '01",
+    "transmission": "RR",
+    "power": 359,
+    "torque": 370.5,
+    "weight": 1350,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Porsche 911 GT3 (997) '09",
+    "transmission": "RR",
+    "power": 434,
+    "torque": 430.2,
+    "weight": 1395,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Porsche 911 GT3 R (992) '22",
+    "transmission": "RR",
+    "power": 565,
+    "torque": 500.4,
+    "weight": 1250,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Porsche 911 GT3 RS (991) '16",
+    "transmission": "RR",
+    "power": 498,
+    "torque": 460.8,
+    "weight": 1420,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Porsche 911 GT3 RS (992) '22",
+    "transmission": "RR",
+    "power": 525,
+    "torque": 465.5,
+    "weight": 1450,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Porsche 911 RSR (991) '17",
+    "transmission": "MR",
+    "power": 517,
+    "torque": 488.5,
+    "weight": 1243,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Porsche 911 Turbo (930) '81",
+    "transmission": "RR",
+    "power": 300,
+    "torque": 411.6,
+    "weight": 1300,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Porsche 911 Turbo S (992) '20",
+    "transmission": "4RM",
+    "power": 650,
+    "torque": 799.7,
+    "weight": 1640,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Porsche 911 Turbo S Leichtbau (964) '93",
+    "transmission": "RR",
+    "power": 381,
+    "torque": 490,
+    "weight": 1290,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Porsche 917 LIVING LEGEND",
+    "transmission": "MR",
+    "power": 990,
+    "torque": 1,
+    "weight": 1220,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Porsche 917K '70",
+    "transmission": "MR",
+    "power": 607,
+    "torque": 539,
+    "weight": 800,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Porsche 918 Spyder '13",
+    "transmission": "4RM",
+    "power": 887,
+    "torque": 1,
+    "weight": 1674,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Porsche 919 Hybrid '16",
+    "transmission": "4RM",
+    "power": 507,
+    "torque": 518.1,
+    "weight": 875,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Porsche 959 '87",
+    "transmission": "4RM",
+    "power": 450,
+    "torque": 499.8,
+    "weight": 1450,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Porsche 962 C '88",
+    "transmission": "MR",
+    "power": 700,
+    "torque": 709.5,
+    "weight": 850,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Porsche Carrera GT '04",
+    "transmission": "MR",
+    "power": 612,
+    "torque": 589.9,
+    "weight": 1380,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Porsche Carrera GTS (904) '64",
+    "transmission": "MR",
+    "power": 182,
+    "torque": 196,
+    "weight": 650,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Porsche Cayman GT4 '16",
+    "transmission": "MR",
+    "power": 385,
+    "torque": 420.4,
+    "weight": 1340,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Porsche Cayman GT4 Clubsport '16",
+    "transmission": "MR",
+    "power": 385,
+    "torque": 420.4,
+    "weight": 1300,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Porsche Mission X '23",
+    "transmission": "RR",
+    "power": 1360,
+    "torque": null,
+    "weight": null,
+    "aspiration": "VE"
+  },
+  {
+    "model": "Porsche Spyder type 550/1500RS '55",
+    "transmission": "MR",
+    "power": 110,
+    "torque": 122.8,
+    "weight": 590,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Porsche Taycan Turbo S '19",
+    "transmission": "4RM",
+    "power": 762,
+    "torque": null,
+    "weight": 2295,
+    "aspiration": "VE"
+  },
+  {
+    "model": "Porsche Vision Gran Turismo",
+    "transmission": "4RM",
+    "power": 1114,
+    "torque": null,
+    "weight": 1390,
+    "aspiration": "VE"
+  },
+  {
+    "model": "Porsche Vision Gran Turismo Spyder",
+    "transmission": "4RM",
+    "power": 1114,
+    "torque": null,
+    "weight": 1390,
+    "aspiration": "VE"
+  },
+  {
+    "model": "RE Amemiya FD3S RX-7",
+    "transmission": "FR",
+    "power": 372,
+    "torque": 469.4,
+    "weight": 1240,
+    "aspiration": "TC"
+  },
+  {
+    "model": "RUF CTR3 '07",
+    "transmission": "MR",
+    "power": 700,
+    "torque": 890,
+    "weight": 1400,
+    "aspiration": "TC"
+  },
+  {
+    "model": "RUF RGT 4.2 '16",
+    "transmission": "RR",
+    "power": 525,
+    "torque": 482.6,
+    "weight": 1400,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Radical SR3 SL '13",
+    "transmission": "MR",
+    "power": 243,
+    "torque": 340,
+    "weight": 775,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Renault Avantime 3.0 V6 24V '02",
+    "transmission": "FF",
+    "power": 207,
+    "torque": 285.1,
+    "weight": 1741,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Renault Captur S Edition TCe 140 '21",
+    "transmission": "FF",
+    "power": 140,
+    "torque": 259.7,
+    "weight": 1234,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Renault Espace F1 '95",
+    "transmission": "MR",
+    "power": 811,
+    "torque": 704.6,
+    "weight": 1300,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Renault Kangoo 1.4 '01",
+    "transmission": "FF",
+    "power": 75,
+    "torque": 116.6,
+    "weight": 1080,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Renault R4 GTL '85",
+    "transmission": "FF",
+    "power": 34,
+    "torque": 73.5,
+    "weight": 720,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Renault R5 Turbo '80",
+    "transmission": "MR",
+    "power": 162,
+    "torque": 209.7,
+    "weight": 970,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Renault R8 Gordini '66",
+    "transmission": "RR",
+    "power": 103,
+    "torque": 117,
+    "weight": 850,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Renault Sport Clio R.S. 220 EDC Trophy '15",
+    "transmission": "FF",
+    "power": 220,
+    "torque": 280.2,
+    "weight": 1179,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Renault Sport Clio R.S. 220 EDC Trophy '16",
+    "transmission": "FF",
+    "power": 220,
+    "torque": 280.2,
+    "weight": 1204,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Renault Sport Clio V6 24V '00",
+    "transmission": "MR",
+    "power": 233,
+    "torque": 299.8,
+    "weight": 1335,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Renault Sport Mégane Gr.4",
+    "transmission": "FF",
+    "power": 355,
+    "torque": 451.9,
+    "weight": 1100,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Renault Sport Mégane R.S. Trophy '11",
+    "transmission": "FF",
+    "power": 265,
+    "torque": 359.8,
+    "weight": 1387,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Renault Sport Mégane R.S. Trophy Safety Car",
+    "transmission": "FF",
+    "power": 265,
+    "torque": 359.8,
+    "weight": 1387,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Renault Sport Mégane Trophy '11",
+    "transmission": "MR",
+    "power": 365,
+    "torque": 389.9,
+    "weight": 955,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Renault Sport R.S.01 '16",
+    "transmission": "MR",
+    "power": 550,
+    "torque": 630.1,
+    "weight": 1144,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Renault Sport R.S.01 GT3 '16",
+    "transmission": "MR",
+    "power": 542,
+    "torque": 626.2,
+    "weight": 1220,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Renault Twingo '93",
+    "transmission": "FF",
+    "power": 55,
+    "torque": 91.1,
+    "weight": 790,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Roadster Shop Rampage",
+    "transmission": "FR",
+    "power": 759,
+    "torque": 948.6,
+    "weight": 1406,
+    "aspiration": "NA"
+  },
+  {
+    "model": "SUBARU VIZIV GT Vision Gran Turismo",
+    "transmission": "4RM",
+    "power": 639,
+    "torque": 489.9,
+    "weight": 1380,
+    "aspiration": "TC"
+  },
+  {
+    "model": "SUZUKI Vision Gran Turismo",
+    "transmission": "4RM",
+    "power": 432,
+    "torque": 1,
+    "weight": 970,
+    "aspiration": "NA"
+  },
+  {
+    "model": "SUZUKI Vision Gran Turismo (Gr.3 Version)",
+    "transmission": "FR",
+    "power": 586,
+    "torque": 490,
+    "weight": 1220,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Sauber Mercedes C9 '89",
+    "transmission": "MR",
+    "power": 720,
+    "torque": 809.4,
+    "weight": 893,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Shelby Cobra 427 '66",
+    "transmission": "FR",
+    "power": 491,
+    "torque": 650.7,
+    "weight": 1068,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Shelby Cobra Daytona Coupe '64",
+    "transmission": "FR",
+    "power": 390,
+    "torque": 460.6,
+    "weight": 1043,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Shelby G.T.350 '65",
+    "transmission": "FR",
+    "power": 309,
+    "torque": 445.7,
+    "weight": 1270,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Subaru BRZ Drift Car '17",
+    "transmission": "FR",
+    "power": 1052,
+    "torque": 1,
+    "weight": 1433,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Subaru BRZ GT300 '21",
+    "transmission": "FR",
+    "power": 485,
+    "torque": 664.4,
+    "weight": 1150,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Subaru BRZ S '15",
+    "transmission": "FR",
+    "power": 200,
+    "torque": 204.8,
+    "weight": 1230,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Subaru BRZ S '21",
+    "transmission": "FR",
+    "power": 235,
+    "torque": 249.9,
+    "weight": 1270,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Subaru BRZ STI Sport '18",
+    "transmission": "FR",
+    "power": 206,
+    "torque": 211.6,
+    "weight": 1250,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Subaru Impreza 22B-STi Version '98",
+    "transmission": "4RM",
+    "power": 294,
+    "torque": 380.7,
+    "weight": 1270,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Subaru Impreza Coupe WRX Type R STi Version VI '99",
+    "transmission": "4RM",
+    "power": 280,
+    "torque": 352.8,
+    "weight": 1260,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Subaru Impreza Rally Car '98",
+    "transmission": "4RM",
+    "power": 304,
+    "torque": 470.4,
+    "weight": 1230,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Subaru Impreza Sedan WRX STi '04",
+    "transmission": "4RM",
+    "power": 291,
+    "torque": 411.1,
+    "weight": 1460,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Subaru WRX Gr.3",
+    "transmission": "FR",
+    "power": 600,
+    "torque": 619.1,
+    "weight": 1280,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Subaru WRX Gr.4",
+    "transmission": "4RM",
+    "power": 383,
+    "torque": 480.4,
+    "weight": 1320,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Subaru WRX Gr.B Rally Car",
+    "transmission": "4RM",
+    "power": 529,
+    "torque": 598.5,
+    "weight": 1280,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Subaru WRX Gr.B Road Car",
+    "transmission": "4RM",
+    "power": 480,
+    "torque": 542.3,
+    "weight": 1425,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Subaru WRX STI Isle of Man Time Attack Car '16",
+    "transmission": "4RM",
+    "power": 587,
+    "torque": 549.7,
+    "weight": 1140,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Subaru WRX STI Type S '14",
+    "transmission": "4RM",
+    "power": 307,
+    "torque": 424.5,
+    "weight": 1490,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Suzuki Cappuccino (EA11R) '91",
+    "transmission": "FR",
+    "power": 63,
+    "torque": 85.1,
+    "weight": 700,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Suzuki Carry KC '12",
+    "transmission": "FR",
+    "power": 48,
+    "torque": 61.8,
+    "weight": 710,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Suzuki Jimny Sierra JC '18",
+    "transmission": "4RM",
+    "power": 102,
+    "torque": 130.3,
+    "weight": 1070,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Suzuki Jimny XC '18",
+    "transmission": "4RM",
+    "power": 64,
+    "torque": 96,
+    "weight": 1030,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Suzuki Swift Sport '07",
+    "transmission": "FF",
+    "power": 125,
+    "torque": 147.9,
+    "weight": 1060,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Suzuki Swift Sport '17",
+    "transmission": "FF",
+    "power": 139,
+    "torque": 230.3,
+    "weight": 970,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Suzuki Swift Sport KATANA Edition Gr.4",
+    "transmission": "FF",
+    "power": 350,
+    "torque": 441,
+    "weight": 900,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Suzuki V6 Escudo Pikes Peak Special '98",
+    "transmission": "4RM",
+    "power": 995,
+    "torque": 931,
+    "weight": 800,
+    "aspiration": "TC"
+  },
+  {
+    "model": "TOYOTA 86 GT '15",
+    "transmission": "FR",
+    "power": 200,
+    "torque": 204.8,
+    "weight": 1230,
+    "aspiration": "NA"
+  },
+  {
+    "model": "TOYOTA 86 GT\"Limited\" '16",
+    "transmission": "FR",
+    "power": 206,
+    "torque": 211.6,
+    "weight": 1240,
+    "aspiration": "NA"
+  },
+  {
+    "model": "TOYOTA 86 Gr.4",
+    "transmission": "FR",
+    "power": 364,
+    "torque": 370.7,
+    "weight": 1200,
+    "aspiration": "NA"
+  },
+  {
+    "model": "TOYOTA 86 Gr.B Rally Car",
+    "transmission": "4RM",
+    "power": 524,
+    "torque": 464.7,
+    "weight": 1180,
+    "aspiration": "NA"
+  },
+  {
+    "model": "TOYOTA GR010 HYBRID '21",
+    "transmission": "4RM",
+    "power": 680,
+    "torque": 671,
+    "weight": 1040,
+    "aspiration": "TC"
+  },
+  {
+    "model": "TOYOTA S-FR '15",
+    "transmission": "FR",
+    "power": 135,
+    "torque": 149.9,
+    "weight": 1050,
+    "aspiration": "NA"
+  },
+  {
+    "model": "TOYOTA S-FR Racing Concept '16",
+    "transmission": "FR",
+    "power": 354,
+    "torque": 449.8,
+    "weight": 1150,
+    "aspiration": "TC"
+  },
+  {
+    "model": "TVR Tuscan Speed 6 '00",
+    "transmission": "FR",
+    "power": 366,
+    "torque": 418.4,
+    "weight": 1100,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Tesla Model 3 Performance '23",
+    "transmission": "4RM",
+    "power": 539,
+    "torque": null,
+    "weight": 1836,
+    "aspiration": "VE"
+  },
+  {
+    "model": "Tesla Model S Signature Performance '12",
+    "transmission": "RR",
+    "power": 416,
+    "torque": null,
+    "weight": 2018,
+    "aspiration": "VE"
+  },
+  {
+    "model": "Toyota 2000GT '67",
+    "transmission": "FR",
+    "power": 156,
+    "torque": 176.4,
+    "weight": 1120,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Toyota 86 GRMN '16",
+    "transmission": "FR",
+    "power": 218,
+    "torque": 220.5,
+    "weight": 1220,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Toyota Alphard Executive Lounge '18",
+    "transmission": "4RM",
+    "power": 301,
+    "torque": 360.5,
+    "weight": 2210,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Toyota Ambulance Himedic '21",
+    "transmission": "4RM",
+    "power": 160,
+    "torque": 243,
+    "weight": 2860,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Toyota Aqua S '11",
+    "transmission": "FF",
+    "power": 111,
+    "torque": 110.7,
+    "weight": 1080,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Toyota C-HR S '18",
+    "transmission": "FF",
+    "power": 138,
+    "torque": 142.1,
+    "weight": 1440,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Toyota Celica GT-FOUR (ST205) '94",
+    "transmission": "4RM",
+    "power": 254,
+    "torque": 303.8,
+    "weight": 1380,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Toyota Celica GT-FOUR Rally Car (ST205) '95",
+    "transmission": "4RM",
+    "power": 303,
+    "torque": 499.8,
+    "weight": 1200,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Toyota Corolla Levin 3door 1600GT APEX (AE86) '83",
+    "transmission": "FR",
+    "power": 129,
+    "torque": 148.9,
+    "weight": 940,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Toyota Crown Athlete G '13",
+    "transmission": "FR",
+    "power": 314,
+    "torque": 376.3,
+    "weight": 1650,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Toyota Crown Athlete G Safety Car",
+    "transmission": "FR",
+    "power": 314,
+    "torque": 376.3,
+    "weight": 1650,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Toyota FT-1",
+    "transmission": "FR",
+    "power": null,
+    "torque": null,
+    "weight": null,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Toyota FT-1 Vision Gran Turismo",
+    "transmission": "FR",
+    "power": null,
+    "torque": null,
+    "weight": null,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Toyota FT-1 Vision Gran Turismo (Gr.3)",
+    "transmission": "FR",
+    "power": 552,
+    "torque": 470.1,
+    "weight": 1280,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Toyota GR Corolla MORIZO Edition '22",
+    "transmission": "4RM",
+    "power": 304,
+    "torque": 399.7,
+    "weight": 1445,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Toyota GR Supra RZ '19",
+    "transmission": "FR",
+    "power": 340,
+    "torque": 499.9,
+    "weight": 1520,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Toyota GR Supra RZ '20",
+    "transmission": "FR",
+    "power": 388,
+    "torque": 499.9,
+    "weight": 1530,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Toyota GR Supra Race Car '19",
+    "transmission": "FR",
+    "power": 400,
+    "torque": 587.5,
+    "weight": 1380,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Toyota GR Supra Racing Concept '18",
+    "transmission": "FR",
+    "power": 600,
+    "torque": 697.6,
+    "weight": 1243,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Toyota GR Yaris 1st Edition RZ \"High performance\" '20",
+    "transmission": "4RM",
+    "power": 272,
+    "torque": 370,
+    "weight": 1290,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Toyota GR86 RZ '21",
+    "transmission": "FR",
+    "power": 235,
+    "torque": 249.9,
+    "weight": 1270,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Toyota GT-One (TS020) '99",
+    "transmission": "MR",
+    "power": 775,
+    "torque": 820.2,
+    "weight": 900,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Toyota Hiace Van DX '16",
+    "transmission": "FR",
+    "power": 136,
+    "torque": 182.2,
+    "weight": 1680,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Toyota Land Cruiser FJ40V '74",
+    "transmission": "4RM",
+    "power": 130,
+    "torque": 294,
+    "weight": 1610,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Toyota MR2 GT-S '97",
+    "transmission": "MR",
+    "power": 245,
+    "torque": 303.8,
+    "weight": 1270,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Toyota Prius G '09",
+    "transmission": "FF",
+    "power": 149,
+    "torque": 142.1,
+    "weight": 1350,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Toyota RAV4 Adventure '20",
+    "transmission": "4RM",
+    "power": 171,
+    "torque": 206.7,
+    "weight": 1630,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Toyota Sports 800 '65",
+    "transmission": "FR",
+    "power": 44,
+    "torque": 66.6,
+    "weight": 580,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Toyota Sprinter Trueno 3door 1600GT APEX (AE86) '83",
+    "transmission": "FR",
+    "power": 129,
+    "torque": 148.9,
+    "weight": 940,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Toyota Supra 3.0GT Turbo A '88",
+    "transmission": "FR",
+    "power": 270,
+    "torque": 357.7,
+    "weight": 1530,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Toyota Supra GT500 '97",
+    "transmission": "FR",
+    "power": 499,
+    "torque": 642.7,
+    "weight": 1150,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Toyota Supra RZ '97",
+    "transmission": "FR",
+    "power": 330,
+    "torque": 531.9,
+    "weight": 1510,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Toyota TS030 Hybrid '12",
+    "transmission": "MR",
+    "power": 537,
+    "torque": 415,
+    "weight": 900,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Toyota TS050 - Hybrid '16",
+    "transmission": "4RM",
+    "power": 500,
+    "torque": 503.8,
+    "weight": 875,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Toyota Trueno 3door 1600GT APEX (AE86 Shuichi Shigeno Version)",
+    "transmission": "FR",
+    "power": 210,
+    "torque": 171.5,
+    "weight": 825,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Toyota Tundra TRD Pro '19",
+    "transmission": "4RM",
+    "power": 385,
+    "torque": 542.9,
+    "weight": 2555,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Volkswagen 1200 '66",
+    "transmission": "RR",
+    "power": 34,
+    "torque": 82.3,
+    "weight": 780,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Volkswagen Beetle Gr.3",
+    "transmission": "FR",
+    "power": 600,
+    "torque": 592.2,
+    "weight": 1200,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Volkswagen GTI Roadster Vision Gran Turismo",
+    "transmission": "4RM",
+    "power": 559,
+    "torque": 665,
+    "weight": 1200,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Volkswagen GTI Supersport Vision Gran Turismo",
+    "transmission": "4RM",
+    "power": 559,
+    "torque": 665,
+    "weight": 1200,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Volkswagen GTI Vision Gran Turismo (Gr.3)",
+    "transmission": "MR",
+    "power": 559,
+    "torque": 665,
+    "weight": 1260,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Volkswagen Golf I GTI '83",
+    "transmission": "FF",
+    "power": 112,
+    "torque": 149.9,
+    "weight": 890,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Volkswagen Golf VII GTI '14",
+    "transmission": "FF",
+    "power": 220,
+    "torque": 349.8,
+    "weight": 1390,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Volkswagen ID.R '19",
+    "transmission": "4RM",
+    "power": 680,
+    "torque": null,
+    "weight": 1030,
+    "aspiration": "VE"
+  },
+  {
+    "model": "Volkswagen Polo GTI '14",
+    "transmission": "FF",
+    "power": 192,
+    "torque": 319.4,
+    "weight": 1272,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Volkswagen Sambabus Typ 2 (T1) '62",
+    "transmission": "RR",
+    "power": 34,
+    "torque": 82.3,
+    "weight": 1095,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Volkswagen Scirocco Gr.4",
+    "transmission": "FF",
+    "power": 364,
+    "torque": 395.9,
+    "weight": 1050,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Volkswagen Scirocco R '10",
+    "transmission": "FF",
+    "power": 256,
+    "torque": 330.2,
+    "weight": 1410,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Volvo 240 SE Estate '93",
+    "transmission": "FR",
+    "power": 111,
+    "torque": 157.7,
+    "weight": 1324,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Volvo V40 T5 R-Design '13",
+    "transmission": "FF",
+    "power": 213,
+    "torque": 299.8,
+    "weight": 1540,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Wicked Fabrication GT 51",
+    "transmission": "FR",
+    "power": 378,
+    "torque": 521.3,
+    "weight": 1338,
+    "aspiration": "NA"
+  },
+  {
+    "model": "Xiaomi SU7 Ultra '25",
+    "transmission": "4RM",
+    "power": 1548,
+    "torque": null,
+    "weight": 2360,
+    "aspiration": "VE"
+  },
+  {
+    "model": "Yangwang U9 '24",
+    "transmission": "4RM",
+    "power": 1305,
+    "torque": null,
+    "weight": 2380,
+    "aspiration": "VE"
+  },
+  {
+    "model": "Škoda Vision Gran Turismo",
+    "transmission": "4RM",
+    "power": 1087,
+    "torque": null,
+    "weight": 1300,
+    "aspiration": "VE"
+  }
+]

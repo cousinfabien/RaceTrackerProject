@@ -17,6 +17,14 @@ enum UserRole {
   ORGANIZER
 }
 
+enum VehicleCategory {
+  GR1
+  GR2
+  GR3
+  GR4
+  GRB
+}
+
 model User {
   id        Int        @id @default(autoincrement())
   username  String     @unique
@@ -62,7 +70,11 @@ model VehicleModel {
   id Int @id @default(autoincrement())
   manufacturer String
   model String
-  category String?
+  
+
+  category VehicleCategory?
+  basePower Int?
+  baseWeight Int?
 
   createdAt DateTime @default(now())
 
