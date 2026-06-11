@@ -379,6 +379,13 @@
   },
   {
     "manufacturer": "BMW",
+    "model": "M Hybrid V8 '25",
+    "basePower": 650,
+    "baseWeight": 1030,
+    "category": "GR1"
+  },
+  {
+    "manufacturer": "BMW",
     "model": "M2 Competition '18",
     "basePower": 411,
     "baseWeight": 1575,
@@ -790,6 +797,13 @@
     "baseWeight": 1185,
     "category": null
   },
+    {
+    "manufacturer": "De Tomaso",
+    "model": "Mangusta (Christian Dior)",
+    "basePower": 305,
+    "baseWeight": 1185,
+    "category": null
+  },
   {
     "manufacturer": "De Tomaso",
     "model": "Pantera '71",
@@ -1023,6 +1037,13 @@
   },
   {
     "manufacturer": "Ferrari",
+    "model": "499P '23",
+    "basePower": 680,
+    "baseWeight": 1030,
+    "category": "GR1"
+  },
+  {
+    "manufacturer": "Ferrari",
     "model": "500 Mondial Pinin Farina Coupe '54",
     "basePower": 171,
     "baseWeight": 720,
@@ -1203,6 +1224,7 @@
     "baseWeight": 1000,
     "category": null
   },
+
   {
     "manufacturer": "Ford",
     "model": "Mustang Boss 429 '69",
@@ -1215,6 +1237,13 @@
     "model": "Mustang GT Premium Fastback '15",
     "basePower": 441,
     "baseWeight": 1681,
+    "category": null
+  },
+ {
+    "manufacturer": "Ford",
+    "model": "Mustang 2015 American Racer",
+    "basePower": 812,
+    "baseWeight": 1451,
     "category": null
   },
   {
@@ -1381,6 +1410,13 @@
   {
     "manufacturer": "Gran Turismo",
     "model": "Red Bull X2019 Competition",
+    "basePower": 816,
+    "baseWeight": 650,
+    "category": null
+  },
+  {
+    "manufacturer": "Gran Turismo",
+    "model": "Red Bull X2019 25th Anniversary",
     "basePower": 816,
     "baseWeight": 650,
     "category": null
@@ -2766,6 +2802,13 @@
   },
   {
     "manufacturer": "Nissan",
+    "model": "Skyline GT-R GP-Tuned (KPGC10)",
+    "basePower": 250,
+    "baseWeight": 935,
+    "category": null
+  },
+  {
+    "manufacturer": "Nissan",
     "model": "Skyline Super Silhouette Group 5 '84",
     "basePower": 569,
     "baseWeight": 1005,
@@ -2839,6 +2882,13 @@
     "model": "908 HDi FAP '10",
     "basePower": 710,
     "baseWeight": 930,
+    "category": "GR1"
+  },
+  {
+    "manufacturer": "Peugeot",
+    "model": "9X8 '25",
+    "basePower": 680,
+    "baseWeight": 1030,
     "category": "GR1"
   },
   {
@@ -3032,6 +3082,13 @@
   },
   {
     "manufacturer": "Porsche",
+    "model": "911 Turbo Rally (930)",
+    "basePower": 250,
+    "baseWeight": 1250,
+    "category": null
+  },
+  {
+    "manufacturer": "Porsche",
     "model": "911 Turbo S (992) '20",
     "basePower": 650,
     "baseWeight": 1640,
@@ -3042,6 +3099,13 @@
     "model": "911 Turbo S Leichtbau (964) '93",
     "basePower": 381,
     "baseWeight": 1290,
+    "category": null
+  },
+  {
+    "manufacturer": "Porsche",
+    "model": "911 Turbo S Safety Car (992)",
+    "basePower": 650,
+    "baseWeight": 1640,
     "category": null
   },
   {
@@ -3084,6 +3148,13 @@
     "model": "962 C '88",
     "basePower": 700,
     "baseWeight": 850,
+    "category": "GR1"
+  },
+  {
+    "manufacturer": "Porsche",
+    "model": "963 '24",
+    "basePower": 680,
+    "baseWeight": 1030,
     "category": "GR1"
   },
   {
@@ -3648,6 +3719,13 @@
   },
   {
     "manufacturer": "Toyota",
+    "model": "AE86 Levin D-Tuned",
+    "basePower": 220,
+    "baseWeight": 810,
+    "category": null
+  },
+  {
+    "manufacturer": "Toyota",
     "model": "Crown Athlete G '13",
     "basePower": 314,
     "baseWeight": 1650,
@@ -3809,6 +3887,13 @@
   },
   {
     "manufacturer": "Toyota",
+    "model": "Supra GT Road Car (JZA80)",
+    "basePower": 500,
+    "baseWeight": 1510,
+    "category": null
+  },
+  {
+    "manufacturer": "Toyota",
     "model": "TS030 Hybrid '12",
     "basePower": 537,
     "baseWeight": 900,
@@ -3840,6 +3925,13 @@
     "model": "1200 '66",
     "basePower": 34,
     "baseWeight": 780,
+    "category": null
+  },
+  {
+    "manufacturer": "Volkswagen",
+    "model": "Beetle 1966 Desert Racer",
+    "basePower": 153,
+    "baseWeight": 980,
     "category": null
   },
   {

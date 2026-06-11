@@ -432,6 +432,14 @@
     "aspiration": "NA"
   },
   {
+    "model": "BMW M Hybrid V8 '25",
+    "transmission": "MR",
+    "power": 650,
+    "torque": 616.4,
+    "weight": 1030,
+    "aspiration": "TC"
+  },
+  {
     "model": "BMW M2 Competition '18",
     "transmission": "FR",
     "power": 411,
@@ -1166,6 +1174,14 @@
     "torque": 359.6,
     "weight": 1350,
     "aspiration": "NA"
+  },
+  {
+    "model": "Ferrari 499P '23",
+    "transmission": "4RM",
+    "power": 680,
+    "torque": 789.7,
+    "weight": 1030,
+    "aspiration": "TC"
   },
   {
     "model": "Ferrari 500 Mondial Pinin Farina Coupe '54",
@@ -3240,6 +3256,14 @@
     "aspiration": "TC"
   },
   {
+    "model": "Peugeot 9X8 '25",
+    "transmission": "4RM",
+    "power": 680,
+    "torque": 672.5,
+    "weight": 1030,
+    "aspiration": "TC"
+  },
+  {
     "model": "Peugeot L500R HYbrid Vision Gran Turismo, 2017",
     "transmission": "4RM",
     "power": 517,
@@ -3472,6 +3496,14 @@
     "aspiration": "TC"
   },
   {
+    "model": "Porsche 911 Turbo S Safety Car (992)",
+    "transmission": "4RM",
+    "power": 650,
+    "torque": 799.7,
+    "weight": 1640,
+    "aspiration": "TC"
+  },
+  {
     "model": "Porsche 917 LIVING LEGEND",
     "transmission": "MR",
     "power": 990,
@@ -3517,6 +3549,14 @@
     "power": 700,
     "torque": 709.5,
     "weight": 850,
+    "aspiration": "TC"
+  },
+  {
+    "model": "Porsche 963 '24",
+    "transmission": "MR",
+    "power": 680,
+    "torque": 671.8,
+    "weight": 1030,
     "aspiration": "TC"
   },
   {
