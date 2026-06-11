@@ -5,6 +5,8 @@ import { AppController } from './app.controller';
 import { PrismaModule } from './prisma/prisma.module';
 import { TracksModule } from './tracks/tracks.module';
 import { VehiclesModule } from './vehicles/vehicles.module';
+import { AuthModule } from './auth/auth.module';
+import { UsersModule } from './users/users.module';
 
 @Module({
   imports: [
@@ -14,6 +16,8 @@ import { VehiclesModule } from './vehicles/vehicles.module';
     PrismaModule,
     TracksModule,
     VehiclesModule,
+    AuthModule,
+    UsersModule,
   ],
   controllers: [AppController],
 })
