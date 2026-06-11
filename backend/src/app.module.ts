@@ -7,6 +7,7 @@ import { TracksModule } from './tracks/tracks.module';
 import { VehiclesModule } from './vehicles/vehicles.module';
 import { AuthModule } from './auth/auth.module';
 import { UsersModule } from './users/users.module';
+import { LeaguesModule } from './leagues/leagues.module';
 
 @Module({
   imports: [
@@ -18,6 +19,7 @@ import { UsersModule } from './users/users.module';
     VehiclesModule,
     AuthModule,
     UsersModule,
+    LeaguesModule,
   ],
   controllers: [AppController],
 })
