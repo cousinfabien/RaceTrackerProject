@@ -64,6 +64,7 @@ model DriverEntry {
   league             League          @relation(fields: [leagueId], references: [id])
   user               User            @relation(fields: [userId], references: [id])
   results            Result[]
+  @@unique([userId, leagueId])
 }
 
 model DriverCarSetup {

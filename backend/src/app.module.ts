@@ -8,6 +8,8 @@ import { VehiclesModule } from './vehicles/vehicles.module';
 import { AuthModule } from './auth/auth.module';
 import { UsersModule } from './users/users.module';
 import { LeaguesModule } from './leagues/leagues.module';
+import { RegulationsModule } from './regulations/regulations.module';
+import { DriversModule } from './drivers/drivers.module';
 
 @Module({
   imports: [
@@ -20,6 +22,8 @@ import { LeaguesModule } from './leagues/leagues.module';
     AuthModule,
     UsersModule,
     LeaguesModule,
+    RegulationsModule,
+    DriversModule,
   ],
   controllers: [AppController],
 })
