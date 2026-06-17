@@ -10,6 +10,7 @@ import { UsersModule } from './users/users.module';
 import { LeaguesModule } from './leagues/leagues.module';
 import { RegulationsModule } from './regulations/regulations.module';
 import { DriversModule } from './drivers/drivers.module';
+import { RacesModule } from './races/races.module';
 
 @Module({
   imports: [
@@ -24,6 +25,7 @@ import { DriversModule } from './drivers/drivers.module';
     LeaguesModule,
     RegulationsModule,
     DriversModule,
+    RacesModule,
   ],
   controllers: [AppController],
 })
