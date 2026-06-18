@@ -11,6 +11,8 @@ import { LeaguesModule } from './leagues/leagues.module';
 import { RegulationsModule } from './regulations/regulations.module';
 import { DriversModule } from './drivers/drivers.module';
 import { RacesModule } from './races/races.module';
+import { ResultsModule } from './results/results.module';
+import { CarSetupModule } from './car-setup/car-setup.module';
 
 @Module({
   imports: [
@@ -26,6 +28,8 @@ import { RacesModule } from './races/races.module';
     RegulationsModule,
     DriversModule,
     RacesModule,
+    ResultsModule,
+    CarSetupModule,
   ],
   controllers: [AppController],
 })
