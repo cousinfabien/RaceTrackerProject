@@ -13,6 +13,9 @@ import { DriversModule } from './drivers/drivers.module';
 import { RacesModule } from './races/races.module';
 import { ResultsModule } from './results/results.module';
 import { CarSetupModule } from './car-setup/car-setup.module';
+import { UploadsModule } from './uploads/uploads.module';
+import { OcrModule } from './ocr/ocr.module';
+import { AiValidationModule } from './ai-validation/ai-validation.module';
 
 @Module({
   imports: [
@@ -30,6 +33,9 @@ import { CarSetupModule } from './car-setup/car-setup.module';
     RacesModule,
     ResultsModule,
     CarSetupModule,
+    UploadsModule,
+    OcrModule,
+    AiValidationModule,
   ],
   controllers: [AppController],
 })
