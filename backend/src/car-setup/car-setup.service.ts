@@ -4,6 +4,7 @@ import {
   Injectable,
   NotFoundException,
 } from '@nestjs/common';
+import { Regulation } from '@prisma/client';
 import { PrismaService } from '../prisma/prisma.service';
 import { CreateCarSetupDto } from './dto/create-car-setup.dto';
 import { UpdateCarSetupDto } from './dto/update-car-setup.dto';
@@ -98,36 +99,21 @@ export class CarSetupService {
     };
   }
 
-  async checkCompliance(driverEntryId: number) {
-    const setup = await this.prisma.driverCarSetup.findUnique({
-      where: { driverEntryId },
-      include: {
-        driverEntry: {
-          include: {
-            league: {
-              include: {
-                regulations: true,
-              },
-            },
-          },
-        },
-        vehicleModel: true,
-      },
-    });
-    if (!setup) {
-      throw new NotFoundException('Setup not found');
-    }
-    const regulation = setup.driverEntry.league.regulations;
-
-    if (!regulation) {
-      throw new NotFoundException('League regulation not found');
-    }
-
+  validateSetup(
+    setup: {
+      currentPP: number;
+      currentPower: number;
+      currentWeight: number;
+      tyres: string;
+    },
+    regulation: Regulation,
+  ) {
     const errors: string[] = [];
 
-    if (Number(setup.currentPP) > Number(regulation.maxPP)) {
+    if (setup.currentPP > Number(regulation.maxPP)) {
       errors.push('PP exceeds maximum allowed');
     }
+
     if (setup.currentPower > regulation.maxPower) {
       errors.push('Power exceeds maximum allowed');
     }
@@ -144,5 +130,43 @@ export class CarSetupService {
       compliant: errors.length === 0,
       errors,
     };
+  }
+
+  async checkCompliance(driverEntryId: number) {
+    const setup = await this.prisma.driverCarSetup.findUnique({
+      where: { driverEntryId },
+      include: {
+        driverEntry: {
+          include: {
+            league: {
+              include: {
+                regulations: true,
+              },
+            },
+          },
+        },
+        vehicleModel: true,
+      },
+    });
+
+    if (!setup) {
+      throw new NotFoundException('Setup not found');
+    }
+
+    const regulation = setup.driverEntry.league.regulations;
+
+    if (!regulation) {
+      throw new NotFoundException('League regulation not found');
+    }
+
+    return this.validateSetup(
+      {
+        currentPP: Number(setup.currentPP),
+        currentPower: setup.currentPower,
+        currentWeight: setup.currentWeight,
+        tyres: setup.tyres,
+      },
+      regulation,
+    );
   }
 }
