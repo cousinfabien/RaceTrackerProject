@@ -121,7 +121,7 @@ npm run dev
 Frontend runs on:
 
 ```text
-http://localhost:3000
+http://localhost:5173
 ```
 
 ---
@@ -137,7 +137,7 @@ npm run start:dev
 Backend runs on:
 
 ```text
-http://localhost:3001
+http://localhost:3000
 ```
 
 ---
