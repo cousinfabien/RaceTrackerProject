@@ -8,6 +8,7 @@ import LeagueCreatePage from '../pages/LeagueCreate/LeagueCreatePage';
 import ProfilePage from '../pages/Profile/ProfilePage';
 import LeagueRegulationsPage from '../pages/LeagueRegulations/LeagueRegulationsPage';
 import RaceCreatePage from '../pages/League/RaceCreatePage';
+import BrowseLeaguesPage from '../pages/League/BrowseLeaguesPage';
 
 import ProtectedRoute from '../components/ProtectedRoute';
 
@@ -70,6 +71,20 @@ export default function AppRoutes() {
             <RaceCreatePage />
           </ProtectedRoute> 
         }
+      />
+
+      <Route
+        path="/league/:id/races/create"
+        element={
+        <ProtectedRoute>
+          <RaceCreatePage />
+        </ProtectedRoute>
+        }
+      />
+
+      <Route
+        path="/leagues"
+        element={<BrowseLeaguesPage />}
       />
       </Routes>
       

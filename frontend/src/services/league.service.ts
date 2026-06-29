@@ -24,3 +24,9 @@ export async function getMyLeagues() {
 
   return response.data;
 }
+
+export const getAllLeagues = async () => {
+  const response = await api.get('/leagues');
+
+  return response.data;
+};

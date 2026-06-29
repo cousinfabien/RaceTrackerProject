@@ -62,14 +62,15 @@ export default function DashboardPage() {
           </button>
 
           <button
-            className="rounded-xl border border-slate-700 bg-slate-800 p-6 text-left opacity-50"
+            onClick={() => navigate('/leagues')}
+            className="rounded-xl border border-slate-700 bg-slate-800 p-6 text-left transition hover:bg-slate-700"
           >
             <h2 className="mb-2 text-xl font-semibold">
-              Join League
+              Browse Leagues
             </h2>
 
             <p className="text-slate-400">
-              Coming soon
+              Explore and join championships.
             </p>
           </button>
         </div>
