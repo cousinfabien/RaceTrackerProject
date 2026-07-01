@@ -1,11 +1,15 @@
 import { useEffect, useState } from 'react';
 import { useNavigate, useParams } from 'react-router-dom';
+import { useAuthStore } from '../../store/auth.store';
 
 import AppLayout from '../../components/layout/AppLayout';
 
 import { getLeague } from '../../services/league-details.service';
 import { joinLeague } from '../../services/driver.service';
 import axios from 'axios';
+import { getStandings } from '../../services/standings.service';
+import { getDriverResults } from '../../services/results.service';
+import { getTitleStatus } from '../../services/results.service';
 
 interface Race {
   id: number | string;
@@ -39,6 +43,7 @@ interface League {
   name: string;
   description: string;
   organizer: {
+    id: number
     username: string;
   };
 
@@ -60,18 +65,66 @@ interface League {
   drivers: Driver[];
 }
 
+interface Standing {
+  rank: number;
+  points: number;
+  driverEntryId: number;
+
+  user: {
+    id: number;
+    username: string;
+  };
+
+  carSetup?: {
+    vehicleModel?: {
+      name: string;
+    };
+  };
+}
+
+interface DriverResult {
+  [key: string]: unknown;
+}
+
+interface TitleStatus {
+  stillInContention: boolean;
+  [key: string]: unknown;
+}
+
 export default function LeaguePage() {
   const { id } = useParams();
   const navigate = useNavigate();
 
+  const user = useAuthStore(
+    (state) => state.user,
+  );
+
+  const [expandedDriver, setExpandedDriver] =
+    useState<number | null>(null);
+  
+  const [driverResults, setDriverResults] =
+    useState<Record<number, DriverResult[]>>({});
+
   const [league, setLeague] =
     useState<League | null>(null);
+
+  
+
+  const [standings, setStandings] =
+  useState<Standing[]>([]);
+
+  const isOrganizer = user?.id === league?.organizer.id;
 
   const [loading, setLoading] =
     useState(true);
   const [joining, setJoining] =
     useState(false);
-  
+
+
+  const [titleStatus, setTitleStatus] =
+    useState<Record<number, TitleStatus>>({});
+
+
 const handleJoinLeague = async () => {
   try {
     setJoining(true);
@@ -108,14 +161,69 @@ const handleJoinLeague = async () => {
   }
 };
 
+const handleDriverClick = async (
+  entry: Standing,
+) => {
+  if (
+    expandedDriver ===
+    entry.driverEntryId
+  ) {
+    setExpandedDriver(null);
+    return;
+  }
+
+  setExpandedDriver(
+    entry.driverEntryId,
+  );
+
+  if (
+    driverResults[
+      entry.driverEntryId
+    ]
+  ) {
+    return;
+  }
+
+  try {
+    const results =
+      await getDriverResults(
+        entry.driverEntryId,
+      );
+    
+    const status =
+      await getTitleStatus(
+      Number(id),
+      entry.driverEntryId,
+    );
+
+    setTitleStatus((prev) => ({
+      ...prev,
+      [entry.driverEntryId]: status,
+    }));
+
+    setDriverResults((prev) => ({
+      ...prev,
+      [entry.driverEntryId]:
+        results,
+    }));
+  } catch (error) {
+    console.error(error);
+  }
+};
+
   useEffect(() => {
     const loadLeague = async () => {
       try {
         const data = await getLeague(
           Number(id),
         );
-
         setLeague(data);
+
+       const standingsData =
+        await getStandings(Number(id));
+
+            setStandings(standingsData);
+
       } catch (error) {
         console.error(error);
       } finally {
@@ -230,14 +338,16 @@ const handleJoinLeague = async () => {
                 No regulations configured yet.
               </p>
 
-            <button
-              onClick={() =>
-              navigate(`/league/${id}/regulations`)
-             }
-            className="rounded-lg bg-blue-600 px-4 py-2 font-medium hover:bg-blue-500"
-            >
-              Configure Regulations
-            </button>
+            {isOrganizer && (
+              <button
+                onClick={() => 
+                  navigate(`/league/${id}/regulations`)
+                }
+                className="rounded-lg bg-blue-600 px-4 py-2 font-medium hover:bg-blue-500"
+                >
+                  Configure Regulations
+                </button>
+            )}
           </div>
           )}
         </section>
@@ -248,6 +358,7 @@ const handleJoinLeague = async () => {
             Calendar
           </h2>
 
+          {isOrganizer && (
           <button
             onClick={() =>
             navigate(`/league/${id}/races/create`)
@@ -256,6 +367,7 @@ const handleJoinLeague = async () => {
           >
             Add Race
           </button>
+          )}
         </div>
 
           {league.races.length === 0 ? (
@@ -343,55 +455,173 @@ const handleJoinLeague = async () => {
                         }
                       </div>
                     </div>
+                    <div className="mt-4 flex gap-2">
+                      <button
+                        onClick={() =>
+                          navigate(
+                            `/race/${race.id}/results`,
+                          )
+                        }
+                        className="rounded-lg bg-slate-700 px-4 py-2 font-medium hover:bg-slate-600"
+                      >
+                        View Results
+                      </button>
+
+                      {isOrganizer && (
+                        <button
+                          onClick={() =>
+                            navigate(
+                            `/races/${race.id}/results/create`,
+                          )
+                        }
+                        className="rounded-lg bg-blue-600 px-4 py-2 font-medium hover:bg-blue-500"
+                      >
+                        Enter Results
+                      </button>
+                    )}
                   </div>
                 </div>
-              ),
-            )}
+              </div>
+            ),
+          )}
+
+            <button
+              onClick={() =>
+              navigate(
+                `/league/${id}/scrutineering`,
+              )
+            }
+              className="rounded-lg bg-green-600 px-4 py-2 font-medium hover:bg-green-500"
+            >
+              Submit Car For Scrutineering
+            </button>
           </div>
         )}
       </section>
 
         <section className="rounded-xl border border-slate-700 bg-slate-800 p-6">
           <h2 className="mb-4 text-2xl font-bold">
-            Participants (
-            {league._count.drivers})
+            Championship Standings
           </h2>
 
-          {league.drivers.length === 0 ? (
+          {standings.length === 0 ? (
             <p className="text-slate-400">
-              No participants registered
-              yet.
+              No results entered yet.
             </p>
           ) : (
-            <div className="space-y-3">
-              {league.drivers.map(
-                (
-                  driver: Driver,
-                ) => (
-                  <div
-                    key={driver.id}
-                    className="flex items-center justify-between rounded-lg border border-slate-700 bg-slate-900 p-4"
-                  >
-                    <span>
-                      {
-                        driver.user
-                          .username
-                      }
-                    </span>
+          <div className="space-y-3">
+            {standings.map((entry: Standing) => {
+              const entryTitleStatus =
+                titleStatus[entry.driverEntryId];
+              const status = entryTitleStatus?.status;
 
-                    <span className="text-slate-400">
-                      {
-                        driver.championshipPoints
-                      }{' '}
-                      pts
+              return (
+                <div
+                  key={entry.user.id}
+                  className="rounded-lg border border-slate-700 bg-slate-900"
+                >
+                  <button
+                    onClick={() =>
+                      handleDriverClick(entry)
+                    }
+                    className="flex w-full items-center justify-between p-4 text-left"
+                  >
+                    <div>
+                      <p className="font-bold">
+                        #{entry.rank}{' '}
+                        {entry.user.username}
+                      </p>
+
+                      <p className="text-sm text-slate-400">
+                        {entry.carSetup
+                          ?.vehicleModel?.name ??
+                          'No car submitted'}
+                      </p>
+                    </div>
+
+                    <span className="text-lg font-bold">
+                      {entry.points} pts
                     </span>
-                  </div>
-                ),
-              )}
-            </div>
-          )}
-        </section>
-      </div>
-    </AppLayout>
-  );
+                  </button>
+
+                  {expandedDriver ===
+                    entry.driverEntryId && (
+                    <div className="border-t border-slate-700 p-4">
+                      {entryTitleStatus && (
+                        <div
+                          className={`mb-4 rounded-lg p-3 ${
+                            status === 'eliminated'
+                              ? 'bg-red-900 text-red-200'
+                              : 'bg-green-900 text-green-200'
+                          }`}
+                        >
+                          {status === 'champion' && (
+                            <div className="mb-4 rounded-lg bg-yellow-900 p-3 text-yellow-200">
+                              🏆 Champion
+                            </div>
+                          )}
+
+                          {status === 'contender' && (
+                            <div className="mb-4 rounded-lg bg-green-900 p-3 text-green-200">
+                              🟢 Still in Championship Contention
+                            </div>
+                          )}
+
+                          {status === 'eliminated' && (
+                            <div className="mb-4 rounded-lg bg-red-900 p-3 text-red-200">
+                              🔴 Mathematically Eliminated
+                            </div>
+                          )}
+                        </div>
+                      )}
+
+                      <div className="space-y-3">
+                        {(
+                          driverResults[
+                            entry.driverEntryId
+                          ] as Array<{
+                            id: number;
+                            position: number;
+                            points: number;
+                            fastestLap: boolean;
+                            race: {
+                              track: {
+                                name: string;
+                              };
+                            };
+                          }>
+                        )?.map((result) => (
+                          <div
+                            key={result.id}
+                            className="rounded-lg border border-slate-700 bg-slate-800 p-3"
+                          >
+                            <div className="flex items-center justify-between">
+                              <span className="font-medium">
+                                {result.race.track.name}
+                              </span>
+
+                              <span className="font-bold">
+                                P{result.position}
+                              </span>
+                            </div>
+
+                            <div className="mt-1 text-sm text-slate-400">
+                              {result.points} pts
+                              {result.fastestLap &&
+                                ' • Fastest Lap'}
+                            </div>
+                          </div>
+                        ))}
+                      </div>
+                    </div>
+                  )}
+                </div>
+              );
+            })}
+    </div>
+    )}
+   </section>
+  </div>
+</AppLayout>
+);
 }

@@ -54,6 +54,13 @@ export class RacesService {
       where: { id },
       include: {
         track: true,
+
+        league: {
+          select: {
+            id: true,
+          },
+        },
+
         _count: {
           select: {
             results: true,

@@ -104,9 +104,9 @@ export class OcrService {
     const cleaned = tyre.trim();
 
     const mapping: Record<string, string> = {
-      'Course : Tendres': 'Race Soft',
-      'Course : Moyens': 'Race Medium',
-      'Course : Durs': 'Race Hard',
+      'Course : Tendres': 'Racing Soft',
+      'Course : Moyens': 'Racing Medium',
+      'Course : Durs': 'Racing Hard',
 
       'Sport : Tendres': 'Sport Soft',
       'Sport : Moyens': 'Sport Medium',

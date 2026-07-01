@@ -63,6 +63,25 @@ export class ResultsController {
     return this.resultsService.findStandings(leagueId);
   }
 
+  @Get('drivers/:driverEntryId/results')
+  findByDriver(
+    @Param('driverEntryId', ParseIntPipe)
+    driverEntryId: number,
+  ) {
+    return this.resultsService.findByDriver(driverEntryId);
+  }
+
+  @Get('leagues/:leagueId/title-status/:driverEntryId')
+  getTitleStatus(
+    @Param('leagueId', ParseIntPipe)
+    leagueId: number,
+
+    @Param('driverEntryId', ParseIntPipe)
+    driverEntryId: number,
+  ) {
+    return this.resultsService.getTitleStatus(leagueId, driverEntryId);
+  }
+
   @Patch('results/:id')
   @UseGuards(JwtAuthGuard)
   update(

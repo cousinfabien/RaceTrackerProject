@@ -1,5 +1,9 @@
+import axios from 'axios';
 import api from './api';
 
+
+
+const API_URL = 'http://localhost:3000';
 export interface CreateRaceDto {
   trackId: number;
   raceDate: string;
@@ -18,6 +22,17 @@ export const createRace = async (
     `/leagues/${leagueId}/races`,
     data,
   );
+
+  return response.data;
+};
+
+export async function getRace(
+  raceId: number,
+) {
+  const response = await axios.get(
+    `${API_URL}/races/${raceId}`,
+  );
+
 
   return response.data;
 };

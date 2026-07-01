@@ -9,6 +9,9 @@ import ProfilePage from '../pages/Profile/ProfilePage';
 import LeagueRegulationsPage from '../pages/LeagueRegulations/LeagueRegulationsPage';
 import RaceCreatePage from '../pages/League/RaceCreatePage';
 import BrowseLeaguesPage from '../pages/League/BrowseLeaguesPage';
+import ScrutineeringPage from '../pages/League/ScrutineeringPage';
+import RaceResultsPage from '../pages/League/RaceResultsPage';
+import ResultsCreatePage from '../pages/Results/ResultsCreatePage';
 
 import ProtectedRoute from '../components/ProtectedRoute';
 
@@ -58,36 +61,50 @@ export default function AppRoutes() {
         <Route
           path="/league/:id/regulations"
           element={
-            <ProtectedRoute> 
+            <ProtectedRoute>
               <LeagueRegulationsPage />
-            </ProtectedRoute> 
+            </ProtectedRoute>
           }
         />
 
         <Route
           path="/league/:id/races/create"
           element={
-          <ProtectedRoute>
-            <RaceCreatePage />
-          </ProtectedRoute> 
-        }
-      />
+            <ProtectedRoute>
+              <RaceCreatePage />
+            </ProtectedRoute>
+          }
+        />
 
-      <Route
-        path="/league/:id/races/create"
-        element={
-        <ProtectedRoute>
-          <RaceCreatePage />
-        </ProtectedRoute>
-        }
-      />
+        <Route
+          path="/league/:id/races/create"
+          element={
+            <ProtectedRoute>
+              <RaceCreatePage />
+            </ProtectedRoute>
+          }
+        />
 
-      <Route
-        path="/leagues"
-        element={<BrowseLeaguesPage />}
-      />
+        <Route
+          path="/league/:id/scrutineering"
+          element={
+            <ProtectedRoute>
+              <ScrutineeringPage />
+            </ProtectedRoute>
+          }
+        />
+          <Route
+            path="/race/:id/results"
+            element={<RaceResultsPage />}
+        />
+
+        <Route
+          path="/races/:raceId/results/create"
+          element={<ResultsCreatePage />}
+        />
+
+        <Route path="/leagues" element={<BrowseLeaguesPage />} />
       </Routes>
-      
     </BrowserRouter>
   );
 }

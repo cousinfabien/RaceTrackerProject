@@ -9,3 +9,13 @@ export const joinLeague = async (
 
   return response.data;
 };
+
+export const getLeagueDrivers = async (
+  leagueId: number,
+) => {
+  const response = await api.get(
+    `/leagues/${leagueId}/drivers`,
+  );
+
+  return response.data;
+};

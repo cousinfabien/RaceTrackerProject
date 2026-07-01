@@ -26,21 +26,31 @@ export default function AppLayout({
   const [logoMenuOpen, setLogoMenuOpen] =
     useState(false);
 
-  const menuRef =
-    useRef<HTMLDivElement>(null);
+  const logoMenuRef =
+  useRef<HTMLDivElement>(null);
+
+  const profileMenuRef =
+  useRef<HTMLDivElement>(null);
 
   useEffect(() => {
     function handleClickOutside(
       event: MouseEvent,
     ) {
       if (
-        menuRef.current &&
-        !menuRef.current.contains(
+        logoMenuRef.current &&
+        !logoMenuRef.current.contains(
+          event.target as Node,
+        )
+      ) {
+        setLogoMenuOpen(false);
+      }
+      if (
+        profileMenuRef.current &&
+        !profileMenuRef.current.contains(
           event.target as Node,
         )
       ) {
         setProfileMenuOpen(false);
-        setLogoMenuOpen(false);
       }
     }
 
@@ -61,7 +71,7 @@ export default function AppLayout({
     <div className="min-h-screen bg-slate-900 text-white">
       <header className="flex items-center justify-between border-b border-white/20 bg-slate-800 px-4 py-3">
         <div
-          ref={menuRef}
+          ref={logoMenuRef}
           className="relative"
         >
           <button
