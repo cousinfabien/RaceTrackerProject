@@ -13,4 +13,10 @@ export class UsersController {
   me(@Request() req: AuthenticatedRequest) {
     return this.usersService.findMe(req.user.userId);
   }
+
+  @Get('me/profile')
+  @UseGuards(JwtAuthGuard)
+  getProfile(@Request() req: AuthenticatedRequest) {
+    return this.usersService.findMe(req.user.userId);
+  }
 }
