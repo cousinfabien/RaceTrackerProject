@@ -44,8 +44,24 @@ export class LeaguesService {
           },
         },
         regulations: true,
-        races: true,
-        drivers: true,
+        races: {
+          include: {
+            track: true,
+          },
+          orderBy: {
+            raceDate: 'asc',
+          },
+        },
+        drivers: {
+          include: {
+            user: {
+              select: {
+                id: true,
+                username: true,
+              },
+            },
+          },
+        },
         _count: {
           select: {
             drivers: true,

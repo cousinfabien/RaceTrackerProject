@@ -14,6 +14,64 @@ import { UpdateResultDto } from './dto/update-result.dto';
 export class ResultsService {
   constructor(private readonly prisma: PrismaService) {}
 
+  async getTitleStatus(leagueId: number, driverEntryId: number) {
+    const standings = await this.findStandings(leagueId);
+    const leader = standings[0];
+
+    if (!leader) {
+      throw new NotFoundException('Standings not found');
+    }
+
+    const driver = standings.find(
+      (entry) => entry.driverEntryId === driverEntryId,
+    );
+
+    if (!driver) {
+      throw new NotFoundException('Driver not found in standings');
+    }
+
+    const league = await this.prisma.league.findUnique({
+      where: { id: leagueId },
+      include: {
+        races: {
+          include: {
+            results: true,
+          },
+        },
+      },
+    });
+
+    if (!league) {
+      throw new NotFoundException('League not found');
+    }
+
+    const completedRaces = league.races.filter(
+      (race) => race.results.length > 0,
+    ).length;
+    const remainingRaces = league.races.length - completedRaces;
+    const maxPossibleGain = remainingRaces * 25;
+    let status: 'champion' | 'contender' | 'eliminated';
+
+    if (remainingRaces === 0) {
+      status =
+        driver.driverEntryId === leader.driverEntryId
+          ? 'champion'
+          : 'eliminated';
+    } else {
+      status =
+        driver.points + maxPossibleGain >= leader.points
+          ? 'contender'
+          : 'eliminated';
+    }
+
+    return {
+      status,
+      leaderPoints: leader.points,
+      currentPoints: driver.points,
+      remainingRaces,
+    };
+  }
+
   async create(raceId: number, organizerId: number, dto: CreateResultDto) {
     const race = await this.prisma.race.findUnique({
       where: {
@@ -168,6 +226,7 @@ export class ResultsService {
     return entries.map((entry, index) => ({
       rank: index + 1,
       points: entry.championshipPoints,
+      driverEntryId: entry.id,
       user: entry.user,
       carSetup: entry.carSetup,
     }));
@@ -281,5 +340,25 @@ export class ResultsService {
     return {
       success: true,
     };
+  }
+
+  async findByDriver(driverEntryId: number) {
+    return this.prisma.result.findMany({
+      where: {
+        driverEntryId,
+      },
+      include: {
+        race: {
+          include: {
+            track: true,
+          },
+        },
+      },
+      orderBy: {
+        race: {
+          raceDate: 'asc',
+        },
+      },
+    });
   }
 }
