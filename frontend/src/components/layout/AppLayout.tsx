@@ -64,11 +64,6 @@ export default function AppLayout({
       path: '/create-league',
       icon: <FiPlusCircle size={18} />,
     },
-    {
-      label: 'Profile',
-      path: '/profile',
-      icon: <FiUser size={18} />,
-    },
   ];
 
   useEffect(() => {
