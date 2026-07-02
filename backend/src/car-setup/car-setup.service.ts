@@ -8,6 +8,7 @@ import { Regulation } from '@prisma/client';
 import { PrismaService } from '../prisma/prisma.service';
 import { CreateCarSetupDto } from './dto/create-car-setup.dto';
 import { UpdateCarSetupDto } from './dto/update-car-setup.dto';
+import { SaveScrutineeringDto } from './dto/save-scrutineering.dto';
 
 @Injectable()
 export class CarSetupService {
@@ -168,5 +169,59 @@ export class CarSetupService {
       },
       regulation,
     );
+  }
+
+  async saveSetup(
+    driverEntryId: number,
+    userId: number,
+    dto: SaveScrutineeringDto,
+  ) {
+    const driverEntry = await this.prisma.driverEntry.findUnique({
+      where: { id: driverEntryId },
+    });
+
+    if (!driverEntry) {
+      throw new NotFoundException('Driver entry not found');
+    }
+
+    if (driverEntry.userId !== userId) {
+      throw new ForbiddenException('Not your driver entry');
+    }
+    const existing = await this.prisma.driverCarSetup.findUnique({
+      where: {
+        driverEntryId: driverEntry.id,
+      },
+    });
+    if (existing) {
+      return this.prisma.driverCarSetup.update({
+        where: {
+          driverEntryId: driverEntry.id,
+        },
+        data: {
+          vehicleModelId: dto.vehicleModelId,
+          currentPP: dto.currentPP,
+          currentPower: dto.currentPower,
+          currentWeight: dto.currentWeight,
+          tyres: dto.tyres,
+        },
+        include: {
+          vehicleModel: true,
+        },
+      });
+    }
+
+    return this.prisma.driverCarSetup.create({
+      data: {
+        driverEntryId: driverEntry.id,
+        vehicleModelId: dto.vehicleModelId,
+        currentPP: dto.currentPP,
+        currentPower: dto.currentPower,
+        currentWeight: dto.currentWeight,
+        tyres: dto.tyres,
+      },
+      include: {
+        vehicleModel: true,
+      },
+    });
   }
 }

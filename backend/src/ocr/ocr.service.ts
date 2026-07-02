@@ -5,6 +5,10 @@ import { PrismaService } from 'src/prisma/prisma.service';
 import * as fs from 'fs';
 
 type ExtractedSetup = {
+  vehicleId: number | null;
+  manufacturer: string | null;
+  model: string | null;
+
   currentPP: number | null;
   currentPower: number | null;
   currentWeight: number | null;
@@ -29,7 +33,7 @@ export class OcrService {
 
     return {
       text,
-      setup: this.extractSetupData(text),
+      setup: await this.extractSetupData(text),
     };
   }
 
@@ -73,7 +77,7 @@ export class OcrService {
     };
   }
 
-  extractSetupData(text: string): ExtractedSetup {
+  async extractSetupData(text: string): Promise<ExtractedSetup> {
     const ppMatch = text.match(/PP\s+(\d+[,.]\d+)/);
     const currentPP = ppMatch ? Number(ppMatch[1].replace(',', '.')) : null;
 
@@ -92,7 +96,21 @@ export class OcrService {
     );
     const tyres = tyreMatch ? this.normalizeTyre(tyreMatch[0]) : null;
 
+    const vehicles = await this.prisma.vehicleModel.findMany({
+      select: {
+        id: true,
+        manufacturer: true,
+        model: true,
+      },
+    });
+    const matchedVehicle = vehicles.find((vehicle) =>
+      text.toLowerCase().includes(vehicle.model.toLowerCase()),
+    );
+
     return {
+      vehicleId: matchedVehicle?.id ?? null,
+      manufacturer: matchedVehicle?.manufacturer ?? null,
+      model: matchedVehicle?.model ?? null,
       currentPP,
       currentPower,
       currentWeight,

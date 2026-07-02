@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import { useParams } from 'react-router-dom';
+import { useNavigate } from 'react-router-dom';
 
 import AppLayout from '../../components/layout/AppLayout';
 
@@ -8,8 +9,14 @@ import {
   analyzeScreenshot,
 } from '../../services/scrutineering.service';
 
+import { saveSetup } from '../../services/car-setup.service';
+
 type ScrutineeringResult = {
   detectedSetup: {
+    vehicleId: number;
+    manufacturer: string;
+    model: string;
+
     currentPP: number;
     currentPower: number;
     currentWeight: number;
@@ -20,6 +27,8 @@ type ScrutineeringResult = {
 };
 
 export default function ScrutineeringPage() {
+  const navigate = useNavigate();
+
   const { id } = useParams();
 
   const [file, setFile] =
@@ -60,7 +69,37 @@ export default function ScrutineeringPage() {
     }
   };
 
+  const handleSaveVehicle = async () => {
+  if (!result) {
+    return;
+  }
+
+  try {
+    await saveSetup(Number(id), {
+      vehicleModelId:
+        result.detectedSetup.vehicleId,
+      currentPP:
+        result.detectedSetup.currentPP,
+      currentPower:
+        result.detectedSetup.currentPower,
+      currentWeight:
+        result.detectedSetup.currentWeight,
+      tyres:
+        result.detectedSetup.tyres,
+    });
+
+    alert('Vehicle saved');
+
+    navigate(`/league/${id}`);
+  } catch (error) {
+    console.error(error);
+
+    alert('Unable to save vehicle');
+  }
+};
+
   return (
+    
     <AppLayout>
       <div className="mx-auto max-w-3xl space-y-6">
 
@@ -125,42 +164,58 @@ export default function ScrutineeringPage() {
                 Detected Setup
               </h2>
 
-              <div className="space-y-2">
-                <p>
-                  PP:{' '}
-                  {
-                    result.detectedSetup
-                      .currentPP
-                  }
+              <div className="mb-6 rounded-lg border border-slate-600 bg-slate-900 p-4">
+                <p className="text-sm text-slate-400">
+                  Detected Vehicle
                 </p>
 
-                <p>
-                  Power:{' '}
-                  {
-                    result.detectedSetup
-                      .currentPower
-                  }{' '}
-                  hp
-                </p>
-
-                <p>
-                  Weight:{' '}
-                  {
-                    result.detectedSetup
-                      .currentWeight
-                  }{' '}
-                  kg
-                </p>
-
-                <p>
-                  Tyres:{' '}
-                  {
-                    result.detectedSetup
-                      .tyres
-                  }
+                <p className="mt-1 text-xl font-bold">
+                  {result.detectedSetup.manufacturer}{' '}
+                  {result.detectedSetup.model}
                 </p>
               </div>
-            </div>
+
+              <div className="grid grid-cols-2 gap-4">
+                <div className="rounded-lg bg-slate-900 p-3">
+                  <p className="text-sm text-slate-400">
+                    PP
+                  </p>
+
+                  <p className="text-xl font-bold">
+                    {result.detectedSetup.currentPP}
+                  </p>
+                </div>
+
+                <div className="rounded-lg bg-slate-900 p-3">
+                  <p className="text-sm text-slate-400">
+                    Power
+                  </p>
+
+                  <p className="text-xl font-bold">
+                    {result.detectedSetup.currentPower} hp
+                  </p>
+                </div>
+
+                <div className="rounded-lg bg-slate-900 p-3">
+                  <p className="text-sm text-slate-400">
+                    Weight
+                  </p>
+
+                  <p className="text-xl font-bold">
+                    {result.detectedSetup.currentWeight} kg
+                  </p>
+                </div>
+
+                <div className="rounded-lg bg-slate-900 p-3">
+                  <p className="text-sm text-slate-400">
+                    Tyres
+                  </p>
+                  <p className="text-xl font-bold">
+                    {result.detectedSetup.tyres}
+                  </p>
+                </div>
+              </div>
+            </div>  
 
             <div
               className={`rounded-xl p-6 ${
@@ -174,6 +229,13 @@ export default function ScrutineeringPage() {
                   <h2 className="text-2xl font-bold text-green-400">
                     ✅ Vehicle Compliant
                   </h2>
+
+                  <button
+                    onClick={handleSaveVehicle}
+                    className="mt-4 rounded-lg bg-green-600 px-4 py-2 font-medium hover:bg-green-500"
+                  >
+                    Save Vehicle
+                  </button>
 
                   <p className="mt-2 text-green-300">
                     Your vehicle respects
