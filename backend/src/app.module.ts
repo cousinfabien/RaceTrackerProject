@@ -16,6 +16,7 @@ import { CarSetupModule } from './car-setup/car-setup.module';
 import { UploadsModule } from './uploads/uploads.module';
 import { OcrModule } from './ocr/ocr.module';
 import { AiValidationModule } from './ai-validation/ai-validation.module';
+import { ProfileModule } from './profile/profile.module';
 
 @Module({
   imports: [
@@ -36,6 +37,7 @@ import { AiValidationModule } from './ai-validation/ai-validation.module';
     UploadsModule,
     OcrModule,
     AiValidationModule,
+    ProfileModule,
   ],
   controllers: [AppController],
 })

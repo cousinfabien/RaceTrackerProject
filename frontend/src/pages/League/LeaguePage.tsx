@@ -77,7 +77,8 @@ interface Standing {
 
   carSetup?: {
     vehicleModel?: {
-      name: string;
+      manufacturer: true;
+      model: true;
     };
   };
 }
@@ -533,9 +534,9 @@ const handleDriverClick = async (
                       </p>
 
                       <p className="text-sm text-slate-400">
-                        {entry.carSetup
-                          ?.vehicleModel?.name ??
-                          'No car submitted'}
+                        {entry.carSetup?.vehicleModel?.manufacturer && entry.carSetup?.vehicleModel?.model
+                          ? `${entry.carSetup.vehicleModel.manufacturer} ${entry.carSetup.vehicleModel.model}`
+                          : 'No car submitted'}
                       </p>
                     </div>
 

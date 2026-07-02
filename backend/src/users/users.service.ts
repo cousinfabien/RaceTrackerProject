@@ -19,4 +19,36 @@ export class UsersService {
       },
     });
   }
+
+  async getProfile(userId: number) {
+    return this.prisma.user.findUnique({
+      where: {
+        id: userId,
+      },
+      include: {
+        driverEntries: {
+          include: {
+            league: {
+              select: {
+                id: true,
+                name: true,
+              },
+            },
+            carSetup: {
+              include: {
+                vehicleModel: true,
+              },
+            },
+            results: true,
+          },
+        },
+        organizedLeagues: {
+          select: {
+            id: true,
+            name: true,
+          },
+        },
+      },
+    });
+  }
 }
