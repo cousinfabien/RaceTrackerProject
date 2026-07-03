@@ -84,6 +84,17 @@ This project is currently developed as part of an academic MVP development proce
 
 ---
 
+## Architecture
+<img width="5861" height="2736" alt="Untitled diagram-2026-05-22-123705" src="https://github.com/user-attachments/assets/b38ecb9b-8d12-45a0-b44b-cd022155f5a2" />
+
+---
+
+## Database Diagram
+<img width="5458" height="7557" alt="User-Centric Application-2026-05-20-081220" src="https://github.com/user-attachments/assets/272f40b0-c967-4af2-a164-d9f22aa89d2d" />
+
+
+---
+
 # Project Structure
 
 ```text
