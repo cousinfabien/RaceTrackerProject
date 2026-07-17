@@ -551,9 +551,11 @@ const handleDriverClick = async (
                       {entryTitleStatus && (
                         <div
                           className={`mb-4 rounded-lg p-3 ${
-                            status === 'eliminated'
-                              ? 'bg-red-900 text-red-200'
-                              : 'bg-green-900 text-green-200'
+                            status === 'champion'
+                              ? 'bg-yellow-900 text-yellow-200'
+                            : status === 'eliminated'
+                               ? 'bg-red-900 text-red-200'
+                               : 'bg-green-900 text-green-200'
                           }`}
                         >
                           {status === 'champion' && (
